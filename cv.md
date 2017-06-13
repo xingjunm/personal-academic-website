@@ -1,10 +1,10 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
+summary: "Xingjun Ma's Resume"
+cv_title: Xingjun Ma
 cv_subtitle: Political Economist
-location: Bergen
-phone: 
+location: Melbourne, Australia
+phone: (+61)411393231
 contact_name: OleVik.net/Contact
 contact_link: http://olevik.net/contact
 linkedin_name: LinkedIn/OleHHVik

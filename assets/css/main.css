@@ -47,8 +47,8 @@ body {
 	line-height: 1.8;
 	background-color: rgb(241, 241, 241);
 }
-body p {font-size: 1.1em;}
-body blockquote p {font-size: 1.4em;}
+body p {font-size: 0.8em;}
+body blockquote p {font-size: 1.0em;}
 
 /* Ensure full-height columns */
 .container-fluid,

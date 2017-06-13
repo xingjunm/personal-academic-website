@@ -28,7 +28,7 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-sm-12">
-													<h3 class="title">{{ page.cv_title }}</h3>
+													<h4 class="title">{{ page.cv_title }}</h4>
 												</div>
 											</div>
 											<div class="row">
@@ -38,22 +38,23 @@
 											</div>
 											<div class="row">
 												<div class="col-md-8 col-sm-12">
-													<h4 class="subtitle">{{ page.cv_subtitle }}</h4>
+													<h5 class="subtitle">{{ page.cv_subtitle }}</h5>
 												</div>
 												<div class="col-md-4 hidden-sm-down">
 													<ul class="nav nav-pills nav-stacked">
 														<li class="nav-item text-sm-right">{{ page.location }}</li>
 														<li class="nav-item text-sm-right">{{ page.phone }}</li>
+														<li class="nav-item text-sm-right">{{ page.email }}</li>
 														<li class="nav-item text-sm-right">
 															<a href="{{ page.contact_link }}">
 																{{ page.contact_name }}
 															</a>
 														</li>
-														<li class="nav-item text-sm-right">
+														<!--<li class="nav-item text-sm-right">
 															<a href="{{ page.linkedin_link }}">
 																{{ page.linkedin_name }}
 															</a>
-														</li>
+														</li> -->
 													</ul>
 												</div>
 											</div>
@@ -69,7 +70,7 @@
 													
 												</div>
 												<div class="col-sm-10">
-													<h5 class="experience">Experience</h5>
+													<h6 class="experience">Experience</h6>
 												</div>
 											</div>
 											{% for item in page.experience %}
@@ -88,7 +89,7 @@
 													
 												</div>
 												<div class="col-sm-10">
-													<h5 class="education">Education</h5>
+													<h6 class="education">Education</h6>
 												</div>
 											</div>
 											{% for item in page.education %}
@@ -107,7 +108,7 @@
 													
 												</div>
 												<div class="col-sm-10">
-													<h5 class="positions">Positions</h5>
+													<h6 class="positions">Positions</h6>
 												</div>
 											</div>
 											{% for item in page.positions %}
@@ -126,7 +127,7 @@
 													
 												</div>
 												<div class="col-sm-10">
-													<h3 class="miscellaneous">Miscellaneous</h5>
+													<h6 class="miscellaneous">Miscellaneous</h6>
 												</div>
 											</div>
 											<div class="row">

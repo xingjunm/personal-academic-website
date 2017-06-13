@@ -4,7 +4,7 @@ summary: "About Me."
 date: 2017-06-13
 layout: default
 ---
-![alt text](http://path/to/img.jpg)
+![alt text](assets/images/xingjunma.jpg =100x)
 
 I am a 3rd-year Ph.D candidate in the Department of Computing and Information Systems at the University of Melbourne, under the supervision of Prof. James Bailey and Dr. Sudanthi Wijewickrema (Department of Surgery, University of Melbourne).
 

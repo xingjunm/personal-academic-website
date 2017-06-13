@@ -5,7 +5,7 @@ date: 2017-06-13
 layout: default
 ---
 
-<img style="float: right;" src="assets/images/xingjunma.jpg" alt="Drawing" style="width: 200px;"/>  
+<img style="float: right;" src="assets/images/xingjunma.jpg" alt="Drawing" style="width: 160px;"/>  
 
 I am a 3rd-year Ph.D candidate in the Department of Computing and Information Systems at the University of Melbourne, under the supervision of Prof. James Bailey and Dr. Sudanthi Wijewickrema (Department of Surgery, University of Melbourne).
 

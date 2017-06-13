@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'Montserrat';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 200;
     src: url('montserrat-regular-webfont.eot');
     }
 
@@ -25,7 +25,7 @@
 @font-face {
     font-family: 'Montserrat';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     src: url('montserrat-bold-webfont.eot');
     }
 

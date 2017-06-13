@@ -1,20 +1,15 @@
 ---
 title: "Research"
-summary: "About this page."
-date: 2016-04-13
+summary: "Research."
+date: 2017-06-13
 layout: default
 ---
 
-"Research" introductory paragraph.
+#### Artificial Intelligence in Simulation-based Training
+---
+**_Project Goal_**: To provide feedback to trainees in virtual training environments to support skill learning and decision making.  
+  
+Virtual reality (VR) based training is a modern training methodology that involves practice and learning in simulated (as opposed to physical) environments such as VR surgery/flight/driving simulators. Providing real-time tutoring feedback in such an environment is a challenging task. In this project, we explore and apply supervised data mining techniques to generate real-time feedback from available expert/novice behavioural samples, and validate these techniques in a VR surgical environment.
 
-## Project One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+#### Understanding and explaining the adversarial property of deep neural networks
 
-## Project Two
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
-
-## Project Three
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
-
-## Project Four
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.

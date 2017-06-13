@@ -1,10 +1,13 @@
 ---
-title: "Media"
-summary: "About this page."
-date: 2016-04-02
+title: "Latest Events"
+summary: "Latest Events."
+date: 2017-06-13
 layout: default
 ---
 
-"Media" introductory paragraph.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+1. **_August 14 2017_**: I will give a presentation about my accepted paper in the the 26th International Joint Conference on Artificial Intelligence ([IJCAI](https://ijcai-17.org/)), Melbourne, 2017.
+  
+---
+  
+2. **_Sep. 10 - Sep. 14_**: I will attend the 20th International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI](http://www.miccai2017.org/)), Quebec City, Canada, 2017.

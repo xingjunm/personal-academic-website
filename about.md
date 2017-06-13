@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Xingjun Ma"
 summary: "About Me."
 date: 2017-06-13
 layout: default

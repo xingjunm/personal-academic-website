@@ -285,11 +285,11 @@ pre {
 	h3,
 	h4,
 	h5 {margin: .25em 0 .5em;}
-	h1 {font-size: 28pt;}
-	h2 {font-size: 24pt;}
-	h3 {font-size: 20pt;}
-	h4 {font-size: 16pt;}
-	h5 {font-size: 14pt;}
+	h1 {font-size: 3zz6.621pt;}
+	h2 {font-size: 29.297pt;}
+	h3 {font-size: 23.438pt;}
+	h4 {font-size: 18.75pt;}
+	h5 {font-size: 15pt;}
 	.col-sm-2,
 	.col-sm-4,
 	.col-sm-7,
@@ -341,7 +341,7 @@ pre {
 		left: 0.25em;
 	}
 	main header.mobile_header {margin-bottom: 1em;}
-	main header h2 {font-size: 2em;}
+	main header h3 {font-size: 2em;}
 	main article,
 	main footer {padding: 1em;}
 }

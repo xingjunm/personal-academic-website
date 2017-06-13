@@ -47,7 +47,7 @@ body {
 	line-height: 1.8;
 	background-color: rgb(241, 241, 241);
 }
-body p {font-size: 0.8em;}
+body p {font-size: 1.2em;}
 body blockquote p {font-size: 1.0em;}
 
 /* Ensure full-height columns */
@@ -226,7 +226,7 @@ pre {
 .cv .container-fluid .row {min-height: auto;}
 .cv article {
 	padding: 2em 1.5em;
-	font-size: 0.8em;
+	font-size: 1.0em;
 	line-height: 1.5;
 }
 .cv h3 {margin-top: 1em;}

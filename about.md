@@ -1,12 +1,13 @@
 ---
-title: "About"
-summary: "About this page."
-date: 2016-04-13
+title: "About Me"
+summary: "About Me."
+date: 2017-06-13
 layout: default
 ---
+![Researcher Portrait](assets/images/xingjunma.jpg "Xingjun Ma")
 
-"About" introductory paragraph.
+I am a 3rd-year Ph.D candidate in the Department of Computing and Information Systems at the University of Melbourne, under the supervision of Prof. James Bailey and Dr. Sudanthi Wijewickrema (Department of Surgery, University of Melbourne).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+I received my Master of Software Engineering from Tsinghua Univeristy (China, 2015), and my Bachelor of Software Engineering from Jilin University (China, 2010).
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+I work in the area of artificial intelligence (AI) and adversarial learning (AL), and my recent work focuses on theoretical aspects of adversarial learning and AI in virtual reality based surgical training.

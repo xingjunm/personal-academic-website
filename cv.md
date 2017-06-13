@@ -2,13 +2,6 @@
 title: CV
 summary: "Xingjun Ma's Resume"
 cv_title: Xingjun Ma
-cv_subtitle: Political Economist
-location: Melbourne, Australia
-phone: (+61)411393231
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2015-
     name: Research Assistant
@@ -53,8 +46,6 @@ positions:
     location: Board Member
     description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
 misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
-date: 2016-04-02
+date: 2017-06-13
 layout: cv
 ---
-
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.

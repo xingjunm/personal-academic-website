@@ -1,18 +1,27 @@
 ---
 title: "Papers"
-summary: "About this page."
-date: 2016-04-13
+summary: "Papers."
+date: 2017-06-13
 layout: default
 ---
 
-"Papers" introductory paragraph.
+### 2017
+---
+Adversarial generation of real-time feedback with neural networks for simulation-based training. Xingjun Ma, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary, James Bailey. To appear in Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), Melbourne, 2017. Available [here](https://arxiv.org/pdf/1703.01460.pdf).  
 
-## Working papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+Providing Effective Real-time Feedback in Simulation-based Surgical Training. Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. To appear in Proceedings of the 20th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Quebec City, Canada, 2017. Available [here]().  
 
-## Published papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+Unbiased Multivariate Correlation Analysis. Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia. Appeared in Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), February 4-9, San Francisco, USA, 2017. Available [here](http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf).  
 
-Here is a paper, which you can find at [ResearchGate](http://dx.doi.org/10.13140/RG.2.1.1137.2247).
+Simulation for Training Cochlear Implant Electrode Insertion. Xingjun Ma, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy and Stephen O'Leary. To appear in Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017. Available [here](http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-2.pdf).  
 
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B-xXQEsWEjrUUmpBdkhIVS10YjA/preview" width="100%" height="768"></iframe>
+
+Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery. Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary. To appear in Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017. Available [here](http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf).  
+
+
+Feedback Techniques in Computer-Based Simulation Training: A Survey. Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. arXiv preprint arXiv:1705.04683 (2017). Available [here](https://arxiv.org/pdf/1705.04683.pdf).  
+
+### 2016
+---
+Finding Influentials in Twitter: A Temporal Influence Ranking Model. Xingjun Ma, Chunping Li, James Bailey and Sudanthi Wijewickrema. Appeared in Proceedings of the 14th Australasian Data Mining (AusDM) Conference, Canberra, Australia, 2016. Available [here](https://arxiv.org/pdf/1703.01468.pdf).  
+

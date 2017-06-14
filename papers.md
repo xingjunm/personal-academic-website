@@ -7,9 +7,30 @@ layout: default
 
 ###### 2017
 ---
-<small>Adversarial generation of real-time feedback with neural networks for simulation-based training. Xingjun Ma, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary, James Bailey. To appear in Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), Melbourne, 2017. Available [here](https://arxiv.org/pdf/1703.01460.pdf).</small>  
+<p>
+<strong>
+Adversarial generation of real-time feedback with neural networks for simulation-based training.
+</strong>
+Xingjun Ma,
+Sudanthi Wijewickrema,
+Shuo Zhou,
+Yun Zhou,
+Zakaria Mhammedi,
+Stephen O'Leary,
+James Bailey.
+To appear in 
+<em>Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI)</em>, Melbourne, 2017.
+Available <a href="https://arxiv.org/pdf/1703.01460.pdf>here</a>
+<p>
 
-<small>Providing Effective Real-time Feedback in Simulation-based Surgical Training. Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. To appear in Proceedings of the 20th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Quebec City, Canada, 2017. Available [here]().</small>  
+<p>
+<strong>
+Providing Effective Real-time Feedback in Simulation-based Surgical Training.
+</strong>
+Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. To appear in 
+<em>Proceedings of the 20th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI),</em> Quebec City, Canada, 2017.
+Available <a href="https://arxiv.org/pdf/1703.01460.pdf>here</a>
+</p>
 
 <small>Unbiased Multivariate Correlation Analysis. Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia. Appeared in Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), San Francisco, USA, 2017. Available [here](http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf).</small>  
 

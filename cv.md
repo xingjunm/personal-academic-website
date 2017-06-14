@@ -12,8 +12,8 @@ linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2016-
     name: Research Assistant
-    location: Norwegian School of Economics
-    description: Quantitative work including data management, model estimation, and programming in Python.
+    location: Royal Victorian Eye and Ear Hospital, Melbourne
+    description: Research support for virtual reality surgery training project.
   - years: 2015-
     name: Substitute Teacher
     location: Pedagogisk Vikarsentral

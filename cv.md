@@ -1,31 +1,24 @@
 ---
-title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
-phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+title: ""
+summary: "Xingjun Ma's Resume"
+cv_title: XINGJUN MA
 experience:
-  - years: 2015-
+  - years: 2016-
     name: Research Assistant
-    location: Norwegian School of Economics
-    description: Quantitative work including data management, model estimation, and programming in Python.
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
+    location: Royal Victorian Eye and Ear Hospital, Melbourne
+    description: Research support for virtual reality surgery training project.
+  - years: 2016-
+    name: Research Assistant
+    location: [Apollo Medical Imaging Technology](http://www.apollomit.com/), Melbourne
+    description: Cancer prediction and medical decision support using neural networks.
   - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+    name: Experienced Engineer
+    location: [AsiaInfo Technologies(China), Inc.,](https://www.asiainfo.com/)
+    description: Telecom auto-activation system and IOS/Android App: Handheld device maintenance system for China Unicom
+  - years: 2010-2014
+    name: Senior Java Engineer
+    location: [Datang Telecom Technology Co., Ltd., China](http://www.datang.com/)
+    description: Telecom devices tracing and maintenance. Device log analysis, correlation analysis and status prediction.
 education:
   - years: 2013-2015
     name: Master’s Degree in Comparative Politics

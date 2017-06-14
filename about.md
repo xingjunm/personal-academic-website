@@ -7,7 +7,7 @@ layout: default
 
 <P>
 
-<IMG SRC="assets/images/xingjunma.jpg" WIDTH="200" BORDER="0" ALT="Picture of Xingjun Ma" ALIGN="Right"></a>
+<IMG SRC="assets/images/xingjunma.jpg" WIDTH="200" BORDER="0" ALT="Picture of Xingjun Ma" ALIGN="Right">
 
 <P>
 <TABLE>

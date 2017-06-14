@@ -21,15 +21,15 @@ experience:
     description: Telecom devices tracing and maintenance. Device log analysis, correlation analysis and status prediction.
 prediction.
 education:
-  - years: 2015 - 
+  - years: 2015- 
     name: Ph.D Candidate
     location: University of Melbourne, Australia
     description: Artificial intelligence, adversarial learning and virtual reality.
-  - years: 2012 - 2015
+  - years: 2012-2015
     name: Master in Engineering
     location: Tsinghua University, China
     description: Social Network Analytics, Influence prediction, PageRank.
-  - years: 2006 - 2010
+  - years: 2006-2010
     name: Bachelor in Engineering
     location: Jilin University, China
     description: Software engineering, mathematics computer science.

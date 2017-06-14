@@ -9,6 +9,8 @@ menu:
    url: /papers
  - page: Research
    url: /research
+ - page: Competitions
+   url: /competition
  - page: Curriculum Vitae
    url: /cv
  - page: Teaching

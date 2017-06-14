@@ -1,5 +1,5 @@
 ---
-title: ""
+title: 
 summary: "Xingjun Ma's Resume"
 cv_title: XINGJUN MA
 experience:

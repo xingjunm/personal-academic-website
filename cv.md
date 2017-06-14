@@ -16,7 +16,7 @@ experience:
     description: Research support for virtual reality surgery training project.
   - years: 2016-
     name: Research Assistant
-    location: [Apollo Medical Imaging Technology](http://www.apollomit.com/), Melbourne
+    location: Apollo Medical Imaging Technology, Melbourne
     description: Cancer prediction and medical decision support using neural networks.
   - years: 2014-2015
     name: Seminar Instructor

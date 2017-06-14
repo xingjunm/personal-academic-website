@@ -40,8 +40,14 @@ competitions:
     award: 3rd place in The 2016 Melbourne Datathon Kaggle Competition.
     description: "Won the awards as a member of team TourNo1. The objective is to predict if a job is in the 'Hotel and Tourism' category based on seek.com.au job description."
 awards:
-  - award: Melbourne International Research Scholarship, the University of Melbourne, 2015.
-  - award: Melbourne International Fee Remission Scholarship, the University of Melbourne, 2015.
+  - years: 2015
+    award: Melbourne International Research Scholarship, the University of Melbourne.
+  - years: 2015
+    award: Melbourne International Fee Remission Scholarship, the University of Melbourne.
+  - years: 2007-2008
+    award: National Encouragement Scholarship (twice), Jilin University.
+  - years: 2008
+    award: Taida-Motorola Scholarship, Innovation Award and Outstanding Student Leader Award, Jilin University.	
 date: 2017-06-13
 layout: cv
 ---

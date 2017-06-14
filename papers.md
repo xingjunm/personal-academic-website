@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: ""
 summary: "Papers."
 date: 2017-06-13
 layout: default

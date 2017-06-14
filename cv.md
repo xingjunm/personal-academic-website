@@ -20,28 +20,34 @@ experience:
     location: Datang Telecom Technology Co., Ltd., Beijing
     description: Telecom devices tracing and maintenance. Device log analysis, correlation analysis and status prediction.
 education:
-  - years: 2015- 
-    name: Ph.D Candidate
-    location: University of Melbourne, Australia
-    description: Artificial intelligence, adversarial learning and virtual reality.
-  - years: 2012-2015
-    name: Master in Engineering
-    location: Tsinghua University, China
-    description: Social Network Analytics, Influence prediction, PageRank.
-  - years: 2006-2010
-    name: Bachelor in Engineering
-    location: Jilin University, China
-    description: Software engineering, mathematics computer science.
-competitions:
-  - years: 2016
-    award: 2nd Place in the pitch competition of The 2016 Melbourne Datathon.
-    description: Won the awards as a member of team TourNo1.
-  - years: 2016
-    award: 3rd place in The 2016 Melbourne Datathon Kaggle Competition.
-    description: Won the awards as a member of team TourNo1. The objective is to predict if a job is in the 'Hotel and Tourism' category based on seek.com.au job description.
-awards:
-  - award: Melbourne International Research Scholarship, the University of Melbourne, 2015.
-  - award: Melbourne International Fee Remission Scholarship, the University of Melbourne, 2015.
-date: 2017-06-13
+  - years: 2013-2015
+    name: Master’s Degree in Comparative Politics
+    location: University of Bergen
+    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
+  - years: 2010-2013
+    name: Bachelor’s Degree in Political Economy
+    location: University of Bergen
+    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
+  - years: 2009-2010
+    name: Diploma
+    location: Manger Folkehøgskule
+    description: Music Production
+  - years: 2006-2009
+    name: Diploma
+    location: Breivika Videregående Skole
+    description: Academic specialization with media
+positions:
+  - years: 2013-2015
+    name: Student Council for Comparative Politics
+    location: Board Member
+    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
+  - years: 2012-2013
+    name: Student Council for Political Economy
+    location: Board Member
+    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
+misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
+date: 2016-04-02
 layout: cv
 ---
+
+> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.

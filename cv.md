@@ -19,9 +19,9 @@ experience:
     location: Apollo Medical Imaging Technology, Melbourne
     description: Cancer prediction and medical decision support using neural networks.
   - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
+    name: Experienced Engineer
+    location: AsiaInfo Technologies(China), Inc., Beijing
+    description: "Telecom auto-activation system and IOS/Android App: Handheld device maintenance system for China Unicom."
   - years: 2013, 2014, 2015
     name: Customer Service Representative
     location: Sixt Norway

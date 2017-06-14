@@ -19,7 +19,6 @@ experience:
     name: Senior Java Engineer
     location: Datang Telecom Technology Co., Ltd., Beijing
     description: Telecom devices tracing and maintenance. Device log analysis, correlation analysis and status prediction.
-prediction.
 education:
   - years: 2015- 
     name: Ph.D Candidate

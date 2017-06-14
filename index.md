@@ -7,7 +7,7 @@ layout: default
 
 I am a 3rd-year Ph.D candidate in the Department of Computing and Information Systems at the University of Melbourne, under the supervision of Prof. James Bailey and Dr. Sudanthi Wijewickrema (Department of Surgery, University of Melbourne).
 
-I received my Master of Software Engineering from Tsinghua Univeristy (China, 2015), and my Bachelor of Software Engineering from Jilin University (China, 2010).
+Prior to my Ph.D, I received my Master of Software Engineering from Tsinghua Univeristy (China, 2015), and my Bachelor of Software Engineering from Jilin University (China, 2010).
 
 I work in the area of artificial intelligence (AI) and adversarial learning (AL), and my recent work focuses on theoretical aspects of adversarial learning and AI in virtual reality based surgical training.
 

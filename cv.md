@@ -1,51 +1,49 @@
 ---
 title: CV
 summary: "Xingjun Ma's Resume"
-cv_title: Xingjun Ma
+cv_title: XINGJUN MA
 experience:
-  - years: 2015-
+  - years: 2016 -
     name: Research Assistant
-    location: Norwegian School of Economics
-    description: Quantitative work including data management, model estimation, and programming in Python.
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
-  - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+    location: Royal Victorian Eye and Ear Hospital, Melbourne
+    description: Research support for virtual reality surgery training project.
+  - years: 2016 -
+    name: Research Assistant
+    location: [Apollo Medical Imaging Technology](http://www.apollomit.com/), Melbourne
+    description: Cancer prediction and medical decision support using neural networks.
+  - years: 2014 - 2015
+    name: Experienced Engineer
+    location: [AsiaInfo Technologies(China), Inc.,](https://www.asiainfo.com/)
+    description: Telecom auto-activation system and IOS/Android App: Handheld device maintenance system for China Unicom
+  - years: 2010 - 2014
+    name: Senior Java Engineer
+    location: [Datang Telecom Technology Co., Ltd., China](http://www.datang.com/)
+    description: Telecom devices tracing and maintenance. Device log analysis, correlation analysis and status prediction.
+prediction.
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
-    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
-  - years: 2009-2010
-    name: Diploma
-    location: Manger Folkehøgskule
-    description: Music Production
-  - years: 2006-2009
-    name: Diploma
-    location: Breivika Videregående Skole
-    description: Academic specialization with media
-positions:
-  - years: 2013-2015
-    name: Student Council for Comparative Politics
-    location: Board Member
-    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
-  - years: 2012-2013
-    name: Student Council for Political Economy
-    location: Board Member
-    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
-misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
+  - years: 2015 - 
+    name: Ph.D Candidate
+    location: University of Melbourne, Australia
+    description: Artificial intelligence, adversarial learning and virtual reality.
+  - years: 2012 - 2015
+    name: Master in Engineering
+    location: Tsinghua University, China
+    description: Social Network Analytics, Influence prediction, PageRank.
+  - years: 2006 - 2010
+    name: Bachelor in Engineering
+    location: Jilin University, China
+    description: Software engineering, mathematics computer science.
+Competitions:
+  - years: 2016
+    name: 2nd Place in the pitch competition of The 2016 Melbourne Datathon.
+    description: Won the awards as a member of team TourNo1.
+  - years: 2016
+    name: 3rd place in [The 2016 Melbourne Datathon Kaggle Competition](https://inclass.kaggle.com/c/melbourne-datathon-2016).
+    description: Won the awards as a member of team TourNo1. The objective is to predict if a job is in the 'Hotel and Tourism' category based on seek.com dataset.
+Awards:
+  - name: Melbourne International Research Scholarship, the University of Melbourne, 2015.
+  - name: Melbourne International Fee Remission Scholarship, the University of Melbourne, 2015.
+  - name: Melbourne International Fee Remission Scholarship, the University of Melbourne, 2015.
 date: 2017-06-13
 layout: cv
 ---

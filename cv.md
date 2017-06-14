@@ -1,8 +1,8 @@
 ---
-title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
+title: 
+summary: "Xingjun Ma's Resume"
+cv_title: XINGJUN MA
+cv_subtitle: AI Believer
 location: Bergen
 phone: 
 contact_name: OleVik.net/Contact

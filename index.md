@@ -23,7 +23,7 @@ Phone: +61 4 1139 3231  <br>
 Postal: School of Computing and Information Systems, The University of Melbourne, Victoria 3010, Australia.   <br>
 Face to face: Desk 6, Room 7.08, Doug McDonell Building (Building 168).<br>
 </div>
- <div style="float: right; text-align: right; width: 45%;"><img style="float: right; width: 200px;" src="assets/images/xingjunma.jpg" /> </div> 
+ <div style="float: right; text-align: right; width: 45%;"><img style="float: right;" src="assets/images/xingjunma.jpg" /> </div> 
 </div>
 
 

@@ -14,10 +14,10 @@ experience:
     name: Research Assistant
     location: Royal Victorian Eye and Ear Hospital, Melbourne
     description: Research support for virtual reality surgery training project.
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
+  - years: 2016-
+    name: Research Assistant
+    location: [Apollo Medical Imaging Technology](http://www.apollomit.com/), Melbourne
+    description: Cancer prediction and medical decision support using neural networks.
   - years: 2014-2015
     name: Seminar Instructor
     location: University of Bergen

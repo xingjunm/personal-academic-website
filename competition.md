@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-summary: "Teaching."
+title: "Competitions"
+summary: "Competitions."
 date: 2017-06-13
 layout: default
 ---

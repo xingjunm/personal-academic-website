@@ -15,8 +15,14 @@ I work in the area of artificial intelligence (AI) and adversarial learning (AL)
 
 #### Contact
 
-NAME@ADDRESS  
-   where NAME = xingjunm and ADDRESS = student.unimelb.edu.au  
+<div>
+ <div style="float: left;">NAME@ADDRESS  
+   where NAME = xingjunm and ADDRESS = student.unimelb.edu.au
 Phone: +61 4 1139 3231  
 Postal: School of Computing and Information Systems, The University of Melbourne, Victoria 3010, Australia.   
-Face to face: Desk 6, Room 7.08, Doug McDonell Building (Building 168). | <img style="float: right;" src="assets/images/xingjunma.jpg" alt="Drawing" style="width: 160px;"/>
+Face to face: Desk 6, Room 7.08, Doug McDonell Building (Building 168).
+</div>
+ <div style="float: right; text-align: right;"><img style="float: right; width: 200px;" src="assets/images/xingjunma.jpg" /> </div> 
+</div>
+
+

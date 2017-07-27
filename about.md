@@ -19,7 +19,7 @@ I work in areas of artificial intelligence (AI) and adversarial learning (AL), a
  <div style="float: left; width: 45%;">
  NAME@ADDRESS<br>  
    &nbsp;&nbsp;&nbsp;&nbsp;where NAME = xingjunm and ADDRESS = student.unimelb.edu.au<br>
-Phone: +61 4 1139 3231  <br>
+<!-- Phone: +61 4 1139 3231  <br> -->
 Postal: School of Computing and Information Systems, The University of Melbourne, Victoria 3010, Australia.   <br>
 Face to face: Desk 6, Room 7.08, Doug McDonell Building (Building 168).<br>
 </div>

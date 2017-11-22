@@ -6,7 +6,7 @@ layout: default
 ---
 <h4>2018</h4>
 <ol>
-  <li><u>Feb. 25, 2018</u>: I will join Japan <a href="http://www.nii.ac.jp/en/"> National Institute of Informatics (NII), Tokyo, Japan</a> as an intern working with <a href="http://research.nii.ac.jp/~meh/">Professor Michael E. Houle</a> on topic: Dimensionality Theory with Deep Neural Networks </li>
+  <li><u>Feb. 25, 2018</u>: I will join Japan <a href="http://www.nii.ac.jp/en/"> National Institute of Informatics (NII)</a>, Tokyo, Japan, as an intern working with Professor <a href="http://research.nii.ac.jp/~meh/">Michael E. Houle</a> on topic: Dimensionality Theory with Deep Neural Networks </li>
 </ol>
 
 <h4>2017</h4>

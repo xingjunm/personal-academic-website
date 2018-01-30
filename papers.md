@@ -18,8 +18,8 @@ Grant Schoenebeck,
 Michael E. Houle, 
 Dawn Song, 
 James Bailey.
-In proceddings of 
-<em>ICLR-18</em> <strong> (Oral, Top 2%)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
+To appear in 6th <em>International Conference on Learning Representations (ICLR)</em>
+ <strong> (Oral, Top 2%)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
 Available <a href="https://openreview.net/forum?id=B1gJ1L2aW">here</a>
 <p>
 
@@ -37,16 +37,15 @@ Yun Zhou,
 Zakaria Mhammedi,
 Stephen O'Leary,
 James Bailey.
-In proceddings of 
-<em>IJCAI-17</em>, Melbourne, 2017.
+Proceedings of the 26th <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, pp. 3763-3769, Melbourne, Australia, 2017
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 <p>
 
 <p>
 <strong>Unbiased Multivariate Correlation Analysis.</strong>
 Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia.
-In proceddings of 
-<em>AAAI-17)</em>, San Francisco, USA, 2017.   Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf">here</a>.
+Proceedings of the 31st <em>AAAI Conference on Artificial Intelligence (AAAI-17)</em>, pp 2754-2760, February 4-9, San Francisco, USA, 2017.
+Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf">here</a>.
 </p>
 
 <p>
@@ -54,8 +53,7 @@ In proceddings of
 Providing Effective Real-time Feedback in Simulation-based Surgical Training.
 </strong>
 Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. 
-In proceddings of 
-<em>MICCAI-17,</em> Quebec City, Canada, 2017.
+Proceedings of the 20th <em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</em>, pp 566-574, Quebec City, Canada, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 </p>
 

@@ -19,7 +19,7 @@ Michael E. Houle,
 Dawn Song, 
 James Bailey.
 In proceddings of 
-<em>ICLR-18</em>, Vancouver, BC, Canada, April 30 - May 3, 2018.
+<em>ICLR-18</em> <strong> (Oral, Top 2%)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
 Available <a href="https://openreview.net/forum?id=B1gJ1L2aW">here</a>
 <p>
 

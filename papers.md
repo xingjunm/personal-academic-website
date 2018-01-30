@@ -4,6 +4,26 @@ summary: "Papers."
 date: 2017-06-13
 layout: default
 ---
+<h4>2018</h4>
+<p>
+<strong>
+Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.
+</strong>
+Xingjun Ma,
+Bo Li, 
+Yisen Wang, 
+Sarah M. Erfani, 
+Sudanthi Wijewickrema, 
+Grant Schoenebeck, 
+Michael E. Houle, 
+Dawn Song, 
+James Bailey.
+In proceddings of 
+<em>ICLR-18</em>, Vancouver, BC, Canada, April 30 - May 3, 2018.
+Available <a href="https://openreview.net/forum?id=B1gJ1L2aW">here</a>
+<p>
+
+
 <h4>2017</h4>
 
 <p>
@@ -17,27 +37,29 @@ Yun Zhou,
 Zakaria Mhammedi,
 Stephen O'Leary,
 James Bailey.
-To appear in 
-<em>Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI)</em>, Melbourne, 2017.
+In proceddings of 
+<em>IJCAI-17</em>, Melbourne, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 <p>
+
+<p>
+<strong>Unbiased Multivariate Correlation Analysis.</strong>
+Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia.
+In proceddings of 
+<em>AAAI-17)</em>, San Francisco, USA, 2017.   Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf">here</a>.
+</p>
 
 <p>
 <strong>
 Providing Effective Real-time Feedback in Simulation-based Surgical Training.
 </strong>
-Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. To appear in 
-<em>Proceedings of the 20th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI),</em> Quebec City, Canada, 2017.
+Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. 
+In proceddings of 
+<em>MICCAI-17,</em> Quebec City, Canada, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 </p>
 
-<p>
-<strong>Unbiased Multivariate Correlation Analysis.</strong>
-Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia.
-To appear in
-<em>Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)</em>,
-February 4-9, San Francisco, USA, 2017.   Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf">here</a>.
-</p>
+<!-- 
 
 <p>
 <strong>Simulation for Training Cochlear Implant Electrode Insertion. </strong>
@@ -67,5 +89,5 @@ Available <a href="https://arxiv.org/pdf/1705.04683.pdf">here</a>.
 Xingjun Ma, Chunping Li, James Bailey and Sudanthi Wijewickrema.
 <em>Appeared in Proceedings of the 14th Australasian Data Mining (AusDM), Canberra, Australia, 2016. </em>  
 Available <a href="https://arxiv.org/pdf/1703.01468.pdf">here</a>.
-</p>
+</p> -->
 

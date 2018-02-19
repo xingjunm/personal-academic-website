@@ -7,6 +7,15 @@ layout: default
 <h4>2018</h4>
 <p>
 <strong>
+Iterative Learning with Open-set Noisy Labels. 
+</strong>
+Yisen Wang, Xingjun Ma, Weiyang Liu, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia.
+To appear in 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
+, Salt Lake City, Utah, USA, June 18-22, 2018
+<p>
+
+<p>
+<strong>
 Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.
 </strong>
 Xingjun Ma,

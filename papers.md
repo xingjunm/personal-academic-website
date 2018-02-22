@@ -46,7 +46,7 @@ Yun Zhou,
 Zakaria Mhammedi,
 Stephen O'Leary,
 James Bailey.
-Proceedings of the 26th <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, pp. 3763-3769, Melbourne, Australia, 2017
+Proceedings of the 26th <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, pp. 3763-3769, Melbourne, Australia, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 <p>
 
@@ -66,8 +66,6 @@ Proceedings of the 20th <em>International Conference on Medical Image Computing 
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 </p>
 
-<!-- 
-
 <p>
 <strong>Simulation for Training Cochlear Implant Electrode Insertion. </strong>
 Xingjun Ma, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy and Stephen O'Leary. 
@@ -82,6 +80,7 @@ To appear in <em>Proceedings of the 30th IEEE International Symposium on Compute
 Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf">here</a>.
 </p>
 
+<!-- 
 <p>
 <strong>Feedback Techniques in Computer-Based Simulation Training: A Survey.</strong>
 Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary.

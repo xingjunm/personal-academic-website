@@ -69,14 +69,14 @@ Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 <p>
 <strong>Simulation for Training Cochlear Implant Electrode Insertion. </strong>
 Xingjun Ma, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy and Stephen O'Leary. 
-To appear in <em>Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.</em>
+<em>Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.</em>
 Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-2.pdf">here</a>.
 </p>
 
 <p>
 <strong>Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery.</strong>
 Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary. 
-To appear in <em>Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017. </em>  
+<em>Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017. </em>  
 Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf">here</a>.
 </p>
 

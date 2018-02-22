@@ -9,7 +9,7 @@ layout: default
 <strong>
 Iterative Learning with Open-set Noisy Labels. 
 </strong>
-Yisen Wang, Xingjun Ma, Weiyang Liu, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia.
+Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia.
 To appear in 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
 , Salt Lake City, Utah, USA, June 18-22, 2018.
 <p>
@@ -24,8 +24,8 @@ Yisen Wang,
 Sarah M. Erfani, 
 Sudanthi Wijewickrema, 
 Grant Schoenebeck, 
-Michael E. Houle, 
 Dawn Song, 
+Michael E. Houle, 
 James Bailey.
 To appear in 6th <em>International Conference on Learning Representations (ICLR)</em>
  <strong> (Oral, Top 2%)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.

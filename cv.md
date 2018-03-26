@@ -3,6 +3,10 @@ title:
 summary: "Xingjun Ma's Resume"
 cv_title: XINGJUN MA
 experience:
+  - years: 2018.3-2018.6
+    name: Research Intern
+    location: National Institute of Informatics, Tokyo, Japan
+    description: Dimensionality Theory and Deep Neural Networks.
   - years: 2016-
     name: Research Assistant
     location: Royal Victorian Eye and Ear Hospital, Melbourne

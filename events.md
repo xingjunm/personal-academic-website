@@ -6,7 +6,7 @@ layout: default
 ---
 <h4>2018</h4>
 <ol>
-  <li><u>May 1, 2018</u>: I will represent at <a href="https://iclr.cc"> NICLR-2018</a>, Vancouver, Canada, for my accepted <a href="https://iclr.cc/Conferences/2018/Schedule?showEvent=377">paper</a> </li>
+  <li><u>May 1, 2018</u>: I will represent at <a href="https://iclr.cc"> ICLR-2018</a>, Vancouver, Canada, for my accepted <a href="https://iclr.cc/Conferences/2018/Schedule?showEvent=377">paper</a>. </li>
   <li><u>Feb. 25, 2018</u>: I will join Japan <a href="http://www.nii.ac.jp/en/"> National Institute of Informatics (NII)</a>, Tokyo, Japan, as an intern working with Professor <a href="http://research.nii.ac.jp/~meh/">Michael E. Houle</a> on topic: Dimensionality Theory with Deep Neural Networks </li>
 </ol>
 

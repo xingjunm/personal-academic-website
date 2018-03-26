@@ -32,6 +32,21 @@ To appear in 6th <em>International Conference on Learning Representations (ICLR)
 Available <a href="https://openreview.net/forum?id=B1gJ1L2aW">here</a>
 <p>
 
+<p>
+<strong>
+Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?
+</strong>
+Sudanthi Wijewickrema, 
+Xingjun Ma, 
+Patorn Piromchai,
+Robert Briggs, 
+James Bailey, 
+Gregor Kennedy 
+Stephen O'Leary,
+To appear in 19th <em>International Conference on Artificial Intelligence in Education (AIED)</em>, London, UK, June 27 - June 30, 2018.
+Available <a href="https://aied2018.utscic.edu.au/">later</a>
+<p>
+
 
 <h4>2017</h4>
 

@@ -12,6 +12,7 @@ Iterative Learning with Open-set Noisy Labels.
 Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia.
 To appear in 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
 , Salt Lake City, Utah, USA, June 18-22, 2018.
+Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CVPR2018_Noise_label.pdf">here</a>
 <p>
 
 <p>
@@ -28,7 +29,7 @@ Dawn Song,
 Michael E. Houle, 
 James Bailey.
 To appear in 6th <em>International Conference on Learning Representations (ICLR)</em>
- <strong> (Oral, Top 2%)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
+ <strong> (Oral)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
 Available <a href="https://openreview.net/forum?id=B1gJ1L2aW">here</a>
 <p>
 
@@ -41,12 +42,26 @@ Xingjun Ma,
 Patorn Piromchai,
 Robert Briggs, 
 James Bailey, 
-Gregor Kennedy 
+Gregor Kennedy, 
 Stephen O'Leary,
 To appear in 19th <em>International Conference on Artificial Intelligence in Education (AIED)</em>, London, UK, June 27 - June 30, 2018.
-Available <a href="https://aied2018.utscic.edu.au/">later</a>
+Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf">here</a>.
 <p>
 
+<p>
+<strong>
+Development and Validation of a Virtual Reality Tutor to Teach Clinically Oriented Surgical Anatomy of the Ear.
+</strong>
+ Sudanthi Wijewickrema, 
+ Bridget Copson, 
+ Xingjun Ma, 
+ Robert Briggs, 
+ James Bailey, 
+ Gregor Kennedy, 
+ Stephen O'Leary,
+Proceedings of the 31st <em>International Symposium on Computer-Based Medical Systems (CBMS)</em>,  Karlstad, Sweden, June 18-21, 2018.
+Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf">here</a>.
+<p>
 
 <h4>2017</h4>
 

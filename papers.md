@@ -9,7 +9,7 @@ layout: default
 <strong>
 Dimensionality-Driven Learning with Noisy Labels. 
 </strong>
-Xingjun Ma, Yisen Wang, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey.
+Xingjun Ma*, Yisen Wang*, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey.
 To appear in <em>Proceedings of the International Conference on Machine Learning (ICML)</em>
 , Stockholm, Sweden, 10-15 July, 2018.
 Available <a href="https://icml.cc/">later</a>.

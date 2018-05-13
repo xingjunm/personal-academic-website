@@ -15,7 +15,6 @@ To appear in <em>Proceedings of the International Conference on Machine Learning
 Available <a href="https://icml.cc/">later</a>
 <p>
 
-<h4>2018</h4>
 <p>
 <strong>
 Iterative Learning with Open-set Noisy Labels. 

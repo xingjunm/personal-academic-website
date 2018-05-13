@@ -12,7 +12,7 @@ Dimensionality-Driven Learning with Noisy Labels.
 Xingjun Ma, Yisen Wang, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey.
 To appear in <em>Proceedings of the International Conference on Machine Learning (ICML)</em>
 , Stockholm, Sweden, 10-15 July, 2018.
-Available <a href="https://icml.cc/">later</a>
+Available <a href="https://icml.cc/">later</a>.
 <p>
 
 <p>
@@ -22,7 +22,7 @@ Iterative Learning with Open-set Noisy Labels.
 Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song and Shu-Tao Xia.
 To appear in 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
 , Salt Lake City, Utah, USA, June 18-22, 2018.
-Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CVPR2018_Noise_label.pdf">here</a>
+Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CVPR2018_Noise_label.pdf">here</a>.
 <p>
 
 <p>

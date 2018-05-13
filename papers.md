@@ -1,15 +1,26 @@
 ---
 title: ""
 summary: "Papers."
-date: 2017-06-13
+date: 2017-05-13
 layout: default
 ---
 <h4>2018</h4>
 <p>
 <strong>
+Dimensionality-Driven Learning with Noisy Labels. 
+</strong>
+Xingjun Ma, Yisen Wang, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey.
+To appear in <em>Proceedings of the International Conference on Machine Learning (ICML)</em>
+, Stockholm, Sweden, 10-15 July, 2018.
+Available <a href="https://icml.cc/">later</a>
+<p>
+
+<h4>2018</h4>
+<p>
+<strong>
 Iterative Learning with Open-set Noisy Labels. 
 </strong>
-Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia.
+Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song and Shu-Tao Xia.
 To appear in 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
 , Salt Lake City, Utah, USA, June 18-22, 2018.
 Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CVPR2018_Noise_label.pdf">here</a>
@@ -26,7 +37,7 @@ Sarah M. Erfani,
 Sudanthi Wijewickrema, 
 Grant Schoenebeck, 
 Dawn Song, 
-Michael E. Houle, 
+Michael E. Houle and
 James Bailey.
 To appear in 6th <em>International Conference on Learning Representations (ICLR)</em>
  <strong> (Oral)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
@@ -42,7 +53,7 @@ Xingjun Ma,
 Patorn Piromchai,
 Robert Briggs, 
 James Bailey, 
-Gregor Kennedy, 
+Gregor Kennedy and 
 Stephen O'Leary,
 To appear in 19th <em>International Conference on Artificial Intelligence in Education (AIED)</em>, London, UK, June 27 - June 30, 2018.
 Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf">here</a>.
@@ -57,7 +68,7 @@ Development and Validation of a Virtual Reality Tutor to Teach Clinically Orient
  Xingjun Ma, 
  Robert Briggs, 
  James Bailey, 
- Gregor Kennedy, 
+ Gregor Kennedy and
  Stephen O'Leary,
 Proceedings of the 31st <em>International Symposium on Computer-Based Medical Systems (CBMS)</em>,  Karlstad, Sweden, June 18-21, 2018.
 Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf">here</a>.
@@ -74,7 +85,7 @@ Sudanthi Wijewickrema,
 Shuo Zhou,
 Yun Zhou,
 Zakaria Mhammedi,
-Stephen O'Leary,
+Stephen O'Leary and
 James Bailey.
 Proceedings of the 26th <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, pp. 3763-3769, Melbourne, Australia, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>

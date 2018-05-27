@@ -45,6 +45,7 @@ competitions:
     description: "Won the awards as a member of team TourNo1. The objective is to predict if a job is in the 'Hotel and Tourism' category based on seek.com.au job description."
 awards:
   - years: 2018
+    award: ICML-2018 Travel Award.
     award: ICLR-2018 Travel Award.
   - years: 2015
     award: Melbourne International Research Scholarship, The University of Melbourne.

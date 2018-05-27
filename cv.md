@@ -46,6 +46,7 @@ competitions:
 awards:
   - years: 2018
     award: ICML-2018 Travel Award.
+  - years: 2018
     award: ICLR-2018 Travel Award.
   - years: 2015
     award: Melbourne International Research Scholarship, The University of Melbourne.

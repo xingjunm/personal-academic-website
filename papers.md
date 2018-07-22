@@ -7,12 +7,22 @@ layout: default
 <h4>2018</h4>
 <p>
 <strong>
+Learning Deep Hidden Nonlinear Dynamics from Aggregate Data. 
+</strong>
+Yisen Wang, Bo Dai, Lingkai Kong, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Shu-Tao Xia, Le Song and Hongyuan Zha.
+In Proceedings of the 34th <em>Conference on Uncertainty in Artificial Intelligence (UAI)</em>
+, Monterey, California, August 6-10, 2018.
+Available <a href="http://auai.org/uai2018/proceedings/papers/39.pdf">here</a>.
+<p>
+
+<p>
+<strong>
 Dimensionality-Driven Learning with Noisy Labels. 
 </strong>
 Xingjun Ma*, Yisen Wang*, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey.
-To appear in <em>Proceedings of the International Conference on Machine Learning (ICML)</em>
+In  Proceedings of the <em>International Conference on Machine Learning (ICML)</em>
 , Stockholm, Sweden, 10-15 July, 2018.
-Available <a href="https://icml.cc/">later</a>.
+Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/icmlpaper2018.pdf">here</a>.
 <p>
 
 <p>
@@ -20,7 +30,7 @@ Available <a href="https://icml.cc/">later</a>.
 Iterative Learning with Open-set Noisy Labels. 
 </strong>
 Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song and Shu-Tao Xia.
-To appear in 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
+In Proceedings of the 30th <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>
 , Salt Lake City, Utah, USA, June 18-22, 2018.
 Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CVPR2018_Noise_label.pdf">here</a>.
 <p>
@@ -38,8 +48,8 @@ Grant Schoenebeck,
 Dawn Song, 
 Michael E. Houle and
 James Bailey.
-To appear in 6th <em>International Conference on Learning Representations (ICLR)</em>
- <strong> (Oral)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
+In Proceedings of the 6th <em>International Conference on Learning Representations (ICLR)</em>
+ <strong> (Oral, 23/935)</strong>, Vancouver, BC, Canada, April 30 - May 3, 2018.
 Available <a href="https://openreview.net/forum?id=B1gJ1L2aW">here</a>
 <p>
 
@@ -54,7 +64,7 @@ Robert Briggs,
 James Bailey, 
 Gregor Kennedy and 
 Stephen O'Leary,
-To appear in 19th <em>International Conference on Artificial Intelligence in Education (AIED)</em>, London, UK, June 27 - June 30, 2018.
+In Proceedings of the 19th <em>International Conference on Artificial Intelligence in Education (AIED)</em>, London, UK, June 27 - June 30, 2018.
 Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf">here</a>.
 <p>
 
@@ -69,7 +79,7 @@ Development and Validation of a Virtual Reality Tutor to Teach Clinically Orient
  James Bailey, 
  Gregor Kennedy and
  Stephen O'Leary,
-Proceedings of the 31st <em>International Symposium on Computer-Based Medical Systems (CBMS)</em>,  Karlstad, Sweden, June 18-21, 2018.
+In Proceedings of the 31st <em>International Symposium on Computer-Based Medical Systems (CBMS)</em>,  Karlstad, Sweden, June 18-21, 2018.
 Available <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf">here</a>.
 <p>
 
@@ -86,14 +96,14 @@ Yun Zhou,
 Zakaria Mhammedi,
 Stephen O'Leary and
 James Bailey.
-Proceedings of the 26th <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, pp. 3763-3769, Melbourne, Australia, 2017.
+In Proceedings of the 26th <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, pp. 3763-3769, Melbourne, Australia, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 <p>
 
 <p>
 <strong>Unbiased Multivariate Correlation Analysis.</strong>
 Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia.
-Proceedings of the 31st <em>AAAI Conference on Artificial Intelligence (AAAI-17)</em>, pp 2754-2760, February 4-9, San Francisco, USA, 2017.
+In Proceedings of the 31st <em>AAAI Conference on Artificial Intelligence (AAAI-17)</em>, pp 2754-2760, February 4-9, San Francisco, USA, 2017.
 Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf">here</a>.
 </p>
 
@@ -102,21 +112,21 @@ Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pd
 Providing Effective Real-time Feedback in Simulation-based Surgical Training.
 </strong>
 Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey. 
-Proceedings of the 20th <em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</em>, pp 566-574, Quebec City, Canada, 2017.
+In Proceedings of the 20th <em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</em>, pp 566-574, Quebec City, Canada, 2017.
 Available <a href="https://arxiv.org/pdf/1703.01460.pdf">here</a>
 </p>
 
 <p>
 <strong>Simulation for Training Cochlear Implant Electrode Insertion. </strong>
 Xingjun Ma, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy and Stephen O'Leary. 
-<em>Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.</em>
+<em>In Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.</em>
 Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-2.pdf">here</a>.
 </p>
 
 <p>
 <strong>Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery.</strong>
 Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary. 
-<em>Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017. </em>  
+<em>In Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017. </em>  
 Available <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf">here</a>.
 </p>
 

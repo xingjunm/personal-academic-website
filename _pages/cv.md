@@ -37,7 +37,7 @@ Work experience
   * Duties included: Telecom auto-activation system
 
 * 2010 - 2014: Senior Java Engineer
-  * AsiaInfo Technologies(China), Inc., Beijing
+  * Datang Telecom Technology Co., Ltd., Beijing
   * Duties included: Telecom device management systems
 
 Skills

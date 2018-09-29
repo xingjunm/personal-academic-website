@@ -1,7 +1,8 @@
 ---
-title: ""
-summary: "Papers."
-layout: default
+#layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 2018
 -----

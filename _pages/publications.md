@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 2018
------
+======
 **Learning Deep Hidden Nonlinear Dynamics from Aggregate Data.**
 Yisen Wang, Bo Dai, Lingkai Kong, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Shu-Tao Xia, Le Song and Hongyuan Zha.
 *In Proceedings of the 34th Conference on Uncertainty in Artificial Intelligence (UAI), Monterey, California, August 6-10, 2018.* [Link]("http://auai.org/uai2018/proceedings/papers/39.pdf").
@@ -21,7 +21,7 @@ Yisen Wang, Bo Dai, Lingkai Kong, Xingjun Ma, Sarah Monazam Erfani, James Bailey
 **Development and Validation of a Virtual Reality Tutor to Teach Clinically Oriented Surgical Anatomy of the Ear.** Sudanthi Wijewickrema, Bridget Copson, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary, *In Proceedings of the 31st International Symposium on Computer-Based Medical Systems (CBMS),  Karlstad, Sweden, June 18-21, 2018.* [Link]("https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf").
 
 2017
------
+======
 **Adversarial generation of real-time feedback with neural networks for simulation-based training.** Xingjun Ma, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary and James Bailey. *In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), pp. 3763-3769, Melbourne, Australia, 2017.* [Link]("https://arxiv.org/pdf/1703.01460.pdf").
 
 **Unbiased Multivariate Correlation Analysis.** Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, Xingjun Ma and Shu-Tao Xia. *In Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI-17), pp 2754-2760, February 4-9, San Francisco, USA, 2017.* [Link]("http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf").
@@ -32,9 +32,9 @@ Yisen Wang, Bo Dai, Lingkai Kong, Xingjun Ma, Sarah Monazam Erfani, James Bailey
 
 **Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery.** Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary. *In Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.* [Link]("http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf").
 
-**Feedback Techniques in Computer-Based Simulation Training: A Survey.** Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. *arXiv preprint arXiv:1705.04683 (2017)* [Link]("https://arxiv.org/pdf/1705.04683.pdf").
+**Feedback Techniques in Computer-Based Simulation Training: A Survey.** Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. *arXiv preprint arXiv:1705.04683 (2017).* [Link]("https://arxiv.org/pdf/1705.04683.pdf").
 
 2016
------
+======
 **Finding Influentials in Twitter: A Temporal Influence Ranking Model.** Xingjun Ma, Chunping Li, James Bailey and Sudanthi Wijewickrema. *In Proceedings of the 14th Australasian Data Mining (AusDM), Canberra, Australia, 2016.* [Link]("https://arxiv.org/pdf/1703.01468.pdf").
 

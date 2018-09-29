@@ -66,7 +66,7 @@ Awards
 * 2015:
   * Melbourne International Research Scholarship, University of Melbourne.
 
-*-2015:
+* Before 2015:
   * National Inspirational Scholarship, Jilin Univeristy
   * Taida-Motorola Scholarship, Jilin University
   * Innovation Award, Jilin University

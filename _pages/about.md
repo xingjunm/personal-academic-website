@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a research fellow at the School of Computing and Information Systems, University of Melbourne, working on a data mining project with [Prof. James Bailey](http://people.eng.unimelb.edu.au/baileyj/).
 
-I am a passionate researcher in the area of machine learning and deep learning, and interested in topics like adversarial attack/defense, deep noisy label learning, generative adversarial networks, information and intrinsic dimensionality, and differential privacy and security. I am also intrigued by the connection between the universe, gravity, the Big Bang theory and space of deep neural networks.
+I am a passionate researcher on topics: adversarial attack/defense, noisy label learning, generative adversarial networks, and differential privacy and security. I am also intrigued by the connection between the universe, gravity, the Big Bang theory and space of deep neural networks.
 
 I received my PhD degree from University of Melbourne (Australia), under the supervision of [Prof. r James Bailey](http://people.eng.unimelb.edu.au/baileyj/) and [Dr. Sudanthi Wijewickrema](http://findanexpert.unimelb.edu.au/display/person543793). Prior to my PhD, I received my master degree from Tsinghua University (China) and bachelor degree from Jilin University (China).
 
@@ -21,5 +21,4 @@ Email:<br/>
 
 Office:<br/>
 Room 9.15, Doug McDonell Building (Building 168),<br/>
-School of CIS, University of Melbourne,<br/>
-Victoria 3010, Australia<br/>
+University of Melbourne, Victoria 3010, Australia<br/>

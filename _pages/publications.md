@@ -36,7 +36,7 @@ Available [here]("https://arxiv.org/pdf/1703.01460.pdf").
 
 **Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery.** Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary. *In Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.* Available [here]("http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf").
 
-<!-- **Feedback Techniques in Computer-Based Simulation Training: A Survey.** Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. *arXiv preprint arXiv:1705.04683 (2017)* Available [here]("https://arxiv.org/pdf/1705.04683.pdf").
+**Feedback Techniques in Computer-Based Simulation Training: A Survey.** Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. *arXiv preprint arXiv:1705.04683 (2017)* Available [here]("https://arxiv.org/pdf/1705.04683.pdf").
 
-**Finding Influentials in Twitter: A Temporal Influence Ranking Model.** Xingjun Ma, Chunping Li, James Bailey and Sudanthi Wijewickrema. *In Proceedings of the 14th Australasian Data Mining (AusDM), Canberra, Australia, 2016.* Available [here]("https://arxiv.org/pdf/1703.01468.pdf"). -->
+**Finding Influentials in Twitter: A Temporal Influence Ranking Model.** Xingjun Ma, Chunping Li, James Bailey and Sudanthi Wijewickrema. *In Proceedings of the 14th Australasian Data Mining (AusDM), Canberra, Australia, 2016.* Available [here]("https://arxiv.org/pdf/1703.01468.pdf").
 

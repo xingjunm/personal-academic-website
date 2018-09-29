@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: compress
 title: "Publications"
 permalink: /publications/
 author_profile: true

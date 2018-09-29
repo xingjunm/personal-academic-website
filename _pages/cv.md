@@ -11,49 +11,63 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Engineering, University of Melbourne, 2018
+* B.S. in Engineering, Tisnghua University, 2015
+* M.S. in Engineering, Jilin University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018.3 - 2018.6: Research Intern
+  * National Institute of Informatics, Tokyo, Japan
+  * Duties included: Dimensionality Theory and Deep Neural Networks.
+  * Supervisor: Prof. [Michael E. Houle](http://research.nii.ac.jp/~meh/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016 - 2018: Research Assistant
+  * Royal Victorian Eye and Ear Hospital, Melbourne
+  * Duties included: Virtual reality based surgery training
+  * Supervisor: Prof. [Stephen O'Leary](https://www.findanexpert.unimelb.edu.au/display/person4669)
+
+* 2016.2 - 2017.2: Research Assistant
+  * Apollo Medical Imaging Technology, Melbourne
+  * Duties included: Breast cancer diagnosis.
+  * Supervisor: Dr. Qing Yang
+
+* 2014 - 2015: Experienced Specialist
+  * AsiaInfo Technologies(China), Inc., Beijing
+  * Duties included: Telecom auto-activation system
+
+* 2010 - 2014: Senior Java Engineer
+  * AsiaInfo Technologies(China), Inc., Beijing
+  * Duties included: Telecom device management systems
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Tensorflow
+  * Keras
+* Java, Matlab, SQL
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Tutoring, University of Melbourne
+  * Knowledge Technology
+  * Computer Systems
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2018:
+  * ICML-2018 Travel Award
+  * ICLR-2018 Travel Award
+
+* 2016:
+  * The 2016 Melbourne Datathon Pitch Competition: 2nd place
+  * The 2016 Melbourne Datathon Kaggle Competition: 3rd place
+
+* 2015:
+  * Melbourne International Research Scholarship, University of Melbourne.
+
+*~2015:
+  * National Inspirational Scholarship, Jilin Univeristy
+  * Taida-Motorola Scholarship, Jilin University
+  * Innovation Award, Jilin University
+  * Outstanding Student Leader Award, Jilin University

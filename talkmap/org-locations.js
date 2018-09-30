@@ -3,7 +3,7 @@ var addressPoints = [
     "Tokyo, Japan",
     35.6924407,
     139.755834
-Montreal, QC, Canada  ],
+  ],
   [
     "Stockholm, Sweden",
     59.2773099,
@@ -40,9 +40,24 @@ Montreal, QC, Canada  ],
     12.2557964
   ],
   [
-    "vatican City",
+    "Vatican City",
     41.9019742,
     12.4540805
+  ],
+  [
+    "Florence, Italy",
+    43.7800607,
+    11.170927
+  ],
+  [
+    "San Marino",
+    43.9429802,
+    12.3900524
+  ],
+  [
+    "Venice, Italy",
+    45.4046829,
+    12.1015439
   ],
   [
     "HongKong, China",

@@ -60,6 +60,11 @@ var addressPoints = [
     12.1015439
   ],
   [
+    "Warsaw, Poland",
+    52.2330269,
+    20.7810013
+  ],
+  [
     "HongKong, China",
     22.3344976,
     114.0665209

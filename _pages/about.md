@@ -13,6 +13,8 @@ I am a passionate researcher and have paritular interests in topics like adversa
 
 I received my PhD degree from University of Melbourne (Australia), under the supervision of [Prof. r James Bailey](http://people.eng.unimelb.edu.au/baileyj/) and [Dr. Sudanthi Wijewickrema](http://findanexpert.unimelb.edu.au/display/person543793). Prior to my PhD, I completed my master at Tsinghua University (China) and bachelor at Jilin University (China).
 
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've visited!</a></p>
+
 Contact me
 ------
 Email:<br/>

@@ -3,7 +3,7 @@ var addressPoints = [
     "Tokyo, Japan",
     35.6924407,
     139.755834
-  ],
+Montreal, QC, Canada  ],
   [
     "Stockholm, Sweden",
     59.2773099,
@@ -18,6 +18,16 @@ var addressPoints = [
     "Quebec City, Canada",
     46.8564962,
     -71.62189
+  ],
+  [
+    "Montreal, QC, Canada",
+    45.5253404,
+    -73.8172914
+  ],
+  [
+    "Toronto, ON, Canada",
+    43.6845007,
+    -79.4929093
   ],
   [
     "Melbourne, Australia",
@@ -35,6 +45,11 @@ var addressPoints = [
     12.4540805
   ],
   [
+    "HongKong, China",
+    22.3344976,
+    114.0665209
+  ],
+  [
     "Shanghai, China",
     31.1752667,
     121.3110513
@@ -43,5 +58,41 @@ var addressPoints = [
     "Beijing, China",
     39.9385876,
     115.8369507
+  ],
+  [
+    "Hangzhou, China",
+    30.2170273,
+    119.949582
+  ],
+  [
+    "Tianjin, China",
+    39.1101525,
+    117.1650479
+  ],
+  [
+    "Xining, China",
+    36.6151396,
+    101.745128
+  ],
+  [
+    "Shijiazhuang, China",
+    38.0373435,
+    114.5098907
+  ],
+  [
+    "Qinghuangdao, China",
+    39.929707,
+    119.5857535
+  ],
+  [
+    "Linyi, China",
+    35.0826182,
+    118.3005582
+  ],
+  [
+    "Qingdao, China",
+    36.0722506,
+    120.2612295
   ]
+
 ];

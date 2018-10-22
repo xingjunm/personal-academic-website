@@ -7,20 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a research fellow at the School of Computing and Information Systems, University of Melbourne, working with [Prof. James Bailey](http://people.eng.unimelb.edu.au/baileyj/).
+I am currently a research fellow @ School of Computing and Information Systems, The University of Melbourne, working with Prof. [James Bailey](http://people.eng.unimelb.edu.au/baileyj/).
 
-I am a passionate researcher and have paritular interests in topics like adversarial attack/defense, noisy label learning, generative adversarial networks, and differential privacy and security. I am also intrigued by the connection between the universe, gravity, the Big Bang theory and space of deep neural networks.
+I am a passionate researcher with paritular interests in deep learning and computer vision topics: adversarial attack/defense, noisy label learning and generative adversarial networks (GANs). And have collabarated with Prof. [Michael E. Houle](http://research.nii.ac.jp/~meh/) (NII, Japan), A/P. [Bo Li](http://www.crystal-boli.com/)(UIUC), Dr. [Yisen Wang](https://www.cc.gatech.edu/~ywang3430/) (Tsinghua University) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC, Berkeley).
 
-I received my PhD degree from University of Melbourne (Australia), under the supervision of [Prof. r James Bailey](http://people.eng.unimelb.edu.au/baileyj/) and [Dr. Sudanthi Wijewickrema](http://findanexpert.unimelb.edu.au/display/person543793). Prior to my PhD, I completed my master at Tsinghua University (China) and bachelor at Jilin University (China).
+**_I will be able to supervise several Master by Research students at Unimelb starts from semaster 1, 2019, together with Prof. James Baiely. For Unimelb students, please don't hasitate to contact me if you are interested in deep learning. Projects/topics will appear in unimelb handbook._**
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've visited!</a></p>
+A little bit more about me. I received my PhD degree from the same university (The University of Melbourne), supervised by Prof. [James Bailey](http://people.eng.unimelb.edu.au/baileyj/) and Dr. [Sudanthi Wijewickrema](https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en). I obtained my MSE/B.E. degree from Tsinghua/Jilin University, China.
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of some places I've visited!</a></p>
 
 Contact me
 ------
 Email:<br/>
  NAME@ADDRESS<br/>
- where NAME = xingjun.ma and ADDRESS = unimelb.edu.au<br/>
+ where NAME = myfirstname.mylastname and ADDRESS = unimelb.edu.au<br/>
 
 Office:<br/>
-Room 9.15, Doug McDonell Building (Building 168),<br/>
-University of Melbourne, Victoria 3010, Australia<br/>
+Room 9.15, Doug McDonell Building (Building 168)<br/>
+University of Melbourne<br/>
+Victoria 3010, Australia<br/>

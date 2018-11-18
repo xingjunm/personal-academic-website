@@ -28,4 +28,9 @@ author_profile: true
 
 *03/2018:* Research intern at National Institute of Informatic, Tokyo Japan.
 
+2017
+=====
 *09/2017:* Poster presenation at MICCAI 2017, Quebec City, Canada.
+*08/2017:* Oral presentation at IJCAI 2017, Melbourne, Australia.
+*05/2017:* Paper accpeted at MICCAI 2017.
+*04/2017:* Paper accpeted at IJCAI 2017.

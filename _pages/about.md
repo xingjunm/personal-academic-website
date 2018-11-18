@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a research fellow @ School of Computing and Information Systems, The University of Melbourne, working with Prof. [James Bailey](http://people.eng.unimelb.edu.au/baileyj/).
+I am currently a research fellow @ School of Computing and Information Systems, The University of Melbourne, working with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
 
-I am a passionate researcher with particular interests in Deep Learning and Computer Vision topics: adversarial attack/defense, noisy label learning and generative adversarial networks (GANs). And have collabarated with Prof. [Michael E. Houle](http://research.nii.ac.jp/~meh/) (NII, Japan), A/P. [Bo Li](http://www.crystal-boli.com/)(UIUC), Dr. [Yisen Wang](https://www.cc.gatech.edu/~ywang3430/) (Tsinghua University) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC, Berkeley).
+I am a passionate researcher with particular interests in Deep Learning and Computer Vision topics: adversarial attack/defense, noisy label learning and generative adversarial networks (GANs). And have collabarated with <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="http://www.crystal-boli.com/" target="_blank">A/Prof. Bo Li</a> (UIUC), <a href="https://www.cc.gatech.edu/~ywang3430/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University) and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley).
 
-A little bit more about me: I received my PhD degree from The University of Melbourne (2018), supervised by Prof. [James Bailey](http://people.eng.unimelb.edu.au/baileyj/) and Dr. [Sudanthi Wijewickrema](https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en). Before that, I obtained my MSE/B.E. degrees from Tsinghua/Jilin University, China.
+A little bit more about me: I received my PhD degree from The University of Melbourne (2018), supervised by <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> and <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Dr. Sudanthi Wijewickrema</a>. Before that, I obtained my MSE/B.E. degrees from Tsinghua/Jilin University, China.
 
 **_I will be able to supervise several Master by Research students starting from 2019 semester 1, together with Prof. James Bailey. For Unimelb students, please don't hasitate to contact me if you are interested. Possible projects/topics will appear in Unimelb handbook._**
 

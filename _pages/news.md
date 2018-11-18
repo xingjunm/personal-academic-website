@@ -6,7 +6,7 @@ author_profile: true
 ---
 2018
 =====
-*12/2018: Session Chair of the Computer Science and IT session at <a href="www.capsaus.org/research-symposium-2018" target="_blank">The 11th Research Symposium for Chinese PhD Students and Scholars in Australia</a>.*
+*12/2018: Session Chair of the Computer Science and IT session at <a href="http://www.capsaus.org/?a=3FA592EB18CBDF30" target="_blank">The 11th Research Symposium for Chinese PhD Students and Scholars in Australia</a>.*
 
 *11/2018: We summited a paper to CVPR, 2019.*
 

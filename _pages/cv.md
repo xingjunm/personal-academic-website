@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Engineering, University of Melbourne, 2018
-* B.S. in Engineering, Tisnghua University, 2015
+* B.S. in Engineering, Tsinghua University, 2015
 * M.S. in Engineering, Jilin University, 2010
 
 Work experience
@@ -20,12 +20,12 @@ Work experience
 * 2018.3 - 2018.6: Research Intern
   * National Institute of Informatics, Tokyo, Japan
   * Duties included: Dimensionality Theory and Deep Neural Networks.
-  * Supervisor: Prof. [Michael E. Houle](http://research.nii.ac.jp/~meh/)
+  * Supervisor: <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>
 
 * 2016 - 2018: Research Assistant
   * Royal Victorian Eye and Ear Hospital, Melbourne
   * Duties included: Virtual reality based surgery training
-  * Supervisor: Prof. [Stephen O'Leary](https://www.findanexpert.unimelb.edu.au/display/person4669)
+  * Supervisor: <a href="https://www.findanexpert.unimelb.edu.au/display/person4669" target="_blank">Prof. Stephen O'Leary</a>
 
 * 2016.2 - 2017.2: Research Assistant
   * Apollo Medical Imaging Technology, Melbourne
@@ -67,7 +67,7 @@ Awards
   * Melbourne International Research Scholarship, University of Melbourne.
 
 * Before 2015:
-  * National Inspirational Scholarship, Jilin Univeristy
+  * National Inspirational Scholarship, Jilin University
   * Taida-Motorola Scholarship, Jilin University
   * Innovation Award, Jilin University
   * Outstanding Student Leader Award, Jilin University

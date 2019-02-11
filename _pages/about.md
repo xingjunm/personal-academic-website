@@ -38,7 +38,7 @@ I am a passionate researcher with broad interests in machine learning and deep l
 ------
 *For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested. (Note: research only.)*
 
-
+------
 <!---
 Professional Activities
 ------

@@ -38,6 +38,18 @@ Research Interests
 
 *For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested. (Note: research only.)*
 
+<!---
+Professional Activities
+------
+<ul>
+<li> Editorial Board: <a href="https://www.omicsonline.org/journal-clinical-research.php" target="_blank">Journal of Cilinical Research</a> </li>
+<li> Editorial Board: </li>
+<br/>
+<li> PC member for: </li>
+    <ul>
+        <li> KDD 2019 </li>
+    </ul>
+<ul> -->
 
 Contact Me
 ------

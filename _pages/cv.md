@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Engineering, University of Melbourne, 2018
-* B.S. in Engineering, Tsinghua University, 2015
-* M.S. in Engineering, Jilin University, 2010
+* Ph.D., The University of Melbourne, 2018
+* MSE, Tsinghua University, 2015
+* B.E., Jilin University, 2010
 
 Work experience
 ======
+* 2018.9 - 2020.9: Research Fellow
+  * The University of Melbournbe, Australia
+  * Duties included: Machine Learning/Data Mining Research.
+  * Supervisor: <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>
+
 * 2018.3 - 2018.6: Research Intern
   * National Institute of Informatics, Tokyo, Japan
   * Duties included: Dimensionality Theory and Deep Neural Networks.

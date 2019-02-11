@@ -6,17 +6,12 @@ author_profile: true
 ---
 2018
 =====
-*01/2019: We summited two papers to ICML, 2019.*
 
 *~~12/2018:~~ : Session Chair of the Computer Science and IT session at <a href="http://www.capsaus.org/?a=3FA592EB18CBDF30" target="_blank">The 11th Research Symposium for Chinese PhD Students and Scholars in Australia</a>.*
 
-*~~11/2018:~~ : We summited a paper to CVPR, 2019.*
-
-*~~09/2018:~~ : We summited a paper to ICLR, 2019.*
-
 *~~09/2018:~~ I take the position of Research Fellow in The University of Melbourne.*
 
-*~~09/2018:~~ I submit my PhD thesis: "Deep Learning with Adversarial Perturbations and Noisy Labels".*
+*~~09/2018:~~ I submit my PhD thesis: "Machine Learning with Adversarial Perturbations and Noisy Labels".*
 
 *~~07/2018:~~ Long talk at ICML 2018 Conference, Stockholm, Sweden.*
 

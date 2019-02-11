@@ -36,10 +36,10 @@ Research Interests
 <!---I am a passionate researcher with particular interests in Machine Learning, Deep Learning and Computer Vision topics: adversarial attack/defense, noisy label learning and generative adversarial networks (GANs). I have collabarated with <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University) and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley).-->
 
 
-*_For Unimelb students: I will be able to supervise several Master by Research students from 2019, contact me if you are interested. (Note: Unimelb students only, research only.)_*
+*For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested. (Note: research only.)*
 
 
 Contact Me
 ------
-Email: firstname.lastname@unimelb.edu.au <br/>
+Email: myfirstname.mylastname@unimelb.edu.au <br/>
 Office: Room 9.15, Doug McDonell Building (Building 168), University of Melbourne

@@ -1,11 +1,10 @@
 ---
 title: 'Robust Supervised Learning'
 date: 2019-05-01
-permalink: /posts/2019/05/blog-post-2/
+permalink: /posts/2019-robust
 tags:
-  - cool posts
-  - category1
-  - category2
+  - projects
+  - 2019
 ---
 
 1. Learning with noisy labels. 

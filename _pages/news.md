@@ -8,7 +8,7 @@ author_profile: true
 =====
 *05/2019 I will visit NII and RIKEN, Japan in June.*
 
-*04/2019: Our paper **On the Convergence and Robustness of Adversarial Training** is accepted to ICML 2019.*
+*04/2019: Our paper **On the Convergence and Robustness of Adversarial Training** has been accepted to ICML 2019.*
 
 
 2018
@@ -18,17 +18,17 @@ author_profile: true
 
 *~~09/2018:~~ I take the position of Research Fellow in The University of Melbourne.*
 
-*~~09/2018:~~ I submit my PhD thesis: "Machine Learning with Adversarial Perturbations and Noisy Labels".*
+*~~09/2018:~~ I have submitted my PhD thesis: "Machine Learning with Adversarial Perturbations and Noisy Labels".*
 
 *~~07/2018:~~ Long talk at ICML 2018 Conference, Stockholm, Sweden.*
 
-*~~05/2018:~~ Our paper is accepted at ICML 2018.*
+*~~05/2018:~~ 1 paper has been accepted to ICML 2018.*
 
-*~~02/2018:~~ Our paper is accepted at CVPR 2018 (Spotlight).*
+*~~02/2018:~~ 1 paper has been accepted to CVPR 2018 (Spotlight).*
 
 *~~05/2018:~~ Oral presentation at ICLR 2018, Vancouver, Canada.*
 
-*~~01/2018:~~ Our paper is accepted at ICLR 2018 (oral, 23/935).*
+*~~01/2018:~~ 1 paper has been accepted to ICLR 2018 (oral, top 2%).*
 
 *~~03/2018:~~ Research intern at National Institute of Informatic, Tokyo Japan.*
 
@@ -38,6 +38,6 @@ author_profile: true
 
 *~~08/2017:~~ Oral presentation at IJCAI 2017, Melbourne, Australia.*
 
-*~~05/2017:~~ Paper accpeted at MICCAI 2017.*
+*~~05/2017:~~ 1 paper accpeted to MICCAI 2017.*
 
-*~~04/2017:~~ Paper accpeted at IJCAI 2017.*
+*~~04/2017:~~ 1 paper accpeted to IJCAI 2017.*

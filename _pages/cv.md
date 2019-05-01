@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., The University of Melbourne, 2018
+* Ph.D., The University of Melbourne, 2019
 * MSE, Tsinghua University, 2015
 * B.E., Jilin University, 2010
 

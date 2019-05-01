@@ -4,6 +4,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+2019
+=====
+*05/2019 I will visit NII and RIKEN, Japan in June.*
+
+*04/2019: Our paper **On the Convergence and Robustness of Adversarial Training** is accepted to ICML 2019.*
+
+
 2018
 =====
 

@@ -4,9 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+2019
+-----
+Black-box Adversarial Attacks on Video Recognition Models. Linxi Jiang<sup>*</sup>, Xingjun Ma<sup>*</sup>, Shaoxiang Chen, James Bailey and Yu-Gang Jiang. arXiv preprint. <a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">arXiv:1904.05181</a>, 2019.
+
+**On the Convergence and Robustness of Adversarial Training.** Yisen Wang<sup>*</sup>, Xingjun Ma<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou and Quanquan Gu. To appear in Proceedings of the 36th International Conference on Machine Learning (ICML 2019), Long Beach, USA, 10-15 June, 2019.
+
+**Exploiting patterns to explain individual predictions.** Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie and Xingjun Ma. To appear in Knowledge and Information Systems (KAIS).
+
+
 2018
 -----
-**Dimensionality-Driven Learning with Noisy Labels.** Xingjun Ma, Yisen Wang, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey. *In  Proceedings of the International Conference on Machine Learning (ICML), PMLR 80:3361-3370, Stockholm, Sweden, 10-15 July, 2018.* Available <a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">here</a>. Code is <a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">here</a>.
+**Dimensionality-Driven Learning with Noisy Labels.** Xingjun Ma<sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey. *In  Proceedings of the International Conference on Machine Learning (ICML), PMLR 80:3361-3370, Stockholm, Sweden, 10-15 July, 2018.* Available <a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">here</a>. Code is <a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">here</a>.
 
 **Iterative Learning with Open-set Noisy Labels.** Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song and Shu-Tao Xia. *In Proceedings of the 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, Utah, USA, June 18-22, 2018.* Available <a href="https://arxiv.org/pdf/1804.00092.pdf" target="_blank">here</a>.
 

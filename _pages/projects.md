@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Projects"
+title: "2019 - 2020"
 permalink: /projects/
 author_profile: true
 ---
 
-2019 - 2020
------
-### Adversarial Machine Learning
+### 1. Adversarial Machine Learning
 
 * Exploring the vulnerability of machine learning mdoels to adverarial attacks under both black-box and white-box settings. 
 
@@ -21,13 +19,11 @@ author_profile: true
 
 * From Lp-bounded to unrestricted adversarial perturbations.
 
-### Robust Supervised/Weakly-Supervised Learning
+### 2. Robust Supervised/Weakly-Supervised Learning
 
-* Learning with noisy labels. 
+* Learning with noisy/adversarial labels. 
 
 * Learning with input noise.
-
-* Learning with adversarial labels.
 
 * Learning with adversarial back-door/trojan attacks.
 

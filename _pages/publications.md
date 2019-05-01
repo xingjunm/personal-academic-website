@@ -21,7 +21,7 @@ author_profile: true
 
 **Iterative Learning with Open-set Noisy Labels.** Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey,  Hongyuan  Zha, Le Song and Shu-Tao Xia. *In Proceedings of the 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, Utah, USA, June 18-22, 2018.* [<a href="https://arxiv.org/pdf/1804.00092.pdf" target="_blank">pdf</a>]
 
-**Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.** Xingjun Ma, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle and James Bailey. *In Proceedings of the 6th International Conference on Learning Representations (ICLR)* **(Oral, 23/935)***, Vancouver, BC, Canada, April 30 - May 3, 2018.* [Available ]<a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">pdf</a>, <a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]
+**Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.** Xingjun Ma, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle and James Bailey. *In Proceedings of the 6th International Conference on Learning Representations (ICLR)* **(Oral, 23/935)***, Vancouver, BC, Canada, April 30 - May 3, 2018.* [<a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">pdf</a>, <a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]
 
 **Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?** Sudanthi Wijewickrema, Xingjun Ma, Patorn Piromchai, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary, *In Proceedings of the 19th International Conference on Artificial Intelligence in Education (AIED), London, UK, June 27 - June 30, 2018.* [<a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf" target="_blank">pdf</a>]
 
@@ -41,7 +41,7 @@ author_profile: true
 
 **Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery.** Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary. *In Proceedings of the 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS), June 22-24, Thessaloniki, Greece, 2017.* [<a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf" target="_blank">pdf</a>]
 
-**Feedback Techniques in Computer-Based Simulation Training: A Survey.** Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. *arXiv preprint. [<a href="https://arxiv.org/pdf/1705.04683.pdf" target="_blank">arXiv:1705.04683</a>, 2017.*
+**Feedback Techniques in Computer-Based Simulation Training: A Survey.** Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary. *arXiv preprint. <a href="https://arxiv.org/pdf/1705.04683.pdf" target="_blank">arXiv:1705.04683</a>, 2017.*
 
 2016
 -----

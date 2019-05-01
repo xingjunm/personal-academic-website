@@ -11,7 +11,7 @@ author_profile: true
 
 * Defense machine learning models against adversarial attacks.
 
-* Improving dversarial training as a defense technique for model robustness.
+* Improving adversarial training as a defense technique for model robustness.
 
 * Model interpretation and understanding.
 

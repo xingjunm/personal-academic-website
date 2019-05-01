@@ -13,6 +13,7 @@ author_profile: true
 
 **Exploiting Patterns to Explain Individual Predictions.** Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie and Xingjun Ma. *To appear in Knowledge and Information Systems (KAIS).*
 
+**Machine Learning with Adversarial Perturbations and Noisy Labels.** Xingjun Ma, PhD thesis. [<a href="https://minerva-access.unimelb.edu.au/bitstream/handle/11343/219680/Machine%20Learning%20with%20Adversarial%20Perturbations%20and%20Noisy%20Labels.pdf?sequence=1&isAllowed=y" target="_blank">pdf</a>]
 
 2018
 -----

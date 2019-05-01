@@ -6,7 +6,7 @@ author_profile: true
 ---
 2019
 =====
-*05/2019 I will visit NII and RIKEN, Japan in June.*
+*05/2019: I will visit NII and RIKEN, Japan in June.*
 
 *04/2019: Our paper **On the Convergence and Robustness of Adversarial Training** has been accepted to ICML 2019.*
 

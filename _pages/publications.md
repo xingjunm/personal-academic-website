@@ -7,6 +7,8 @@ author_profile: true
 
 2019
 -----
+**Generative Image Inpainting with Submanifold Alignment.** Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Ramamohanarao Kotagiri. _To appear in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), August 10-16, 2019, Macao, China._
+
 **Black-box Adversarial Attacks on Video Recognition Models.** Linxi Jiang<sup>*</sup>, Xingjun Ma<sup>*</sup>, Shaoxiang Chen, James Bailey and Yu-Gang Jiang. _arXiv preprint. <a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">arXiv:1904.05181</a>, 2019._
 
 **On the Convergence and Robustness of Adversarial Training.** Yisen Wang<sup>*</sup>, Xingjun Ma<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou and Quanquan Gu. _To appear in Proceedings of the 36th International Conference on Machine Learning (ICML 2019), Long Beach, USA, 10-15 June, 2019._

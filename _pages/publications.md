@@ -5,14 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+Preprint
+-----
+<a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
+Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey and Yu-Gang Jiang <br/>arXiv preprint
+
 2019
 -----
 Generative Image Inpainting with Submanifold Alignment<br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2019
-
-<a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
-Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey and Yu-Gang Jiang arXiv preprint.
 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf" target="_blank">
 On the Convergence and Robustness of Adversarial Training</a><br/>
@@ -53,6 +55,7 @@ International Conference on Artificial Intelligence in Education (**AIED**), 201
 Sudanthi Wijewickrema, Bridget Copson, **Xingjun Ma**, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/> 
 International Symposium on Computer-Based Medical Systems (**CBMS**), 2018
 -->
+
 
 2017
 -----

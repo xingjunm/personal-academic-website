@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Xingjun (Daniel) Ma"
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/

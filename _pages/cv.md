@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-#### EDUCATION
-
+EDUCATION
+------
 * Ph.D., The University of Melbourne, 2019
 * M.Eng., Tsinghua University, 2015
 * B.Eng., Jilin University, 2010
 
-#### WORKING EXPERIENCE
+WORKING EXPERIENCE
+------
 * 2018.9 - 2020.9: Research Fellow
   * The University of Melbournbe, Australia
   * Duties included: Machine Learning/Data Mining Research.
@@ -44,16 +45,19 @@ redirect_from:
   * Datang Telecom Technology Co., Ltd., Beijing
   * Duties included: Telecom device management systems
 
-#### SKILLS
+SKILLS
+------
 * Python: Tensorflow, Keras, PyTorch
 * Java, Matlab, SQL
 
-#### TEACHING
+TEACHING
+------
 * Tutoring, University of Melbourne
   * Knowledge Technology
   * Computer Systems
 
-#### AWARDS
+AWARDS
+------
 * 2018: ICML-2018 Travel Award, ICLR-2018 Travel Award
 
 * 2016:

@@ -8,7 +8,7 @@ author_profile: true
 Preprint
 -----
 <a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
-Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint
+Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint.
 
 2019
 -----

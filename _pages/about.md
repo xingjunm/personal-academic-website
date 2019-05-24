@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research fellow at the School of Computing and Information Systems, The University of Melbourne, where also I received my PhD in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. degrees from Tsinghua University and Jilin University successively.
+I am a research fellow at the School of Computing and Information Systems, The University of Melbourne, where also I obtained my PhD in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. degrees from Tsinghua University and Jilin University successively.
 
 Research Interests:
 ------

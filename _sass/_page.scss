@@ -37,7 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -175,7 +175,7 @@
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-6;
   background: #000;
   text-align: right;
   z-index: 5;
@@ -217,7 +217,7 @@
 
 .page__share-title {
   margin-bottom: 10px;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   text-transform: uppercase;
 }
 

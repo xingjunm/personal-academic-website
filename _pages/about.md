@@ -28,7 +28,7 @@ I am a passionate researcher with broad interests in machine learning, deep lear
 ------
 *For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.*
 
-*For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested (research only).*
+*For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested (**research only**).*
 
 ------
 

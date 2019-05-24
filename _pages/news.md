@@ -17,9 +17,9 @@ author_profile: true
 * 07/2018: Long talk at ICML 2018 Conference, Stockholm, Sweden.
 * 05/2018: One paper has been accepted to ICML 2018.
 * 02/2018: One paper has been accepted to CVPR 2018 (Spotlight).
-* 05/2018:~~ Oral presentation at ICLR 2018, Vancouver, Canada.
-* 01/2018:~~ One paper has been accepted to ICLR 2018 (oral, top 2%).
-* 03/2018:~~ Research intern at National Institute of Informatic, Tokyo Japan.
+* 05/2018: Oral presentation at ICLR 2018, Vancouver, Canada.
+* 01/2018: One paper has been accepted to ICLR 2018 (oral, top 2%).
+* 03/2018: Research intern at National Institute of Informatic, Tokyo Japan.
 
 ### 2017
 * 09/2017: Poster presenation at MICCAI 2017, Quebec City, Canada.

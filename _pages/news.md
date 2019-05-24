@@ -5,14 +5,14 @@ permalink: /news/
 author_profile: true
 ---
 
-#### 2019
+### 2019
 
 *05/2019: I will visit NII and RIKEN, Japan in June.*
 
 *04/2019: Our paper **On the Convergence and Robustness of Adversarial Training** has been accepted to ICML 2019.*
 
 
-#### 2018
+### 2018
 
 *~~12/2018:~~ : Session Chair of the Computer Science and IT session at <a href="http://www.capsaus.org/?a=3FA592EB18CBDF30" target="_blank">The 11th Research Symposium for Chinese PhD Students and Scholars in Australia</a>.*
 
@@ -32,7 +32,7 @@ author_profile: true
 
 *~~03/2018:~~ Research intern at National Institute of Informatic, Tokyo Japan.*
 
-#### 2017
+### 2017
 
 *~~09/2017:~~ Poster presenation at MICCAI 2017, Quebec City, Canada.*
 

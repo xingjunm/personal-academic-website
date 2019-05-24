@@ -8,7 +8,7 @@ author_profile: true
 Preprint
 -----
 <a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
-Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey and Yu-Gang Jiang <br/>arXiv preprint
+Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint
 
 2019
 -----
@@ -18,11 +18,11 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2019
 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf" target="_blank">
 On the Convergence and Robustness of Adversarial Training</a><br/>
-Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou and Quanquan Gu<br/>
+Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
 International Conference on Machine Learning (**ICML**), 2019
 
 Exploiting Patterns to Explain Individual Predictions<br/>
-Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie and **Xingjun Ma**<br/>
+Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
 Knowledge and Information Systems (**KAIS**)
 
 <!-- 
@@ -33,16 +33,16 @@ Xingjun Ma, PhD thesis.
 2018
 -----
 <a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality</a>[<a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]<br/>
-**Xingjun Ma**, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle and James Bailey<br/>
+**Xingjun Ma**, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle, James Bailey<br/>
 International Conference on Learning Representations (**ICLR**), 2019, **(Oral, top 2%)**.
 
 
 <a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">Dimensionality-Driven Learning with Noisy Labels</a>[<a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">code</a>]<br/>
-**Xingjun Ma**<sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema and James Bailey<br/>
+**Xingjun Ma**<sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema, James Bailey<br/>
 International Conference on Machine Learning (**ICML**), 2018, **Long talk**.
 
 <a href="https://arxiv.org/pdf/1804.00092.pdf" target="_blank">Iterative Learning with Open-set Noisy Labels</a><br/>
-Yisen Wang, Weiyang Liu, **Xingjun Ma**, James Bailey,  Hongyuan  Zha, Le Song and Shu-Tao Xia<br/>
+Yisen Wang, Weiyang Liu, **Xingjun Ma**, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019, **Spotlight**.
 
 <!-- 
@@ -68,7 +68,7 @@ Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, **Xingjun Ma** and Sh
 AAAI Conference on Artificial Intelligence (**AAAI**), 2017
 
 <a href="https://arxiv.org/pdf/1703.01460.pdf" target="_blank">Providing Effective Real-time Feedback in Simulation-based Surgical Training</a><br/> 
-** Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey<br/> 
+**Xingjun Ma**, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey<br/> 
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2017
 
 

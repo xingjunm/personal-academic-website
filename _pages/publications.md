@@ -32,12 +32,12 @@ Xingjun Ma, PhD thesis.
 
 2018
 -----
-<a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality</a>[<a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]<br/>
+<a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality</a> [<a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]<br/>
 **Xingjun Ma**, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle, James Bailey<br/>
 International Conference on Learning Representations (**ICLR**), 2019, **(Oral, top 2%)**.
 
 
-<a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">Dimensionality-Driven Learning with Noisy Labels</a>[<a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">code</a>]<br/>
+<a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">Dimensionality-Driven Learning with Noisy Labels</a> [<a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">code</a>]<br/>
 **Xingjun Ma**<sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema, James Bailey<br/>
 International Conference on Machine Learning (**ICML**), 2018, **Long talk**.
 

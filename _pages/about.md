@@ -1,26 +1,26 @@
 ---
 permalink: /
-title: "About me"
+title: "Xingjun (Daniel) Ma"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a research fellow at School of Computing and Information Systems, The University of Melbourne, working with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. I received my PhD degree from The University of Melbourne (2019), supervised by <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> and <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Dr. Sudanthi Wijewickrema</a>.
+I am a research fellow at the School of Computing and Information Systems, The University of Melbourne, where also I received my PhD degree, 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. degrees from Tsinghua University, China and Jilin University, China respectively.
 
-Research Interests
+Research Interests:
 ------
 <ul>
-<li> Machine Learning </li>
+<li> Adversarial Machine Learning </li>
 <!--     <ul>
         <li> Information Theory </li>
         <li> Manifold and Intrinsic Dimensionality </li>
     </ul> -->
 <li> Deep Learning</li>
 <li> Computer Vision</li>
-<li> Artificial Intelligence</li>
-<!--     <ul>
+<!--<li> Artificial Intelligence</li>
+     <ul>
         <li> Adversarial Attack/Defense </li>
         <li> Learning with Noisy Labels </li>
         <li> Deep Representation Learning </li> 
@@ -33,7 +33,7 @@ Research Interests
     </ul> -->
 </ul>
 
-I am a passionate researcher with broad interests in machine learning and deep learning theory/applications, and have collabarated with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> (UniMelb), <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley), <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="http://www.crystal-boli.com/" target="_blank">A/Prof. Bo Li</a> (UIUC), <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">A/Prof. Sarah Erfani</a> (UniMelb), <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Dr. Sudanthi Wijewickrema</a> (UniMelb), and <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University).
+I am a passionate researcher with broad interests in machine learning, deep learning, their theory and applications. I am also very lucky to have wonderful collabarations with many highly respected researchers and professors, including <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> (UniMelb), <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley), <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="http://www.crystal-boli.com/" target="_blank">A/Prof. Bo Li</a> (UIUC), <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">A/Prof. Sarah Erfani</a> (UniMelb), <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Dr. Sudanthi Wijewickrema</a> (UniMelb), and <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University).
 
 ------
 *For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.*
@@ -54,7 +54,7 @@ Professional Activities
     </ul>
 <ul> -->
 
-Contact Me
+Contact Me:
 ------
-Email: y_true.y_pred@unimelb.edu.au WHERE y_true/y_pred is my firstname/lastname. <br/>
+Email: $\alpha$.$\beta$@unimelb.edu.au WHERE $\alpha$/$\beta$ is my first/lastname. <br/>
 Office: Room 9.15, Doug McDonell Building (Building 168), University of Melbourne

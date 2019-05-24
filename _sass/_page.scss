@@ -57,7 +57,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: $type-size-6;
   }
 
   /* paragraph indents */
@@ -234,7 +234,6 @@
 
   p {
     margin: 0;
-    font-size: $type-size-6;
   }
 
   a {

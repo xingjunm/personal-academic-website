@@ -26,8 +26,10 @@ I am a passionate researcher with broad interests in machine learning, deep lear
 * PC member: KDD 2019, NeurIPS 2019
 
 ------
-* For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.
-For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested (research only).*
+*For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.*
+
+*For Unimelb students: I will be able to supervise several Master by Research students from semester 1, 2019, contact me if you are interested (research only).*
+
 ------
 
 ### Contact Me:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+#### EDUCATION
+
 * Ph.D., The University of Melbourne, 2019
 * M.Eng., Tsinghua University, 2015
 * B.Eng., Jilin University, 2010
 
-Work experience
-======
+#### WORKING EXPERIENCE
 * 2018.9 - 2020.9: Research Fellow
   * The University of Melbournbe, Australia
   * Duties included: Machine Learning/Data Mining Research.
@@ -45,24 +44,17 @@ Work experience
   * Datang Telecom Technology Co., Ltd., Beijing
   * Duties included: Telecom device management systems
 
-Skills
-======
-* Python
-  * Tensorflow
-  * Keras
+#### SKILLS
+* Python: Tensorflow, Keras, PyTorch
 * Java, Matlab, SQL
 
-Teaching
-======
+#### TEACHING
 * Tutoring, University of Melbourne
   * Knowledge Technology
   * Computer Systems
 
-Awards
-======
-* 2018:
-  * ICML-2018 Travel Award
-  * ICLR-2018 Travel Award
+#### AWARDS
+* 2018: ICML-2018 Travel Award, ICLR-2018 Travel Award
 
 * 2016:
   * The 2016 Melbourne Datathon Pitch Competition: 2nd place

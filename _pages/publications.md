@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Preprint
+### Preprint
 
 <a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
 Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint.
 
-#### 2019
+### 2019
 
 Generative Image Inpainting with Submanifold Alignment<br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
@@ -30,7 +30,7 @@ Knowledge and Information Systems (**KAIS**)
 Xingjun Ma, PhD thesis.
 -->
 
-#### 2018
+### 2018
 
 <a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality</a> [<a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]<br/>
 **Xingjun Ma**, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle, James Bailey<br/>
@@ -57,7 +57,7 @@ International Symposium on Computer-Based Medical Systems (**CBMS**), 2018
 -->
 
 
-#### 2017
+### 2017
 
 <a href="https://arxiv.org/pdf/1703.01460.pdf" target="_blank">Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training</a><br/> 
 **Xingjun Ma**, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary and James Bailey.<br/>

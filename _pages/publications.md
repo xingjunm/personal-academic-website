@@ -16,7 +16,7 @@ Generative Image Inpainting with Submanifold Alignment<br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2019
 
-<a href="https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf" target="_blank">
+<a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
 On the Convergence and Robustness of Adversarial Training</a><br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
 International Conference on Machine Learning (**ICML**), 2019

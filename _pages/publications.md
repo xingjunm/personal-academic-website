@@ -19,9 +19,10 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2019
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
 On the Convergence and Robustness of Adversarial Training</a><br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
-International Conference on Machine Learning (**ICML**), 2019
+International Conference on Machine Learning (**ICML**), 2019, **Long talk**.
 
-Exploiting Patterns to Explain Individual Predictions<br/>
+<a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> 
+Exploiting Patterns to Explain Individual Predictions</a><br/>
 Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
 Knowledge and Information Systems (**KAIS**)
 

@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ### Preprint
+### Preprint
 
-<a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
-Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint. -->
+<a href="https://arxiv.org/abs/1905.00643" target="_blank">Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</a><br/>
+Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey <br/>arXiv preprint.
 
 ### 2019
 

@@ -5,12 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprint
+<!-- ### Preprint
 
 <a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">Black-box Adversarial Attacks on Video Recognition Models</a><br/>
-Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint.
+Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang <br/>arXiv preprint. -->
 
 ### 2019
+
+<a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">
+Black-box Adversarial Attacks on Video Recognition Models</a><br/>
+Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
+ACM International Conference on Multimedia (**MM**), 2019.
 
 Generative Image Inpainting with Submanifold Alignment<br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
@@ -19,7 +24,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2019
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
 On the Convergence and Robustness of Adversarial Training</a><br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
-International Conference on Machine Learning (**ICML**), 2019, **Long talk**.
+International Conference on Machine Learning (**ICML**), 2019, **Long Oral**.
 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> 
 Exploiting Patterns to Explain Individual Predictions</a><br/>
@@ -40,7 +45,7 @@ International Conference on Learning Representations (**ICLR**), 2019, **(Oral, 
 
 <a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">Dimensionality-Driven Learning with Noisy Labels</a> [<a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">code</a>]<br/>
 **Xingjun Ma**<sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema, James Bailey<br/>
-International Conference on Machine Learning (**ICML**), 2018, **Long talk**.
+International Conference on Machine Learning (**ICML**), 2018, **Long Oral**.
 
 <a href="https://arxiv.org/pdf/1804.00092.pdf" target="_blank">Iterative Learning with Open-set Noisy Labels</a><br/>
 Yisen Wang, Weiyang Liu, **Xingjun Ma**, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia<br/>

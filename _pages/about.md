@@ -23,7 +23,9 @@ I am a passionate researcher with broad interests in machine learning, deep lear
 
 
 ### Professional Activities:
-* PC member: KDD 2019, NeurIPS 2019
+* Editorial Board: <a href="http://kais.bigke.org/" target="_blank">Knowledge and Information Systems</a>.
+* Editorial Board: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">IEEE Transactions on Industrial Informatics</a>.
+* PC Member: KDD 2019, NeurIPS 2019.
 
 ------
 *For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.*

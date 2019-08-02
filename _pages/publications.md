@@ -31,12 +31,13 @@ Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfen
 International Conference on Computer Vision (**ICCV**), 2019.
 -->
 
-<a href="https://arxiv.org/pdf/1904.05181.pdf" target="_blank">
+<a href="https://arxiv.org/abs/1904.05181" target="_blank">
 Black-box Adversarial Attacks on Video Recognition Models</a><br/>
 Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
 ACM International Conference on Multimedia (**MM**), 2019.
 
-Generative Image Inpainting with Submanifold Alignment<br/>
+<a href="http://arxiv.org/abs/1908.00211" target="_blank">
+Generative Image Inpainting with Submanifold Alignment</a><br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
 

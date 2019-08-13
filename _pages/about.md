@@ -15,8 +15,8 @@ I am a passionate researcher with broad interests in machine learning, deep lear
 ### Research Interests:
 * Machine Learning
   * Adversarial machine learning
-  * Model interpretation
   * Weakly supervised learning
+  * Model interpretation
 * Deep Learning
   * Adversarial attack/defense
   * Generative adverarial networks
@@ -28,7 +28,7 @@ I am a passionate researcher with broad interests in machine learning, deep lear
 	* Knowledge and Information Systems
 	* IEEE Transactions on Industrial Informatics
 * Conference Reviewer: 
-	* KDD 2019, NeurIPS 2019.
+	* AAAI 2020, ICLR 2020, KDD 2019, NeurIPS 2019.
 
 ------
 *For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.*

@@ -28,7 +28,7 @@ I am a passionate researcher with broad interests in machine learning, deep lear
 	* Knowledge and Information Systems
 	* IEEE Transactions on Industrial Informatics
 * Conference Reviewer: 
-	* AAAI 2020, ICLR 2020, KDD 2019, NeurIPS 2019.
+	* ICLR 2020, AAAI 2020, KDD 2019, NeurIPS 2019.
 
 ------
 *For PhD applicants: funded PhD positions are available in our group on adversarial machine learning research.*

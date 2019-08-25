@@ -20,16 +20,15 @@ Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong
 
 ### 2019
 
+<a href="https://arxiv.org/abs/1908.06112" target="_blank">
+Symmetric Cross Entropy for Robust Learning with Noisy Labels</a><br/>
+Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
+International Conference on Computer Vision (**ICCV**), 2019.
+
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
 On the Convergence and Robustness of Adversarial Training</a><br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
 International Conference on Machine Learning (**ICML**), 2019, **long talk**.
-
-<!--
-Symmetric Cross Entropy for Robust Learning with Noisy Labels<br/>
-Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
-International Conference on Computer Vision (**ICCV**), 2019.
--->
 
 <a href="https://arxiv.org/abs/1904.05181" target="_blank">
 Black-box Adversarial Attacks on Video Recognition Models</a><br/>
@@ -66,12 +65,12 @@ International Conference on Machine Learning (**ICML**), 2018, **long talk**.
 Yisen Wang, Weiyang Liu, **Xingjun Ma**, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019, **spotlight**.
 
-<!-- 
+
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf" target="_blank">Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?</a><br/>
 Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Learybr/>
 International Conference on Artificial Intelligence in Education (**AIED**), 2018
 
-
+<!-- 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf" target="_blank">Development and Validation of a Virtual Reality Tutor to Teach Clinically Oriented Surgical Anatomy of the Ear</a><br/>
 Sudanthi Wijewickrema, Bridget Copson, **Xingjun Ma**, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/> 
 International Symposium on Computer-Based Medical Systems (**CBMS**), 2018
@@ -92,7 +91,6 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2017.
 **Xingjun Ma**, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey<br/> 
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2017.
 
-
 <!-- 
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-2.pdf" target="_blank">Simulation for Training Cochlear Implant Electrode Insertion</a><br/>
 **Xingjun Ma**, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
@@ -112,6 +110,6 @@ arXiv preprint
 -----
 <a href="https://arxiv.org/pdf/1703.01468.pdf" target="_blank">Finding Influentials in Twitter: A Temporal Influence Ranking Model</a><br/>
 **Xingjun Ma**, Chunping Li, James Bailey and Sudanthi Wijewickrema<br/>
-Australasian Data Mining (**AusDM**), 2016 
+Australasian Data Mining (**AusDM**), 2016
 -->
 

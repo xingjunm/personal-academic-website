@@ -32,10 +32,10 @@ I have a broad interest in machine learning, deep learning, both theory and appl
 
 ------
 <span style="color:blue">
-For PhD applicants: funded positions are available for 2020 in our group on adversarial machine learning research. Please directly contact <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
+For PhD applicants: funded positions are available for 2020 in our group on adversarial machine learning research. Please directly contact</span> <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
 
-For Unimelb master students, contact me if you are: 1) familar with web skills: jave script, node.js, html, etc. (send me a demo), or 2) familar with machine learning and deep learning knowledge and tools such as pytorch, tensorflow, keras. (send me your academic transcript and some code).
-</span>
+<span style="color:blue">For Unimelb master students, contact me if you are familar with: 1) web skills such as jave script, node.js and html; and 2) machine/deep learning knowledge/tools such as pytorch, tensorflow, keras. (send me your academic transcript and some code).</span>
+
 ------
 
 ### Contact Me:

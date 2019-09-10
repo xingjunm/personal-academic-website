@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a research fellow at the School of Computing and Information Systems, The University of Melbourne, where also I obtained my PhD in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. degrees from Tsinghua University and Jilin University successively.
 
-I have broad interests in machine learning, deep learning, both theory and applications. I am very lucky to have wonderful collabarations with highly respected researchers. Please, feel free to contact me if you want to collabrate.
+I have a broad interest in machine learning, deep learning, both theory and applications. I am very lucky to have wonderful collabarations with highly respected researchers. Please, feel free to contact me if you want to collabrate.
  <!-- including <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> (UniMelb), <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), <a href="http://www.crystal-boli.com/" target="_blank">A/Prof. Bo Li</a> (UIUC), <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">A/Prof. Sarah Erfani</a> (UniMelb), <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Dr. Sudanthi Wijewickrema</a> (UniMelb), and <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University). -->
 
 ### Research Interests:

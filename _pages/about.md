@@ -17,13 +17,16 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
 
 ### Research Interests:
 * Machine Learning
+  * Secure/Robust/Explainable machine learning
   * Adversarial machine learning
   * Weakly supervised learning
-  * Explainable machine earning
-* Deep Learning
+  * Reinforcement learning
+* Deep Learning and Security
   * Adversarial attack/defense
+  * Backdoor attack/defense
   * Generative adverarial networks
-  * Computer vision/Users/xingjunm1/Library/Application Support/Mendeley Desktop/Downloaded
+  * Applications: object recognition, image inpainting, object detection, video recognition, automatic speech recognition
+* Artifical Intelligence
 
 
 ### Professional Activities:

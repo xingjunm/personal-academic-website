@@ -27,12 +27,17 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
   * Generative adverarial networks
   * Applications: object recognition, image inpainting, object detection, video recognition, automatic speech recognition
 * Artifical Intelligence
+  * Medical AI
+  * Virtual reality surgery
 
 
 ### Professional Activities:
 * Journal Reviewer:
 	* Knowledge and Information Systems
 	* IEEE Transactions on Industrial Informatics
+  * Journal of Clinical Research
+  * IEEE Robotics and Automation Letters
+
 * Conference Reviewer: 
 	* ICLR 2020, AAAI 2020, KDD 2019, NeurIPS 2019.
 

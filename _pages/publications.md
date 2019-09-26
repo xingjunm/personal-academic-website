@@ -67,7 +67,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019,
 
 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf" target="_blank">Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?</a><br/>
-Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Learybr/>
+Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (**AIED**), 2018
 
 <!-- 

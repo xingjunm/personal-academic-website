@@ -33,6 +33,7 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
 
 ### Professional Activities:
 * Journal Reviewer:
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence
 	* Knowledge and Information Systems
 	* IEEE Transactions on Industrial Informatics
   * Journal of Clinical Research

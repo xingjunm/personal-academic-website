@@ -35,8 +35,9 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
 * Journal Reviewer:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence
   * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Neural Networks and Learning Systems
   * Knowledge and Information Systems
-	* IEEE Transactions on Industrial Informatics
   * Journal of Clinical Research
   * IEEE Robotics and Automation Letters
 

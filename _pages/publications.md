@@ -17,6 +17,16 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 <a href="https://arxiv.org/abs/1906.01167" target="_blank">Towards Fair and Decentralized Privacy-Preserving Deep Learning with Blockchain</a><br/>
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin
 
+### 2020
+
+<a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank">
+Skip connections matter: on the transferability of adversarial examples generated with ResNets.</a><br/>
+YDongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and Xingjun Ma<br/>
+International Conference on Learning Representations (**ICLR**), 2020, **Spotlight(top 6%)**.
+
+<a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank">
+Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a><br/> Yisen Wang, Difan Zou, James Bailey, Xingjun Ma and Quanquan Gu <br/>
+International Conference on Learning Representations (**ICLR**), 2020.
 
 ### 2019
 

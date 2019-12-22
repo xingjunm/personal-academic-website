@@ -33,16 +33,18 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
 
 ### Professional Activities:
 * Journal Reviewer:
+  * Pattern Recognition
   * IEEE Transactions on Pattern Analysis and Machine Intelligence
+  * IEEE Transactions on Neural Networks and Learning Systems
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Industrial Informatics
-  * IEEE Transactions on Neural Networks and Learning Systems
+  * ACM Transactions on Multimedia Computing Communications and Applications
   * Knowledge and Information Systems
   * Journal of Clinical Research
   * IEEE Robotics and Automation Letters
 
 * Conference Reviewer:
-	* ICML2020, ICLR 2020, AAAI 2020, KDD 2019, NeurIPS 2019.
+	* IJCAI2020, ICML2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
 
 ------
 <span style="color:blue">

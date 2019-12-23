@@ -43,7 +43,7 @@ International Conference on Machine Learning (**ICML**), 2019, **long talk**.
 <a href="https://arxiv.org/abs/1904.05181" target="_blank">
 Black-box Adversarial Attacks on Video Recognition Models</a><br/>
 Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (**MM**), 2019.
+ACM International Conference on Multimedia (**ACMMM**), 2019.
 
 <a href="http://arxiv.org/abs/1908.00211" target="_blank">
 Generative Image Inpainting with Submanifold Alignment</a><br/>

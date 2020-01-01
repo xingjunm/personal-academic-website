@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate lecturer in the School of Computing and Information Systems, University of Melbourne, where I alsovobtained my PhD in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. from Tsinghua University and Jilin University successively. I have a broad interest in theory and applications of machine learning and deep learning.
+I am an associate lecturer in the School of Computing and Information Systems, University of Melbourne, where I also obtained my PhD degree in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. from Tsinghua University and Jilin University successively. I have a broad interest in the theory and applications of machine learning and deep learning.
 
 I am also very fortunate to have visited National Institute of Informatics, Japan invited by <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>, and RIKEN, Japan by <a href="https://bhanml.github.io/" target="_blank">Dr. Bo Han</a>, <a href="https://niug1984.github.io/" target="_blank">Dr. Gang Niu</a> and <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" target="_blank">Prof. Masashi Sugiyama</a>.
 

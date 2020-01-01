@@ -20,7 +20,7 @@ Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong
 ### 2020
 
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank">
-Rethinking the Security of Skip Connections in ResNet-like Neural Networks.</a><br/>
+Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</a><br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and Xingjun Ma<br/>
 International Conference on Learning Representations (**ICLR**), 2020, **(spotlight, top 6%)**.
 

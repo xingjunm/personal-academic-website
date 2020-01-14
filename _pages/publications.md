@@ -64,7 +64,7 @@ Xingjun Ma, PhD thesis.
 
 <a href="https://arxiv.org/pdf/1801.02613.pdf" target="_blank">Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality</a> [<a href="https://github.com/xingjunm/lid_adversarial_subspace_detection" target="_blank">code</a>]<br/>
 **Xingjun Ma**, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle, James Bailey<br/>
-International Conference on Learning Representations (**ICLR**), 2019, **(oral, top 2%)**.
+International Conference on Learning Representations (**ICLR**), 2018, **(oral, top 2%)**.
 
 
 <a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank">Dimensionality-Driven Learning with Noisy Labels</a> [<a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank">code</a>]<br/>
@@ -73,7 +73,7 @@ International Conference on Machine Learning (**ICML**), 2018, **long talk**.
 
 <a href="https://arxiv.org/pdf/1804.00092.pdf" target="_blank">Iterative Learning with Open-set Noisy Labels</a><br/>
 Yisen Wang, Weiyang Liu, **Xingjun Ma**, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019, **spotlight**.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, **spotlight**.
 
 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf" target="_blank">Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?</a><br/>

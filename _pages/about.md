@@ -43,8 +43,8 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
   * Journal of Clinical Medicine (JCM)
   * IEEE Robotics and Automation Letters (RA-L)
 
-* Conference Reviewer:
-	* IJCAI2020, ICML2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
+* PC Member:
+	* ICML2020, IJCAI2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
 
 ------
 <span style="color:blue">

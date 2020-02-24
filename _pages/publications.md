@@ -18,30 +18,38 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin
 
 ### 2020
+Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles.<br/>
+Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
+
+Clean-Label Backdoor Attacks on Video Recognition Models.<br/>
+Shihao Zhao, **Xingjun Ma**, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank">
-Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</a><br/>
-Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and Xingjun Ma<br/>
+Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</a>[<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank">code</a>]<br/>
+Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
 International Conference on Learning Representations (**ICLR**), 2020, **(spotlight, top 6%)**.
 
 <a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank">
-Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a><br/> Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, Xingjun Ma and Quanquan Gu <br/>
+Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a><br/> 
+Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
 International Conference on Learning Representations (**ICLR**), 2020.
 
 ### 2019
 
 <a href="https://arxiv.org/abs/1908.06112" target="_blank">
-Symmetric Cross Entropy for Robust Learning with Noisy Labels</a><br/>
+Symmetric Cross Entropy for Robust Learning with Noisy Labels</a>[<a href="https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels" target="_blank">code</a>]<br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
 International Conference on Computer Vision (**ICCV**), 2019.
 
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
-On the Convergence and Robustness of Adversarial Training</a><br/>
+On the Convergence and Robustness of Adversarial Training</a>[<a href="https://github.com/YisenWang/dynamic_adv_training" target="_blank">code</a>]<br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
 International Conference on Machine Learning (**ICML**), 2019, **long talk**.
 
 <a href="https://arxiv.org/abs/1904.05181" target="_blank">
-Black-box Adversarial Attacks on Video Recognition Models</a><br/>
+Black-box Adversarial Attacks on Video Recognition Models</a>[<a href="https://github.com/Jack-lx-jiang/VBAD" target="_blank">code</a>]<br/>
 Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
 ACM International Conference on Multimedia (**ACMMM**), 2019.
 

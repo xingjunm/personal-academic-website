@@ -10,7 +10,6 @@ author_profile: true
 <a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu
 
-
 <a href="https://arxiv.org/abs/1905.00643" target="_blank">Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</a><br/>
 Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
@@ -29,10 +28,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank">
 Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</a>[<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank">code</a>]<br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
-International Conference on Learning Representations (**ICLR**), 2020, **(spotlight, top 6%)**.
+International Conference on Learning Representations (**ICLR**), 2020, **(spotlight, top 4%)**.
 
 <a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank">
-Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a><br/> 
+Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a>[<a href="https://github.com/YisenWang/MART" target="_blank">code</a>]<br/> 
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
 International Conference on Learning Representations (**ICLR**), 2020.
 

@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate lecturer in the School of Computing and Information Systems, University of Melbourne, where I also obtained my PhD degree in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. from Tsinghua University and Jilin University successively. I have a broad interest in the theory and applications of machine learning and deep learning.
+I am a research fellow and an associate lecturer in the School of Computing and Information Systems, The University of Melbourne. I obtained my B.Eng., M.Eng. and PhD degrees from Jilin University (China), Tsinghua University (China) and The University of Melbourne (2019). I have a broad interest in the theory and applications of machine learning and deep learning.
 
+
+I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
 I have also visited National Institute of Informatics, Japan invited by <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>, and RIKEN, Japan by <a href="https://bhanml.github.io/" target="_blank">Dr. Bo Han</a>, <a href="https://niug1984.github.io/" target="_blank">Dr. Gang Niu</a> and <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" target="_blank">Prof. Masashi Sugiyama</a>.
 
 <!-- collabarated with highly respected researchers including <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> (UniMelb), <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), <a href="http://www.crystal-boli.com/" target="_blank">A/Prof. Bo Li</a> (UIUC), <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">A/Prof. Sarah Erfani</a> (UniMelb), and <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University). -->
@@ -32,19 +34,20 @@ I have also visited National Institute of Informatics, Japan invited by <a href=
 
 
 ### Professional Activities:
+* PC Member:
+  * ICML2020, IJCAI2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
 * Journal Reviewer:
   * Pattern Recognition
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  * IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  * IEEE Transactions on Industrial Informatics (IEEE T IND INFORM)
-  * ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)
-  * Knowledge and Information Systems (KAIS)
-  * Journal of Clinical Medicine (JCM)
-  * IEEE Robotics and Automation Letters (RA-L)
+  * Journal of Clinical Medicine
+  * Knowledge and Information Systems
+  * IEEE Robotics and Automation Letters
+  * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Neural Networks and Learning Systems
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence
+  * ACM Transactions on Multimedia Computing Communications and Applications
+  
 
-* PC Member:
-	* ICML2020, IJCAI2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
 
 <!--
 <span style="color:blue">

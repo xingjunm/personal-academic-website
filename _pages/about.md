@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an associate lecturer in the School of Computing and Information Systems, University of Melbourne, where I also obtained my PhD degree in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. from Tsinghua University and Jilin University successively. I have a broad interest in the theory and applications of machine learning and deep learning.
 
-I am also very fortunate to have visited National Institute of Informatics, Japan invited by <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>, and RIKEN, Japan by <a href="https://bhanml.github.io/" target="_blank">Dr. Bo Han</a>, <a href="https://niug1984.github.io/" target="_blank">Dr. Gang Niu</a> and <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" target="_blank">Prof. Masashi Sugiyama</a>.
+I have also visited National Institute of Informatics, Japan invited by <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>, and RIKEN, Japan by <a href="https://bhanml.github.io/" target="_blank">Dr. Bo Han</a>, <a href="https://niug1984.github.io/" target="_blank">Dr. Gang Niu</a> and <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" target="_blank">Prof. Masashi Sugiyama</a>.
 
 <!-- collabarated with highly respected researchers including <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a> (UniMelb), <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a> (NII, Japan), <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC, Berkeley), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), <a href="http://www.crystal-boli.com/" target="_blank">A/Prof. Bo Li</a> (UIUC), <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">A/Prof. Sarah Erfani</a> (UniMelb), and <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University). -->
 
@@ -46,13 +46,13 @@ I am also very fortunate to have visited National Institute of Informatics, Japa
 * PC Member:
 	* ICML2020, IJCAI2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
 
-------
+<!--
 <span style="color:blue">
 For PhD applicants: funded positions are available for 2020 in our group on adversarial machine learning research. Please directly contact</span> <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
 
 <span style="color:blue">For Unimelb master students, contact me if you are familar with: 1) web skills such as js, node.js and html; and 2) machine/deep learning knowledge/tools such as pytorch, tensorflow, keras. (send me your academic transcript)</span>
 
-------
+-->
 
 ### Contact Me:
 Email: $\alpha$.$\beta$@unimelb.edu.au WHERE $\alpha$/$\beta$ is my first/lastname. <br/>

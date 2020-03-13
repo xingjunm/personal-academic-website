@@ -7,9 +7,6 @@ author_profile: true
 
 ### Preprint
 
-<a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
-**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu
-
 <a href="https://arxiv.org/abs/1905.00643" target="_blank">Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</a><br/>
 Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
@@ -17,6 +14,9 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin
 
 ### 2020
+
+<a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
+**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>. To appear in Pattern Recognition.
 
 Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles.<br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>

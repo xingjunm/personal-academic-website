@@ -19,16 +19,16 @@ Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
 To appear in Pattern Recognition.
 
-Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles.<br/>
+Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles<br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, Washington, 2020.
 
-Clean-Label Backdoor Attacks on Video Recognition Models.<br/>
+<a href="https://arxiv.org/abs/2003.03030" target="_blank">Clean-Label Backdoor Attacks on Video Recognition Models</a><br/>
 Shihao Zhao, **Xingjun Ma**, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, Washington, 2020.
 
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank">
-Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</a>[<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank">code</a>]<br/>
+Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets</a>[<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank">code</a>]<br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
 International Conference on Learning Representations (**ICLR**), Addis Ababa, Ethiopia, 2020, **(spotlight, top 4%)**.
 

@@ -19,7 +19,7 @@ Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
 To appear in Pattern Recognition.
 
-Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles<br/>
+<a href="https://arxiv.org/abs/2003.08757" target="_blank">Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles</a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, Washington, 2020.
 

@@ -37,17 +37,9 @@ I have also visited National Institute of Informatics, Japan hosted by <a href="
 
 ### Professional Activities:
 * PC Member:
-  * ICML2020, IJCAI2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
+  * ECCV2020, ICML2020, IJCAI2020, ICLR2020, AAAI2020, KDD2019, NeurIPS2019.
 * Journal Reviewer:
-  * Pattern Recognition
-  * Journal of Clinical Medicine
-  * Knowledge and Information Systems
-  * IEEE Robotics and Automation Letters
-  * IEEE Transactions on Industrial Informatics
-  * IEEE Transactions on Knowledge and Data Engineering
-  * IEEE Transactions on Neural Networks and Learning Systems
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence
-  * ACM Transactions on Multimedia Computing Communications and Applications
+  * TPAMI, TKDE, TNNLS, ACM TOMM, KAIS, IEEE TII, IEEE RA-L, Pattern Recognition
   
 
 

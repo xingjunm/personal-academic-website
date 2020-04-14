@@ -18,7 +18,7 @@ I have visited National Institute of Informatics (Japan) hosted by <a href="http
 ### Research Interests:
 * Machine Learning
   * Secure/Robust/Explainable machine learning
-  * Adversarial machine learning (<a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">see my tutorial with Sarah Erfani</a>)
+  * Adversarial machine learning (<a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">AML tutorial at AI2019 with Sarah Erfani</a>)
   * Weakly supervised learning
   * Reinforcement learning
 * Deep Learning and Security

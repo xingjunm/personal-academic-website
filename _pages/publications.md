@@ -37,6 +37,10 @@ Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a>[
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
 International Conference on Learning Representations (**ICLR**), Addis Ababa, Ethiopia, 2020.
 
+<a href="" target="_blank">Providing Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery</a><br/>
+Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
+International Conference on Artificial Intelligence in Education (**AIED**), Ifrane, Morocco, 2020.
+
 ### 2019
 
 <a href="https://arxiv.org/abs/1908.06112" target="_blank">
@@ -102,7 +106,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne
 Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, **Xingjun Ma** and Shu-Tao Xia<br/> 
 AAAI Conference on Artificial Intelligence (**AAAI**), San Francisco, USA, 2017.
 
-<a href="https://arxiv.org/pdf/1703.01460.pdf" target="_blank">Providing Effective Real-time Feedback in Simulation-based Surgical Training</a><br/> 
+<a href="https://arxiv.org/abs/1706.10036" target="_blank">Providing Effective Real-time Feedback in Simulation-based Surgical Training</a><br/> 
 **Xingjun Ma**, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey<br/> 
 International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Quebec City, Canada, 2017.
 

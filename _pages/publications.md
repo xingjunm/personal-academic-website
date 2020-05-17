@@ -10,14 +10,14 @@ author_profile: true
 <a href="https://arxiv.org/abs/1905.00643" target="_blank">Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</a><br/>
 Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
-<a href="https://arxiv.org/abs/1906.01167" target="_blank">Towards Fair and Decentralized Privacy-Preserving Deep Learning with Blockchain</a><br/>
-Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin
-
 ### 2020
+<a href="https://arxiv.org/abs/1906.01167" target="_blank">Towards Fair and Privacy-Preserving Federated Deep Models</a><br/>
+Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
+To appear in IEEE Transactions on Parallel and Distributed Systems (TPDS).
 
 <a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-To appear in Pattern Recognition.
+Pattern Recognition (2020): 107332.
 
 <a href="https://arxiv.org/abs/2003.08757" target="_blank">Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles</a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>

@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### 2020
+* 05/2020: I will join School of Information Technology, Deakin University as a Lecturer in June.
+* 05/2020: One paper accepted to journal TPDS.
 * 02/2020: Two papers accepted to CVPR2020.
 
 ### 2019

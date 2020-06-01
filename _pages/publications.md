@@ -11,6 +11,11 @@ author_profile: true
 Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
 ### 2020
+<a href="" target="_blank">
+Normalized Loss Functions for Deep Learning with Noisy Labels</a><br/>
+**Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
+International Conference on Machine Learning (**ICML**), Vienna, AUSTRIA, 2020.
+
 <a href="https://arxiv.org/abs/1906.01167" target="_blank">Towards Fair and Privacy-Preserving Federated Deep Models</a><br/>
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
 To appear in IEEE Transactions on Parallel and Distributed Systems (TPDS).

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2020
-* 06/2020: one paper accepted to ICML2020, congrats to Hanxuan and other collaborators.
+* 06/2020: one paper accepted to ICML2020, congrats to Hanxun and other collaborators.
 * 05/2020: I will join School of Information Technology, Deakin University as a Lecturer in June.
 * 05/2020: One paper accepted to journal TPDS.
 * 02/2020: Two papers accepted to CVPR2020.

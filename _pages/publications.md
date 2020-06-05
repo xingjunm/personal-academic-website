@@ -11,18 +11,11 @@ author_profile: true
 Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
 ### 2020
+
 <a href="" target="_blank">
 Normalized Loss Functions for Deep Learning with Noisy Labels</a><br/>
 **Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
 International Conference on Machine Learning (**ICML**), Vienna, AUSTRIA, 2020.
-
-<a href="https://arxiv.org/abs/1906.01167" target="_blank">Towards Fair and Privacy-Preserving Federated Deep Models</a><br/>
-Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
-To appear in IEEE Transactions on Parallel and Distributed Systems (TPDS).
-
-<a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
-**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (2020): 107332.
 
 <a href="https://arxiv.org/abs/2003.08757" target="_blank">Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles</a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
@@ -41,6 +34,14 @@ International Conference on Learning Representations (**ICLR**), Addis Ababa, Et
 Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a>[<a href="https://github.com/YisenWang/MART" target="_blank">code</a>]<br/> 
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
 International Conference on Learning Representations (**ICLR**), Addis Ababa, Ethiopia, 2020.
+
+<a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
+**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
+Pattern Recognition (2020): 107332.
+
+<a href="https://arxiv.org/abs/1906.01167" target="_blank">Towards Fair and Privacy-Preserving Federated Deep Models</a><br/>
+Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
+To appear in IEEE Transactions on Parallel and Distributed Systems (TPDS).
 
 <a href="" target="_blank">Providing Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery</a><br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>

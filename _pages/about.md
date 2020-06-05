@@ -9,11 +9,14 @@ I am a research fellow and an associate lecturer in the School of Computing and 
 
 I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>, and RIKEN (Japan) hosted by <a href="https://bhanml.github.io/" target="_blank">Dr. Bo Han</a>, <a href="https://niug1984.github.io/" target="_blank">Dr. Gang Niu</a> and <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" target="_blank">Prof. Masashi Sugiyama</a>. I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley).
 
+<span style="color:blue">I am open to collaborations and partnerships. </span>
+
 ---
 
 ### Research Interests:
 * Machine Learning
-* Deep Learning, Computer Vision
+* Deep Learning
+* Computer Vision
 * Artifical Intelligence
 
 <!-- * Machine Learning
@@ -29,8 +32,6 @@ I have visited a few amazing research institues: National Institute of Informati
 * Artifical Intelligence
   * Medical AI
   * Virtual reality surgery -->
-
-<span style="color:blue">Unimelb students, email me if you want to do some serious machine learning research. </span>
 
 ---
 

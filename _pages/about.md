@@ -12,8 +12,11 @@ I have visited a few amazing research institues: National Institute of Informati
 ---
 
 ### Research Interests:
-
 * Machine Learning
+* Deep Learning, Computer Vision
+* Artifical Intelligence
+
+<!-- * Machine Learning
   * Secure/Robust/Explainable machine learning
   * Adversarial machine learning (<a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">AML tutorial at AI2019 with Sarah Erfani</a>)
   * Weakly supervised learning
@@ -25,7 +28,7 @@ I have visited a few amazing research institues: National Institute of Informati
   * Applications: object recognition, image inpainting, object detection, video recognition, automatic speech recognition
 * Artifical Intelligence
   * Medical AI
-  * Virtual reality surgery
+  * Virtual reality surgery -->
 
 <span style="color:blue">Unimelb students, email me if you want to do some serious machine learning research. </span>
 

@@ -15,25 +15,25 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 <a href="" target="_blank">
 Normalized Loss Functions for Deep Learning with Noisy Labels</a><br/>
 **Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
-International Conference on Machine Learning (**ICML**), Vienna, AUSTRIA, 2020.
+International Conference on Machine Learning (**ICML**), 2020.
 
 <a href="https://arxiv.org/abs/2003.08757" target="_blank">Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles</a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, Washington, 2020.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
 <a href="https://arxiv.org/abs/2003.03030" target="_blank">Clean-Label Backdoor Attacks on Video Recognition Models</a><br/>
 Shihao Zhao, **Xingjun Ma**, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, Washington, 2020.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank">
 Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets</a>[<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank">code</a>]<br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
-International Conference on Learning Representations (**ICLR**), Addis Ababa, Ethiopia, 2020, **(spotlight, top 4%)**.
+International Conference on Learning Representations (**ICLR**), 2020. **(spotlight, top 4%)**
 
 <a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank">
 Improving Adversarial Robustness Requires Revisiting Misclassified Examples</a>[<a href="https://github.com/YisenWang/MART" target="_blank">code</a>]<br/> 
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
-International Conference on Learning Representations (**ICLR**), Addis Ababa, Ethiopia, 2020.
+International Conference on Learning Representations (**ICLR**), 2020.
 
 <a href="https://arxiv.org/abs/1907.10456" target="_blank">Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>

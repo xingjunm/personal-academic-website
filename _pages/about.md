@@ -4,8 +4,8 @@ title: "Xingjun (Daniel) Ma"
 excerpt: "About Me"
 author_profile: true
 ---
-
-I am a research fellow and an associate lecturer in the School of Computing and Information Systems, The University of Melbourne. I obtained my PhD degree from The University of Melbourne in 2019, under the supervision of Prof. <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank"> James Bailey</a> and Dr. <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. Prior to my PhD, I completed my Master's and Bachelor's study at Tsinghua University and Jilin University in China. I also spent a few years in the industry. While my research focus is adversarial machine learning, I have a broad interest in both theory and applications of machine learning and deep learning.
+---
+I am a research fellow and an associate lecturer in the School of Computing and Information Systems, The University of Melbourne. I obtained my PhD degree from The University of Melbourne in 2019, under the supervision of Prof. <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank"> James Bailey</a> and Dr. <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. Prior to my PhD, I completed my Master's and Bachelor's studies at Tsinghua University and Jilin University in China. I also spent a few years in the industry. While my research focus is adversarial machine learning, I have a broad interest in both theory and applications of machine learning and deep learning.
 
 I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>, and RIKEN (Japan) hosted by <a href="https://bhanml.github.io/" target="_blank">Dr. Bo Han</a>, <a href="https://niug1984.github.io/" target="_blank">Dr. Gang Niu</a> and <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" target="_blank">Prof. Masashi Sugiyama</a>. I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley).
 
@@ -29,6 +29,8 @@ I have visited a few amazing research institues: National Institute of Informati
 
 <span style="color:blue">Unimelb students, email me if you want to do some serious machine learning research. </span>
 
+---
+
 ### Professional Activities:
 
 * PC Member: ECCV'20, ICML'20, IJCAI'20, ICLR'20, AAAI'20, KDD'19, NeurIPS'19.
@@ -42,6 +44,8 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 
 -->
 
+---
+
 ### Contact
 
 Email: [firstname].[lastname]@unimelb.edu.au
@@ -49,4 +53,6 @@ Email: [firstname].[lastname]@unimelb.edu.au
 Phone: +61 414521205
 
 Face to face: Room 9.15, Doug McDonell Building (Building 168)
+
+---
 

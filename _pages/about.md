@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Research Fellow
-
-School of Computing and Information Systems
-
-The University of Melbourne
+### Research Fellow
+#### School of Computing and Information Systems
+####The University of Melbourne
 
 ### Contact
 

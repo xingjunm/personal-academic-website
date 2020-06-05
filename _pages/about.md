@@ -4,6 +4,9 @@ title: "Xingjun (Daniel) Ma"
 excerpt: "About Me"
 author_profile: true
 ---
+<b>Research Fellow</b><br>
+<a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
+<a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
 ---
 I am a research fellow and an associate lecturer in the School of Computing and Information Systems, The University of Melbourne. I obtained my PhD degree from The University of Melbourne in 2019, under the supervision of Prof. <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank"> James Bailey</a> and Dr. <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. Prior to my PhD, I completed my Master's and Bachelor's studies at Tsinghua University and Jilin University in China. I also spent a few years in the industry. While my research focus is adversarial machine learning, I have a broad interest in both theory and applications of machine learning and deep learning.
 

@@ -50,12 +50,10 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 
 ---
 
-### Contact
+### Contact:
 
-Email: [firstname].[lastname]@unimelb.edu.au
-
-Phone: +61 414521205
-
+Email: [firstname].[lastname]@unimelb.edu.au <br>
+Phone: +61 414521205<br>
 Face to face: Room 9.15, Doug McDonell Building (Building 168)
 
 ---

@@ -9,7 +9,7 @@ author_profile: true
 <a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
 <a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
 
-<span style="color:black">I am open to collaborations and partnerships. </span>
+<span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
 
 ---
 

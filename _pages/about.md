@@ -4,6 +4,19 @@ title: "Xingjun (Daniel) Ma"
 excerpt: "About Me"
 author_profile: true
 ---
+Research Fellow
+
+School of Computing and Information Systems
+
+The University of Melbourne
+
+### Contact
+
+Email: [firstname].[lastname]@unimelb.edu.au
+Phone: +61 414521205
+Face to face: Room 9.15, Doug McDonell Building (Building 168)
+
+---
 
 I am a research fellow and an associate lecturer in the School of Computing and Information Systems, The University of Melbourne. I obtained my PhD degree from The University of Melbourne in 2019, under the supervision of Prof. <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank"> James Bailey</a> and Dr. <a href="https://scholar.google.com/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. Prior to my PhD, I completed my Master's and Bachelor's study at Tsinghua University and Jilin University in China. I also spent a few years in the industry. While my research focus is adversarial machine learning, I have a broad interest in both theory and applications of machine learning and deep learning.
 
@@ -41,10 +54,4 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 <span style="color:blue">For Unimelb master students, contact me if you are familar with: 1) web skills such as js, node.js and html; and 2) machine/deep learning knowledge/tools such as pytorch, tensorflow, keras. (send me your academic transcript)</span>
 
 -->
-
-### Contact
-
-Email: [firstname].[lastname]@unimelb.edu.au
-Phone: +61 414521205
-Face to face: Room 9.15, Doug McDonell Building (Building 168)
 

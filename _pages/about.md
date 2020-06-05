@@ -6,22 +6,19 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-
 ---
 
 ---
-
-```
+## Xingjun (Daniel) Ma
 ### Research Fellow
 #### School of Computing and Information Systems
 #### The University of Melbourne
 
-## Contact
+### Contact
 
 Email: [firstname].[lastname]@unimelb.edu.au
 Phone: +61 414521205
 Face to face: Room 9.15, Doug McDonell Building (Building 168)
-```
 
 ---
 

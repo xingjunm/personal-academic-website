@@ -17,9 +17,9 @@ author_profile: true
 I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus), and am also an honorary (fellow) in the School of Computing and Information Systems, The University of Melbourne. 
 Before Deakin, I worked as a postdoctoral research fellow for roughly 2 years in the School of Computing and Information Systems, The University of Melbourne, where also I obtained my PhD degree in machine learning.
 Prior to my PhD, I completed my master's and bachelor's degrees in Tsinghua University and Jilin University respectively.
-I have a broad interest in the theory and applications of machine learning and deep learning.
 
-<span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
+
+<span style="color:rgb(19,0,238)">I have a broad interest in the theory and applications of machine learning and deep learning, and open to long-term collaborations and partnerships. </span>
 
 <!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
 <!-- I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley). -->

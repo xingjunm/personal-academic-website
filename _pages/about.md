@@ -16,9 +16,9 @@ author_profile: true
 
 I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus), and am also an honorary fellow in the School of Computing and Information Systems, The University of Melbourne. 
 Before Deakin, I worked as a postdoctoral research fellow for roughly 2 years in the School of Computing and Information Systems, The University of Melbourne, where also I obtained my PhD degree in machine learning.
-Prior to my PhD, I completed my master's and bachelor's degrees in Tsinghua University and Jilin University respectively. I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and security/privacy aspects of AI systems.
+Prior to my PhD, I completed my master's and bachelor's degrees in Tsinghua University and Jilin University respectively. 
 
-
+I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and security/privacy aspects of AI systems.
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
 
 <!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->

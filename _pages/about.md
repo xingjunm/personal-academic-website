@@ -65,9 +65,9 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 
 ### Contact:
 
-Email: [firstname].[lastname]@unimelb.edu.au <br>
+Email: [firstname].[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
 Phone: +61 414521205<br>
-Face to face: Room 9.15, Doug McDonell Building (Building 168)
+Face to face: will be updated when campus reopens.
 
 ---
 

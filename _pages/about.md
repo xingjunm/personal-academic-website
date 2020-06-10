@@ -4,14 +4,19 @@ title: "Xingjun (Daniel) Ma"
 excerpt: "About Me"
 author_profile: true
 ---
+<span style="font-weight:bold">Lecturer (Assistant Professor)</span><br>
+<a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
+<a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
 
-<span style="font-weight:bold">Research Fellow</span><br>
+<span style="font-weight:bold">Honorary (Fellow)</span><br>
 <a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
 <a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
 
 ---
 
-I am currently a research fellow in the School of Computing and Information Systems, The University of Melbourne. I obtained my PhD degree from the School of Computing and Information Systems, The University of Melbourne. Prior to my PhD, I completed my master's and bachelor's degrees in Tsinghua University and Jilin University.
+I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus), and am also an honorary (fellow) in the School of Computing and Information Systems, The University of Melbourne. 
+Before Deakin, I worked as a postdoctoral research fellow for roughly 2 years in the School of Computing and Information Systems, The University of Melbourne, where also I obtained my PhD degree in machine learning.
+Prior to my PhD, I completed my master's and bachelor's degrees in Tsinghua University and Jilin University respectively.
 I have a broad interest in the theory and applications of machine learning and deep learning.
 
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>

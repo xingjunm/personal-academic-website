@@ -50,7 +50,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ### Professional Activities:
 
-* PC Member: ECCV'20, ICML'20, IJCAI'20, ICLR'20, AAAI'20, KDD'19, NeurIPS'19.
+* PC Member: NeurIPS'20， ECCV'20, ICML'20, IJCAI'20, ICLR'20, AAAI'20, KDD'19, NeurIPS'19.
 * Journal Reviewer: TPAMI, TKDE, TNNLS, ACM TOMM, KAIS, IEEE TII, IEEE RA-L, Pattern Recognition
 
 <!--

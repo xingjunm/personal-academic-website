@@ -17,14 +17,15 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 **Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
 International Conference on Machine Learning (**ICML**), 2020.
 
-<b>Adversarial Camouflage: Hiding Adversarial Examples with Natural Styles.</b> 
+<b>AAdversarial Camouflage: Hiding Physical-World Attacks with Natural Styles.</b> 
 <a href="https://arxiv.org/abs/2003.08757" target="_blank"> [Paper] </a>
 <a href="https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles" target="_blank"> [Code] </a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
-<b>Clean-Label Backdoor Attacks on Video Recognition Models.</b> 
-<a href="https://arxiv.org/abs/2003.03030" target="_blank"> [Paper] </a><br/>
+<b>Clean-Label Backdoor Attacks on Video Recognition Models.</b>
+<a href="https://arxiv.org/abs/2003.03030" target="_blank"> [Paper] </a>
+<a href="https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack" target="_blank"> [Code] </a><br/>
 Shihao Zhao, **Xingjun Ma**, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 

@@ -17,7 +17,7 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 **Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
 International Conference on Machine Learning (**ICML**), 2020.
 
-<b>AAdversarial Camouflage: Hiding Physical-World Attacks with Natural Styles.</b> 
+<b>Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles.</b> 
 <a href="https://arxiv.org/abs/2003.08757" target="_blank"> [Paper] </a>
 <a href="https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles" target="_blank"> [Code] </a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>

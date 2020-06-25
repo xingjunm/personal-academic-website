@@ -13,7 +13,8 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 
 ### 2020
 <b>Normalized Loss Functions for Deep Learning with Noisy Labels.</b> 
-<a href="" target="_blank"> [Paper] </a><br/>
+<a href="https://arxiv.org/abs/2006.13554" target="_blank"> [Paper] </a>
+<a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
 International Conference on Machine Learning (**ICML**), 2020.
 

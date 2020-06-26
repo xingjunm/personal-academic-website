@@ -15,17 +15,23 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 
 <b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning.</b> <br/>
 Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, **Xingjun Ma**<br/>
-IEEE Transactions on Dependable and Secure Computing (**TDSC**). Accepted in 2020.
+IEEE Transactions on Dependable and Secure Computing (**TDSC**). (accepted in 2020)
 
 <b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
 <a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (**PR**): 107332. Accepted in 2020.
+Pattern Recognition (**PR**): 107332. (accepted in 2020)
 
 <b>Towards Fair and Privacy-Preserving Federated Deep Models.</b>
 <a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a><br/>
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
-IEEE Transactions on Parallel and Distributed Systems (**TPDS**). Accepted in 2020.
+IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (accepted in 2020)
+
+
+<b>Exploiting Patterns to Explain Individual Predictions.</b> 
+<a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> [Paper] </a><br/>
+Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
+Knowledge and Information Systems (**KAIS**). (accepted in 2019)
 
 ## Conferences
 
@@ -89,11 +95,6 @@ ACM International Conference on Multimedia (**ACMMM**), Nice, France, 2019.
 <a href="http://arxiv.org/abs/1908.00211" target="_blank"> [Paper] </a><br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), Macao, China, 2019.
-
-<b>Exploiting Patterns to Explain Individual Predictions.</b> 
-<a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> [Paper] </a><br/>
-Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
-Knowledge and Information Systems (**KAIS**).
 
 <!--
 <a href="https://minerva-access.unimelb.edu.au/bitstream/handle/11343/219680/Machine%20Learning%20with%20Adversarial%20Perturbations%20and%20Noisy%20Labels.pdf?sequence=1&isAllowed=y" target="_blank">Machine Learning with Adversarial Perturbations and Noisy Labels</a><br/>

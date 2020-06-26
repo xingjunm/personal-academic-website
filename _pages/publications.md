@@ -11,7 +11,26 @@ author_profile: true
 <a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
 Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
-### 2020
+## Journals
+
+<b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning.</b> <br/>
+Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, **Xingjun Ma**<br/>
+IEEE Transactions on Dependable and Secure Computing (**TDSC**). Accepted in 2020.
+
+<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
+<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
+**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
+Pattern Recognition (**PR**): 107332. Accepted in 2020.
+
+<b>Towards Fair and Privacy-Preserving Federated Deep Models.</b>
+<a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a><br/>
+Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
+IEEE Transactions on Parallel and Distributed Systems (**TPDS**). Accepted in 2020.
+
+## Conferences
+
+### -- 2020
+
 <b>Normalized Loss Functions for Deep Learning with Noisy Labels.</b> 
 <a href="https://arxiv.org/abs/2006.13554" target="_blank"> [Paper] </a>
 <a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>
@@ -42,21 +61,11 @@ International Conference on Learning Representations (**ICLR**), 2020. **(spotli
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
 International Conference on Learning Representations (**ICLR**), 2020.
 
-<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
-<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
-**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (2020): 107332.
-
-<b>Towards Fair and Privacy-Preserving Federated Deep Models.</b> 
-<a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a><br/>
-Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
-To appear in IEEE Transactions on Parallel and Distributed Systems (TPDS).
-
 <b>Providing Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery.</b> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (**AIED**), Ifrane, Morocco, 2020.
 
-### 2019
+### -- 2019
 
 <b>Symmetric Cross Entropy for Robust Learning with Noisy Labels.</b> 
 <a href="https://arxiv.org/abs/1908.06112" target="_blank"> [Paper] </a>
@@ -91,7 +100,7 @@ Knowledge and Information Systems (**KAIS**).
 Xingjun Ma, PhD thesis.
 -->
 
-### 2018
+### -- 2018
 
 <b>Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.</b> 
 <a href="https://arxiv.org/pdf/1801.02613.pdf"> [Paper] </a>
@@ -121,7 +130,7 @@ Sudanthi Wijewickrema, Bridget Copson, **Xingjun Ma**, Robert Briggs, James Bail
 International Symposium on Computer-Based Medical Systems (**CBMS**), 2018
 
 
-### 2017
+### -- 2017
 
 <b>Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training.</b> 
 <a href="https://arxiv.org/pdf/1703.01460.pdf"> [Paper] </a><br/>
@@ -154,7 +163,7 @@ Sudanthi Wijewickrema, **Xingjun Ma**, James Bailey, Gregor Kennedy and Stephen 
 arXiv preprint
 -->
 
-### 2016
+### -- 2016
 
 <b>Finding Influentials in Twitter: A Temporal Influence Ranking Model.</b> 
 <a href="https://arxiv.org/pdf/1703.01468.pdf"> [Paper] </a><br/>

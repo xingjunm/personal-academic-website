@@ -37,6 +37,20 @@ Knowledge and Information Systems (**KAIS**). (accepted in 2019)
 
 ### -- 2020
 
+<b>Short-Term and Long-Term Context Aggregation Network for Video Inpainting.</b> 
+<!-- <a href="" target="_blank"> [Paper] </a> -->
+<!-- <a href="" target="_blank"> [Code] </a> -->
+<br/>
+Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>
+European Conference on Computer Vision (**ECCV**), 2020. **(spotlight, top 5%)**
+
+<b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
+<!-- <a href="" target="_blank"> [Paper] </a> -->
+<!-- <a href="" target="_blank"> [Code] </a> -->
+<br/>
+Yunfei Liu, **Xingjun Ma**, James Bailey, Feng Lu<br/>
+European Conference on Computer Vision (**ECCV**), 2020.
+
 <b>Normalized Loss Functions for Deep Learning with Noisy Labels.</b> 
 <a href="https://arxiv.org/abs/2006.13554" target="_blank"> [Paper] </a>
 <a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>

@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ### 2020
+* 07/2020: two papers accepted to ECCV2020 (one splotligh, one poster) congrats to Ang, Yunfei and other collaborators.
+* 06/2020: One paper accepted to journal TDSC.
+* 06/2020: I have joined School of Information Technology, Deakin University, as a lecturer.
 * 06/2020: one paper accepted to ICML2020, congrats to Hanxun and other collaborators.
-* 05/2020: I will join School of Information Technology, Deakin University as a Lecturer in June.
+* 05/2020: One paper accepted to journal Pattern Recognition.
 * 05/2020: One paper accepted to journal TPDS.
 * 02/2020: Two papers accepted to CVPR2020.
 

@@ -49,7 +49,7 @@ Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, D
 European Conference on Computer Vision (**ECCV**), 2020. **(spotlight, top 5%)**
 
 <b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
-<a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a>
+<!-- <a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a> -->
 <a href="https://arxiv.org/abs/2007.02343" target="_blank"> [Paper] </a>
 <a href="https://github.com/DreamtaleCore/Refool" target="_blank"> [Code] </a>
 <br/>

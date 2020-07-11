@@ -23,7 +23,11 @@ IEEE Transactions on Dependable and Secure Computing (**TDSC**). (accepted in 20
 Pattern Recognition (**PR**): 107332. (accepted in 2020)
 
 <b>Towards Fair and Privacy-Preserving Federated Deep Models.</b>
-<a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a><br/>
+<a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a>
+<a href="https://github.com/lingjuanlv/FPPDL" target="_blank"> [Code] </a>
+<a href="https://medium.com/@llv_9800/how-to-ensure-collaborative-fairness-and-privacy-in-decentralized-federated-learning-721e37595604" target="_blank"> [Medium] </a>
+<a href="https://www.youtube.com/watch?v=d_Z_YmBvmno" target="_blank"> [Youtube] </a>
+<br/>
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
 IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (accepted in 2020)
 
@@ -45,8 +49,9 @@ Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, D
 European Conference on Computer Vision (**ECCV**), 2020. **(spotlight, top 5%)**
 
 <b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
-<!-- <a href="" target="_blank"> [Paper] </a> -->
-<!-- <a href="" target="_blank"> [Code] </a> -->
+<a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a>
+<a href="https://arxiv.org/abs/2007.02343" target="_blank"> [Paper] </a>
+<a href="https://github.com/DreamtaleCore/Refool" target="_blank"> [Code] </a>
 <br/>
 Yunfei Liu, **Xingjun Ma**, James Bailey, Feng Lu<br/>
 European Conference on Computer Vision (**ECCV**), 2020.

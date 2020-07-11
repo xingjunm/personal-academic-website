@@ -67,7 +67,7 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 
 Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
 Phone: +61 414521205<br>
-Face to face: will be updated when campus reopens.
+Face to face: Office 2.10, Building T, Deakin University, 221 Burwood hwy, Burwood, VIC 3125.
 
 ---
 

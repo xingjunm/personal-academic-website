@@ -16,7 +16,7 @@ author_profile: true
 
 ### 2019
 * 12/2019: Two papers accepted to ICLR2020.
-* 12/2019: Sarah Erfani and I gave a tutorial on Adversarial Machine Learning (AML) at <a href="http://nugget.unisa.edu.au/AI2019/index.php#" target="_blank">Australasian Joint Conference on Artificial Intelligence (AI2019)</a>. <a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">GitHub (slides and codes)</a>.
+* 12/2019: Sarah Erfani and I gave a tutorial on Adversarial Machine Learning (AML) at <a href="http://nugget.unisa.edu.au/AI2019/index.php#" target="_blank">Australasian Joint Conference on Artificial Intelligence (AI2019)</a>. <a href="https://github.com/xingjunm/An-Introduction-to-Adversarial-Machine-Learning" target="_blank">GitHub (slides and codes)</a>.
 * 08/2019: I gave a talk on generative adversarial networks (GANs) at <a href="https://mondo.com.au/" target="_blank">Mondo</a>.
 * 05/2019: I will visit RIKEN and NII in Japan, June 2019.
 * 05/2019: One paper accepted to IJCAI2019.

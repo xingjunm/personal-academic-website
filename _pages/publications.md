@@ -41,12 +41,18 @@ Knowledge and Information Systems (**KAIS**). (accepted in 2019)
 
 ### -- 2020
 
+<b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.</b> 
+<a href="" target="_blank"> [Paper] </a>
+<a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
+Bojia Zi, Jingjing Chen, Minghao Chang, **Xingjun Ma**, Yu-Gang Jiang<br/>
+ACM International Conference on Multimedia (**ACM MM**), 2020.
+
 <b>Short-Term and Long-Term Context Aggregation Network for Video Inpainting.</b> 
 <!-- <a href="" target="_blank"> [Paper] </a> -->
 <!-- <a href="" target="_blank"> [Code] </a> -->
 <br/>
 Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>
-European Conference on Computer Vision (**ECCV**), 2020. **(spotlight, top 5%)**
+European Conference on Computer Vision (**ECCV**), Online, 2020. **(spotlight, top 5%)**
 
 <b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
 <!-- <a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a> -->
@@ -86,7 +92,7 @@ International Conference on Learning Representations (**ICLR**), 2020. **(spotli
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
 International Conference on Learning Representations (**ICLR**), 2020.
 
-<b>Providing Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery.</b> <br/>
+<b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery.</b> <a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"> [Paper] </a> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (**AIED**), Ifrane, Morocco, 2020.
 
@@ -108,7 +114,7 @@ International Conference on Machine Learning (**ICML**), Long Beach, USA, 2019, 
 <a href="https://arxiv.org/abs/1904.05181" target="_blank"> [Paper] </a>
 <a href="https://github.com/Jack-lx-jiang/VBAD" target="_blank"> [Code] </a><br/>
 Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (**ACMMM**), Nice, France, 2019.
+ACM International Conference on Multimedia (**ACM MM**), Nice, France, 2019.
 
 <b>Generative Image Inpainting with Submanifold Alignment.</b> 
 <a href="http://arxiv.org/abs/1908.00211" target="_blank"> [Paper] </a><br/>

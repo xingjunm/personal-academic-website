@@ -16,11 +16,13 @@ author_profile: true
 
 I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before joining Deakin, I was a research fellow in the Schoolf of CIS, The University of Melbourne, where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. I received my Master and Bacholor degrees from Tsinghua University and Jilin University respectively.
 
-I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and security/privacy aspects of AI systems.
+I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and the security/privacy aspects of AI systems. 
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
 
 <!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
 <!-- I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley). -->
+
+<!-- <span style="color:rgb(19,0,238)">For master/hornors students, contact me if you are interested in doing machine learning research with me.</span> -->
 
 ---
 
@@ -32,7 +34,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 * Deep Learning
     * Information geometric understanding of deep neural networks
-    * Adversarial/Backoor robustness of deep neural networks
+    * Adversarial/Backdoor robustness of deep neural networks
     * Deep generative models
     * Applications: classification, segmentation, image inpainting, video recognition
 

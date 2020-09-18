@@ -49,17 +49,19 @@ I have a broad interest in the theory and applications of machine learning and d
 ---
 
 ### Students I currently supervise or co-supervise
-#### PhD
-* Yujing Jiang
-* Hanxun Huang
-* SAHEED ADEBAYO TIJANI
-* ZICHAN RUAN
-* GAYATHRI RADHABAI GOPINATHAN NAI
-* CHIRANJIBI SITAULA
+* PhD
+    * Yujing Jiang
+    * Hanxun Huang
+    * SAHEED ADEBAYO TIJANI
+    * ZICHAN RUAN
+    * GAYATHRI RADHABAI GOPINATHAN NAI
+    * CHIRANJIBI SITAULA
 
-#### Masters by Research
-* Nodens Koren
-* Yuning Zhou
+*  Masters by Research
+    * Nodens Koren (2020)
+    * Yuning Zhou (2020)
+
+---
 
 ### Professional Activities
 

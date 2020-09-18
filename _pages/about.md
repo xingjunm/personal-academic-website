@@ -59,7 +59,7 @@ I have a broad interest in the theory and applications of machine learning and d
 ---
 
 ### Students I currently supervise or co-supervise:
-* PhD students
+* PhD Students
     * Yujing Jiang
     * Hanxun Huang
     * Saheed Adebayo Tijani
@@ -75,7 +75,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ### Professional Activities:
 
-* PC member
+* PC Member
     * AAAI 2021
     * NeurIPS 2020, ICML 2020, ICLR 2020, AAAI 2020, IJCAI 2020, ECCV 2020
     * NeurIPS 2019, KDD 2019

@@ -4,18 +4,17 @@ title: "Xingjun (Daniel) Ma"
 excerpt: "About Me"
 author_profile: true
 ---
-<span style="font-weight:bold">Lecturer (Assistant Professor)</span><br>
+<span style="font-weight:bold">Lecturer (Assistant Professor) in Machine Intelligence</span><br>
 <a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
 <a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
 
-<span style="font-weight:bold">Honorary Fellow</span><br>
+<span style="font-weight:bold">Honorary Research Fellow</span><br>
 <a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
 <a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
 
 ---
 
-I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before Deakin, I worked as a postdoctoral research fellow for roughly 2 years in The University of Melbourne.
-I obtained my PhD degree in machine learning under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a> in the School of CIS, The University of Melbourne. I received my Master and Bacholor degrees from Tsinghua University and Jilin University respectively.
+I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before joining Deakin, I was a research fellow in the Schoolf of CIS, The University of Melbourne, where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. I received my Master and Bacholor degrees from Tsinghua University and Jilin University respectively.
 
 I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and security/privacy aspects of AI systems.
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>

@@ -71,7 +71,16 @@ I have a broad interest in the theory and applications of machine learning and d
     * NeurIPS 2019, KDD 2019
 
 * Journal Reviewer
-    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
+    * IEEE Transactions on Pattern Analysis and Machine Intelligence
+    * IEEE Transactions on Image Processing
+    * Pattern Recognition
+    * IEEE Transactions on Neural Networks and Learning Systems
+    * IEEE Transactions on Knowledge and Data Engineering
+    * ACM Transactions on Multimedia Computing, Communications, and Applications
+    * Knowledge and Information Systems
+    * IEEE Transactions on Industrial Informatics
+    * IEEE Robotics and Automation Letters
+    <!-- * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
     * <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing" target="_blank">
 IEEE Transactions on Image Processing</a>
     * <a href="https://www.journals.elsevier.com/pattern-recognition" target="_blank">
@@ -87,7 +96,7 @@ Knowledge and Information Systems</a>
     * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
 IEEE Transactions on Industrial Informatics</a>
     * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
-IEEE Robotics and Automation Letters</a>
+IEEE Robotics and Automation Letters</a> -->
 
 <!--
 <span style="color:blue">

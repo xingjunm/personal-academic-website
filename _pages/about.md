@@ -14,8 +14,8 @@ author_profile: true
 
 ---
 
-I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus), and am also an honorary fellow in the School of Computing and Information Systems, The University of Melbourne. I also worked as a postdoctoral research fellow for roughly 2 years in the School of Computing and Information Systems, The University of Melbourne. 
-I obtained my PhD (Machine Learning, 2019), Master and Bacholor degrees from The University of Melbourne, Tsinghua University and Jilin University, respectively.
+I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before Deakin, I worked as a postdoctoral research fellow for roughly 2 years in The University of Melbourne.
+I obtained my PhD degree in machine learning under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a> in the School of CIS, The University of Melbourne. I received my Master and Bacholor degrees from Tsinghua University and Jilin University respectively.
 
 I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and security/privacy aspects of AI systems.
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
@@ -51,10 +51,10 @@ I have a broad interest in the theory and applications of machine learning and d
 * PhD students
     * Yujing Jiang
     * Hanxun Huang
-    * SAHEED ADEBAYO TIJANI
-    * ZICHAN RUAN
-    * GAYATHRI RADHABAI GOPINATHAN NAI
-    * CHIRANJIBI SITAULA
+    * Saheed Adebayo Tijani
+    * Zichan Ran
+    * Gayathri Radhabai Gopinathan Nai
+    * Chiranjibi Sitaula
 
 *  Masters by Research
     * Nodens Koren (2020)
@@ -70,16 +70,7 @@ I have a broad interest in the theory and applications of machine learning and d
     * NeurIPS 2019, KDD 2019
 
 * Journal Reviewer
-    * IEEE Transactions on Pattern Analysis and Machine Intelligence
-    * IEEE Transactions on Image Processing
-    * Pattern Recognition
-    * IEEE Transactions on Neural Networks and Learning Systems
-    * IEEE Transactions on Knowledge and Data Engineering
-    * ACM Transactions on Multimedia Computing, Communications, and Applications
-    * Knowledge and Information Systems
-    * IEEE Transactions on Industrial Informatics
-    * IEEE Robotics and Automation Letters
-    <!-- * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
+    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
     * <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing" target="_blank">
 IEEE Transactions on Image Processing</a>
     * <a href="https://www.journals.elsevier.com/pattern-recognition" target="_blank">
@@ -95,7 +86,7 @@ Knowledge and Information Systems</a>
     * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
 IEEE Transactions on Industrial Informatics</a>
     * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
-IEEE Robotics and Automation Letters</a> -->
+IEEE Robotics and Automation Letters</a>
 
 <!--
 <span style="color:blue">

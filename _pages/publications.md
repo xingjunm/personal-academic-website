@@ -13,14 +13,15 @@ Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bai
 
 ## Journals
 
-<b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning.</b> <br/>
-Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, **Xingjun Ma**<br/>
-IEEE Transactions on Dependable and Secure Computing (**TDSC**). (accepted in 2020)
-
 <b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
 <a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
 Pattern Recognition (**PR**): 107332. (accepted in 2020)
+
+<b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning.</b>
+<a href="https://arxiv.org/abs/2007.09370" target="_blank"> [Paper] </a><br/>
+Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, **Xingjun Ma**<br/>
+IEEE Transactions on Dependable and Secure Computing (**TDSC**). (accepted in 2020)
 
 <b>Towards Fair and Privacy-Preserving Federated Deep Models.</b>
 <a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a>

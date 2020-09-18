@@ -107,7 +107,7 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 
 ---
 
-### Contact
+### Contact:
 
 Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
 Phone: +61 414521205<br>

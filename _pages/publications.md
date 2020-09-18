@@ -48,7 +48,7 @@ Bojia Zi, Jingjing Chen, Minghao Chang, **Xingjun Ma**, Yu-Gang Jiang<br/>
 ACM International Conference on Multimedia (**ACM MM**), 2020.
 
 <b>Short-Term and Long-Term Context Aggregation Network for Video Inpainting.</b> 
-<!-- <a href="" target="_blank"> [Paper] </a> -->
+<a href="https://arxiv.org/abs/2009.05721" target="_blank"> [Paper] </a>
 <!-- <a href="" target="_blank"> [Code] </a> -->
 <br/>
 Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>

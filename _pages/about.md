@@ -26,9 +26,19 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ### Research Interests:
 * Machine Learning
+    * Adversarial machine learning
+    * Weakly supervised learning
+    * Robust optimization
+
 * Deep Learning
-* Computer Vision
+    * Information geometric understanding of deep neural networks
+    * Adversarial/Backoor robustness of deep neural networks
+    * Deep generative models
+    * Applications: classification, segmentation, image inpainting, video recognition
+
 * Artifical Intelligence
+    * Reliability and trustworthiness of medical AI systems
+    * Security threats in human-robot interaction
 
 <!-- * Machine Learning
   * Secure/Robust/Explainable machine learning

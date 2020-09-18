@@ -25,7 +25,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ---
 
-### Research Interests
+### Research Interests:
 * Machine Learning
 * Deep Learning
 * Computer Vision
@@ -47,8 +47,8 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ---
 
-### Students I currently supervise or co-supervise
-* PhD
+### Students I currently supervise or co-supervise:
+* PhD students
     * Yujing Jiang
     * Hanxun Huang
     * SAHEED ADEBAYO TIJANI
@@ -62,7 +62,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ---
 
-### Professional Activities
+### Professional Activities:
 
 * PC member
     * AAAI 2021

@@ -26,7 +26,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ---
 
-### Research Interests:
+### Research Interests
 * Machine Learning
 * Deep Learning
 * Computer Vision
@@ -48,10 +48,44 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ---
 
-### Professional Activities:
+### Students I currently supervise or co-supervise
+#### PhD
+* Yujing Jiang
+* Hanxun Huang
+* SAHEED ADEBAYO TIJANI
+* ZICHAN RUAN
+* GAYATHRI RADHABAI GOPINATHAN NAI
+* CHIRANJIBI SITAULA
 
-* PC Member: NeurIPS'20， ECCV'20, ICML'20, IJCAI'20, ICLR'20, AAAI'20, KDD'19, NeurIPS'19.
-* Journal Reviewer: TPAMI, TKDE, TNNLS, ACM TOMM, KAIS, IEEE TII, IEEE RA-L, Pattern Recognition
+#### Masters by Research
+* Nodens Koren
+* Yuning Zhou
+
+### Professional Activities
+
+* PC member
+    * AAAI 2021
+    * NeurIPS 2020, ICML 2020, ICLR 2020, AAAI 2020, IJCAI 2020, ECCV 2020
+    * NeurIPS 2019, KDD 2019
+
+* Journal Reviewer
+    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
+    * <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing" target="_blank">
+IEEE Transactions on Image Processing</a>
+    * <a href="https://www.journals.elsevier.com/pattern-recognition" target="_blank">
+Pattern Recognition</a>
+    * <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank">
+IEEE Transactions on Neural Networks and Learning Systems</a>
+    * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
+IEEE Transactions on Knowledge and Data Engineering</a>
+    * <a href="https://dl.acm.org/journal/tomm" target="_blank">
+ACM Transactions on Multimedia Computing, Communications, and Applications</a>
+    * <a href="https://www.springer.com/journal/10115" target="_blank">
+Knowledge and Information Systems</a>
+    * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
+IEEE Transactions on Industrial Informatics</a>
+    * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
+IEEE Robotics and Automation Letters</a>
 
 <!--
 <span style="color:blue">
@@ -63,7 +97,7 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 
 ---
 
-### Contact:
+### Contact
 
 Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
 Phone: +61 414521205<br>

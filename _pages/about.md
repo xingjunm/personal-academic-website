@@ -78,7 +78,7 @@ I have a broad interest in the theory and applications of machine learning and d
 ### Professional Activities:
 
 * PC Member
-    * ICLR021, AAAI 2021
+    * ICLR 2021, AAAI 2021
     * NeurIPS 2020, ICML 2020, ICLR 2020, AAAI 2020, IJCAI 2020, ECCV 2020
     * NeurIPS 2019, KDD 2019
 

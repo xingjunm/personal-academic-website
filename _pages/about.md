@@ -58,14 +58,16 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ---
 
-### Students I currently supervise or co-supervise:
+### Students I currently co-supervise:
 * PhD Students
     * Yujing Jiang
     * Hanxun Huang
     * Saheed Adebayo Tijani
     * Zichan Ran
-    * Gayathri Radhabai Gopinathan Nai
+    * Gayathri Radhabai Gopinathan Nair
     * Chiranjibi Sitaula
+    * Chuxuan Tong
+    * Xinzhe Li
 
 *  Masters by Research
     * Nodens Koren (2020)
@@ -76,7 +78,7 @@ I have a broad interest in the theory and applications of machine learning and d
 ### Professional Activities:
 
 * PC Member
-    * AAAI 2021
+    * ICLR021, AAAI 2021
     * NeurIPS 2020, ICML 2020, ICLR 2020, AAAI 2020, IJCAI 2020, ECCV 2020
     * NeurIPS 2019, KDD 2019
 

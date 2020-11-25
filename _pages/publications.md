@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Selected publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 
 ### -- 2020
 

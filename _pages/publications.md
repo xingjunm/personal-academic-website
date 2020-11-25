@@ -5,37 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprint
-
-
-## Journals
-
-<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
-<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
-**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (**PR**): 107332. (accepted in 2020)
-
-<b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning.</b>
-<a href="https://arxiv.org/abs/2007.09370" target="_blank"> [Paper] </a><br/>
-Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, **Xingjun Ma**<br/>
-IEEE Transactions on Dependable and Secure Computing (**TDSC**). (accepted in 2020)
-
-<b>Towards Fair and Privacy-Preserving Federated Deep Models.</b>
-<a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a>
-<a href="https://github.com/lingjuanlv/FPPDL" target="_blank"> [Code] </a>
-<a href="https://medium.com/@llv_9800/how-to-ensure-collaborative-fairness-and-privacy-in-decentralized-federated-learning-721e37595604" target="_blank"> [Medium] </a>
-<a href="https://www.youtube.com/watch?v=d_Z_YmBvmno" target="_blank"> [Youtube] </a>
-<br/>
-Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
-IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (accepted in 2020)
-
-
-<b>Exploiting Patterns to Explain Individual Predictions.</b> 
-<a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> [Paper] </a><br/>
-Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
-Knowledge and Information Systems (**KAIS**). (accepted in 2019)
-
-## Conferences
 
 ### -- 2020
 
@@ -74,6 +43,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
+<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
+<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
+**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
+Pattern Recognition (**PR**): 107332. (accepted in 2020)
+
 <b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
 <!-- <a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a> -->
 <a href="https://arxiv.org/abs/2007.02343" target="_blank"> [Paper] </a>
@@ -94,6 +68,20 @@ European Conference on Computer Vision (**ECCV**), Online, 2020. **(spotlight, t
 <a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
 Bojia Zi, Jingjing Chen, Minghao Chang, **Xingjun Ma**, Yu-Gang Jiang<br/>
 ACM International Conference on Multimedia (**ACM MM**), 2020.
+
+<b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning.</b>
+<a href="https://arxiv.org/abs/2007.09370" target="_blank"> [Paper] </a><br/>
+Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, **Xingjun Ma**<br/>
+IEEE Transactions on Dependable and Secure Computing (**TDSC**). (accepted in 2020)
+
+<b>Towards Fair and Privacy-Preserving Federated Deep Models.</b>
+<a href="https://arxiv.org/abs/1906.01167" target="_blank"> [Paper] </a>
+<a href="https://github.com/lingjuanlv/FPPDL" target="_blank"> [Code] </a>
+<a href="https://medium.com/@llv_9800/how-to-ensure-collaborative-fairness-and-privacy-in-decentralized-federated-learning-721e37595604" target="_blank"> [Medium] </a>
+<a href="https://www.youtube.com/watch?v=d_Z_YmBvmno" target="_blank"> [Youtube] </a>
+<br/>
+Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, **Xingjun Ma**, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
+IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (accepted in 2020)
 
 <b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery.</b> <a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"> [Paper] </a> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
@@ -123,6 +111,11 @@ ACM International Conference on Multimedia (**ACM MM**), Nice, France, 2019.
 <a href="http://arxiv.org/abs/1908.00211" target="_blank"> [Paper] </a><br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), Macao, China, 2019.
+
+<b>Exploiting Patterns to Explain Individual Predictions.</b> 
+<a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> [Paper] </a><br/>
+Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
+Knowledge and Information Systems (**KAIS**). (accepted in 2019)
 
 <b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality.</b> 
 <a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>

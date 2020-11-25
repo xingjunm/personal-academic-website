@@ -23,7 +23,7 @@ International Conference on Learning Representations (**ICLR**), 2020.
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank"> [Paper] </a>
 <a href="https://github.com/csdongxian/skip-connections-matter" target="_blank"> [Code] </a><br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
-International Conference on Learning Representations (**ICLR**), 2020. (<span style="color:red">Spotlight, top 4%</span>)
+International Conference on Learning Representations (**ICLR**), 2020. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
 
 <b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness.</b> 
 <a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
@@ -60,7 +60,7 @@ European Conference on Computer Vision (**ECCV**), 2020.
 <!-- <a href="" target="_blank"> [Code] </a> -->
 <br/>
 Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>
-European Conference on Computer Vision (**ECCV**), Online, 2020. (<span style="color:red">Spotlight, top 5%</span>)
+European Conference on Computer Vision (**ECCV**), Online, 2020. (<span style="color:red;font-weight:bold">Spotlight, top 5%</span>)
 
 <b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.</b> 
 <a href="" target="_blank"> [Paper] </a>
@@ -98,7 +98,7 @@ International Conference on Computer Vision (**ICCV**), Seoul, Korea, 2019.
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank"> [Paper] </a>
 <a href="https://github.com/YisenWang/dynamic_adv_training" target="_blank"> [Code] </a><br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
-International Conference on Machine Learning (**ICML**), Long Beach, USA, 2019. (<span style="color:red">Long talk, top 3%</span>)
+International Conference on Machine Learning (**ICML**), Long Beach, USA, 2019. (<span style="color:red;font-weight:bold">Long talk, top 3%</span>)
 
 <b>Black-box Adversarial Attacks on Video Recognition Models.</b> 
 <a href="https://arxiv.org/abs/1904.05181" target="_blank"> [Paper] </a>
@@ -132,18 +132,18 @@ Xingjun Ma, PhD thesis.
 <a href="https://arxiv.org/pdf/1801.02613.pdf"> [Paper] </a>
 <a href="https://github.com/xingjunm/lid_adversarial_subspace_detection"> [Code] </a><br/>
 **Xingjun Ma**, Bo Li, Yisen Wang, Sarah M. Erfani, Sudanthi Wijewickrema,  Grant Schoenebeck, Dawn Song, Michael E. Houle, James Bailey<br/>
-International Conference on Learning Representations (**ICLR**), Vancouver, BC, Canada, 2018, (<span style="color:red">Oral, top 2%</span>)
+International Conference on Learning Representations (**ICLR**), Vancouver, BC, Canada, 2018, (<span style="color:red;font-weight:bold">Oral, top 2%</span>)
 
 <b>Dimensionality-Driven Learning with Noisy Labels.</b> 
 <a href="https://arxiv.org/pdf/1806.02612.pdf"> [Paper] </a>
 <a href="https://github.com/xingjunm/dimensionality-driven-learning"> [Code] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema, James Bailey<br/>
-International Conference on Machine Learning (**ICML**), Stockholm, Sweden, 2018. (<span style="color:red">Long talk, top 4%</span>)
+International Conference on Machine Learning (**ICML**), Stockholm, Sweden, 2018. (<span style="color:red;font-weight:bold">Long talk, top 4%</span>)
 
 <b>Iterative Learning with Open-set Noisy Labels.</b> 
 <a href="https://arxiv.org/pdf/1804.00092.pdf"> [Paper] </a><br/>
 Yisen Wang, Weiyang Liu, **Xingjun Ma**, James Bailey,  Hongyuan  Zha, Le Song, Shu-Tao Xia<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Salt Lake City, Utah, USA, 2018. (<span style="color:red">Spotlight</span>)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Salt Lake City, Utah, USA, 2018. (<span style="color:red;font-weight:bold">Spotlight</span>)
 
 <b>Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?</b> 
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf"> [Paper] </a><br/>
@@ -161,12 +161,12 @@ International Symposium on Computer-Based Medical Systems (**CBMS**), 2018
 <b>Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training.</b> 
 <a href="https://arxiv.org/pdf/1703.01460.pdf"> [Paper] </a><br/>
 **Xingjun Ma**, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary and James Bailey.<br/>
-International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, 2017. (<span style="color:red">Oral</span>)
+International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, 2017. (<span style="color:red;font-weight:bold">Oral</span>)
 
 <b>Unbiased Multivariate Correlation Analysis.</b> 
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf"> [Paper] </a><br/>
 Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, **Xingjun Ma** and Shu-Tao Xia<br/> 
-AAAI Conference on Artificial Intelligence (**AAAI**), San Francisco, USA, 2017. (<span style="color:red">Oral</span>)
+AAAI Conference on Artificial Intelligence (**AAAI**), San Francisco, USA, 2017. (<span style="color:red;font-weight:bold">Oral</span>)
 
 <b>Providing Effective Real-time Feedback in Simulation-based Surgical Training.</b> 
 <a href="https://arxiv.org/abs/1706.10036"> [Paper] </a><br/>

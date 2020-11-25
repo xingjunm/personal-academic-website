@@ -7,9 +7,6 @@ author_profile: true
 
 ### Preprint
 
-<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality.</b> 
-<a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
-Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey
 
 ## Journals
 
@@ -42,18 +39,40 @@ Knowledge and Information Systems (**KAIS**). (accepted in 2019)
 
 ### -- 2020
 
-<b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.</b> 
-<a href="" target="_blank"> [Paper] </a>
-<a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
-Bojia Zi, Jingjing Chen, Minghao Chang, **Xingjun Ma**, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (**ACM MM**), 2020.
+<b>Normalized Loss Functions for Deep Learning with Noisy Labels.</b> 
+<a href="https://arxiv.org/abs/2006.13554" target="_blank"> [Paper] </a>
+<a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>
+**Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
+International Conference on Machine Learning (**ICML**), 2020.
 
-<b>Short-Term and Long-Term Context Aggregation Network for Video Inpainting.</b> 
-<a href="https://arxiv.org/abs/2009.05721" target="_blank"> [Paper] </a>
-<!-- <a href="" target="_blank"> [Code] </a> -->
-<br/>
-Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>
-European Conference on Computer Vision (**ECCV**), Online, 2020. **(spotlight, top 5%)**
+<b>Improving Adversarial Robustness Requires Revisiting Misclassified Examples.</b> 
+<a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank"> [Paper] </a>
+<a href="https://github.com/YisenWang/MART" target="_blank"> [Code] </a><br/>
+Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
+International Conference on Learning Representations (**ICLR**), 2020.
+
+<b>Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</b> 
+<a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank"> [Paper] </a>
+<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank"> [Code] </a><br/>
+Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
+International Conference on Learning Representations (**ICLR**), 2020. **(spotlight, top 4%)**
+
+<b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness.</b> 
+<a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
+Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
+arXiv preprint, 2020.
+
+<b>Clean-Label Backdoor Attacks on Video Recognition Models.</b>
+<a href="https://arxiv.org/abs/2003.03030" target="_blank"> [Paper] </a>
+<a href="https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack" target="_blank"> [Code] </a><br/>
+Shihao Zhao, **Xingjun Ma**, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
+
+<b>Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles.</b> 
+<a href="https://arxiv.org/abs/2003.08757" target="_blank"> [Paper] </a>
+<a href="https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles" target="_blank"> [Code] </a><br/>
+Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 
 <b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
 <!-- <a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a> -->
@@ -63,35 +82,18 @@ European Conference on Computer Vision (**ECCV**), Online, 2020. **(spotlight, t
 Yunfei Liu, **Xingjun Ma**, James Bailey, Feng Lu<br/>
 European Conference on Computer Vision (**ECCV**), 2020.
 
-<b>Normalized Loss Functions for Deep Learning with Noisy Labels.</b> 
-<a href="https://arxiv.org/abs/2006.13554" target="_blank"> [Paper] </a>
-<a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>
-**Xingjun Ma**<sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
-International Conference on Machine Learning (**ICML**), 2020.
+<b>Short-Term and Long-Term Context Aggregation Network for Video Inpainting.</b> 
+<a href="https://arxiv.org/abs/2009.05721" target="_blank"> [Paper] </a>
+<!-- <a href="" target="_blank"> [Code] </a> -->
+<br/>
+Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>
+European Conference on Computer Vision (**ECCV**), Online, 2020. **(spotlight, top 5%)**
 
-<b>Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles.</b> 
-<a href="https://arxiv.org/abs/2003.08757" target="_blank"> [Paper] </a>
-<a href="https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles" target="_blank"> [Code] </a><br/>
-Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
-
-<b>Clean-Label Backdoor Attacks on Video Recognition Models.</b>
-<a href="https://arxiv.org/abs/2003.03030" target="_blank"> [Paper] </a>
-<a href="https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack" target="_blank"> [Code] </a><br/>
-Shihao Zhao, **Xingjun Ma**, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
-
-<b>Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets.</b> 
-<a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank"> [Paper] </a>
-<a href="https://github.com/csdongxian/skip-connections-matter" target="_blank"> [Code] </a><br/>
-Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
-International Conference on Learning Representations (**ICLR**), 2020. **(spotlight, top 4%)**
-
-<b>Improving Adversarial Robustness Requires Revisiting Misclassified Examples.</b> 
-<a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank"> [Paper] </a>
-<a href="https://github.com/YisenWang/MART" target="_blank"> [Code] </a><br/>
-Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, **Xingjun Ma** and Quanquan Gu <br/>
-International Conference on Learning Representations (**ICLR**), 2020.
+<b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.</b> 
+<a href="" target="_blank"> [Paper] </a>
+<a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
+Bojia Zi, Jingjing Chen, Minghao Chang, **Xingjun Ma**, Yu-Gang Jiang<br/>
+ACM International Conference on Multimedia (**ACM MM**), 2020.
 
 <b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery.</b> <a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"> [Paper] </a> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
@@ -121,6 +123,11 @@ ACM International Conference on Multimedia (**ACM MM**), Nice, France, 2019.
 <a href="http://arxiv.org/abs/1908.00211" target="_blank"> [Paper] </a><br/>
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), Macao, China, 2019.
+
+<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality.</b> 
+<a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
+Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey<br/>
+arXiv preprint, 2019.
 
 <!--
 <a href="https://minerva-access.unimelb.edu.au/bitstream/handle/11343/219680/Machine%20Learning%20with%20Adversarial%20Perturbations%20and%20Noisy%20Labels.pdf?sequence=1&isAllowed=y" target="_blank">Machine Learning with Adversarial Perturbations and Noisy Labels</a><br/>

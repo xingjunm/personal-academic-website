@@ -88,17 +88,17 @@ International Conference on Artificial Intelligence in Education (**AIED**), Ifr
 
 ### -- 2019
 
-<b>Symmetric Cross Entropy for Robust Learning with Noisy Labels.</b> 
-<a href="https://arxiv.org/abs/1908.06112" target="_blank"> [Paper] </a>
-<a href="https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels" target="_blank"> [Code] </a><br/>
-Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
-International Conference on Computer Vision (**ICCV**), Seoul, Korea, 2019.
-
 <b>On the Convergence and Robustness of Adversarial Training.</b> 
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank"> [Paper] </a>
 <a href="https://github.com/YisenWang/dynamic_adv_training" target="_blank"> [Code] </a><br/>
 Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
 International Conference on Machine Learning (**ICML**), Long Beach, USA, 2019. (<span style="color:red;font-weight:bold">Long talk, top 3%</span>)
+
+<b>Symmetric Cross Entropy for Robust Learning with Noisy Labels.</b> 
+<a href="https://arxiv.org/abs/1908.06112" target="_blank"> [Paper] </a>
+<a href="https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels" target="_blank"> [Code] </a><br/>
+Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
+International Conference on Computer Vision (**ICCV**), Seoul, Korea, 2019.
 
 <b>Black-box Adversarial Attacks on Video Recognition Models.</b> 
 <a href="https://arxiv.org/abs/1904.05181" target="_blank"> [Paper] </a>

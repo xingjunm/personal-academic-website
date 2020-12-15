@@ -10,7 +10,7 @@ author_profile: true
 <b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
 <a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
 Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint, 2020.
+arXiv preprint arXiv:2012.06337.
 
 ### -- 2020
 

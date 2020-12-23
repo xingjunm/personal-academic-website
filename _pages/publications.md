@@ -7,7 +7,7 @@ author_profile: true
 
 ### -- 2021
 
-<b>Robustness-Oriented Testing for Deep Learning Systems</b> 
+<b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
 <a href="" target="_blank"> [Paper] </a><br/>
 Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, Peng Cheng<br/>
 International Conference on Software Engineering (**ICSE**), 2021.

@@ -12,6 +12,11 @@ author_profile: true
 Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, Peng Cheng<br/>
 International Conference on Software Engineering (**ICSE**), 2021.
 
+<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
+<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
+**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
+Pattern Recognition (**PR**), 110, 2021, 107332.
+
 <b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
 <a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
 Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
@@ -53,11 +58,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
 <a href="https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles" target="_blank"> [Code] </a><br/>
 Ranjie Duan, **Xingjun Ma**, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
-
-<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems.</b> 
-<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
-**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (**PR**): 107332. (accepted in 2020)
 
 <b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b> 
 <!-- <a href="http://liuyunfei.xyz/Projs/Refool/index.html" target="_blank"> [Project] </a> -->

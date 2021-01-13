@@ -104,7 +104,7 @@ Ang Li, Shanshan Zhao, **Xingjun Ma**, Mingming Gong, Jianzhong Qi, Rui Zhang, D
 European Conference on Computer Vision (**ECCV**), Online, 2020. (<span style="color:red;font-weight:bold">Spotlight, top 5%</span>)
 
 <b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.</b> 
-<a href="" target="_blank"> [Paper] </a>
+<a href="https://arxiv.org/abs/2101.01456" target="_blank"> [Paper] </a>
 <a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
 Bojia Zi, Jingjing Chen, Minghao Chang, **Xingjun Ma**, Yu-Gang Jiang<br/>
 ACM International Conference on Multimedia (**ACM MM**), 2020.

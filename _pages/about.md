@@ -18,7 +18,7 @@ I am currently a lecturer in the School of Information Technology, Deakin Univer
 
 <!-- where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>.  -->
 
-I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and the security/privacy aspects of AI systems. 
+I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning, deep learning understanding, AI security/privacy/interpretability.
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
 
 <!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
@@ -59,11 +59,11 @@ I have a broad interest in the theory and applications of machine learning and d
   * Virtual reality surgery -->
 
 ---
-### Latest News:
+<!-- ### Latest News:
 * *01/2021: Three papers are accepted to ICLR2021, two spotlights (Top 4%=114/2997) and one poster.*
 * *01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.*
 
----
+--- -->
 
 ### Students I currently co-supervise:
 * PhD Students

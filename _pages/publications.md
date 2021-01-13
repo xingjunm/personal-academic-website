@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprint
+### Preprints
 
 <b>Neural Architecture Search via Combinatorial Multi-Armed Bandit.</b> 
 <a href="https://arxiv.org/abs/2101.00336"> [Paper] </a><br/>

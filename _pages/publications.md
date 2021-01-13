@@ -31,7 +31,7 @@ arXiv preprint, 2019.
 ### 2021
 <b>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> 
 <a href="https://openreview.net/forum?id=9l0K4OM-oXE" target="_blank"> [Paper] </a><br/>
-Yige Li, **Xingjun Ma**, Nodens Koren, Lingjuan Lyu, Xixiang Lyu, Bo Li<br/>
+Yige Li, Nodens Koren, Lingjuan Lyu, Xixiang Lyu, Bo Li, **Xingjun Ma**<br/>
 International Conference on Learning Representations (**ICLR**), 2021.
 
 <b>Unlearnable Examples: Making Personal Data Unexploitable</b> 

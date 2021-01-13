@@ -5,17 +5,21 @@ permalink: /news/
 author_profile: true
 ---
 
+### 2021
+* 01/2021: Three papers are accepted to ICLR2021, two spotlight (Top 4%=114/2997) and one poster.
+* 01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.
+
 ### 2020
-* 07/2020: two papers accepted to ECCV2020 (one splotligh, one poster) congrats to Ang, Yunfei and other collaborators.
-* 06/2020: One paper accepted to journal TDSC.
+* 07/2020: Two papers on video inpainting and backdoor attack respectively are accepted to ECCV2020 (one splotlight, one poster).
+* 06/2020: One paper are accepted to journal TDSC.
 * 06/2020: I have joined School of Information Technology, Deakin University, as a lecturer.
-* 06/2020: one paper accepted to ICML2020, congrats to Hanxun and other collaborators.
-* 05/2020: One paper accepted to journal Pattern Recognition.
-* 05/2020: One paper accepted to journal TPDS.
-* 02/2020: Two papers accepted to CVPR2020.
+* 06/2020: One paper on robust loss functions is accepted to ICML2020.
+* 05/2020: One paper on understanding medical adversarial attacks/examples is accepted to journal Pattern Recognition.
+* 05/2020: One paper is accepted to journal TPDS.
+* 02/2020: Two papers are accepted to CVPR2020.
 
 ### 2019
-* 12/2019: Two papers accepted to ICLR2020.
+* 12/2019: Two papers are accepted to ICLR2020.
 * 12/2019: Sarah Erfani and I gave a tutorial on Adversarial Machine Learning (AML) at <a href="http://nugget.unisa.edu.au/AI2019/index.php#" target="_blank">Australasian Joint Conference on Artificial Intelligence (AI2019)</a>. <a href="https://github.com/xingjunm/An-Introduction-to-Adversarial-Machine-Learning" target="_blank">GitHub (slides and codes)</a>.
 * 08/2019: I gave a talk on generative adversarial networks (GANs) at <a href="https://mondo.com.au/" target="_blank">Mondo</a>.
 * 05/2019: I will visit RIKEN and NII in Japan, June 2019.

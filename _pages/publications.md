@@ -5,7 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-### -- 2021
+### Preprint
+
+<b>Neural Architecture Search via Combinatorial Multi-Armed Bandit.</b> 
+<a href="https://arxiv.org/abs/2101.00336"> [Paper] </a><br/>
+Hanxun Huang, **Xingjun Ma**, Sarah M. Erfani and James Bailey<br/>
+arXiv preprint arXiv:2012.06337.
+
+<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
+<a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
+Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
+arXiv preprint arXiv:2012.06337.
+
+<b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness.</b> 
+<a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
+Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
+arXiv preprint, 2020.
+
+<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality.</b> 
+<a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
+Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey<br/>
+arXiv preprint, 2019.
+
+
+### 2021
+<b>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> 
+<a href="https://openreview.net/forum?id=9l0K4OM-oXE" target="_blank"> [Paper] </a><br/>
+Yige Li, **Xingjun Ma**, Nodens Koren, Lingjuan Lyu, Xixiang Lyu, Bo Li<br/>
+International Conference on Learning Representations (**ICLR**), 2021.
+
+<b>Unlearnable Examples: Making Personal Data Unexploitable</b> 
+<a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"> [Paper] </a><br/>
+Hanxun Huang, **Xingjun Ma**, Sarah Monazam Erfani, James Bailey, Yisen Wang<br/>
+International Conference on Learning Representations (**ICLR**), 2021.(<span style="color:red;font-weight:bold">Spotlight, top 4%=114/2997</span>)
+
+<b>Improving Adversarial Robustness via Channel-wise Activation Suppressing</b> 
+<a href="https://openreview.net/forum?id=zQTezqCCtNx" target="_blank"> [Paper] </a><br/>
+Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, **Xingjun Ma**, Yisen Wang<br/>
+International Conference on Learning Representations (**ICLR**), 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%=114/2997</span>)
 
 <b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
 <a href="" target="_blank"> [Paper] </a><br/>
@@ -17,12 +54,9 @@ International Conference on Software Engineering (**ICSE**), 2021.
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
 Pattern Recognition (**PR**), 110, 2021, 107332.
 
-<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
-<a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
-Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint arXiv:2012.06337.
 
-### -- 2020
+
+### 2020
 
 <b>Normalized Loss Functions for Deep Learning with Noisy Labels.</b> 
 <a href="https://arxiv.org/abs/2006.13554" target="_blank"> [Paper] </a>
@@ -41,11 +75,6 @@ International Conference on Learning Representations (**ICLR**), 2020.
 <a href="https://github.com/csdongxian/skip-connections-matter" target="_blank"> [Code] </a><br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and **Xingjun Ma**<br/>
 International Conference on Learning Representations (**ICLR**), 2020. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
-
-<b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness.</b> 
-<a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
-Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
-arXiv preprint, 2020.
 
 <b>Clean-Label Backdoor Attacks on Video Recognition Models.</b>
 <a href="https://arxiv.org/abs/2003.03030" target="_blank"> [Paper] </a>
@@ -98,7 +127,7 @@ IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (accepted in 2
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (**AIED**), Ifrane, Morocco, 2020.
 
-### -- 2019
+### 2019
 
 <b>On the Convergence and Robustness of Adversarial Training.</b> 
 <a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank"> [Paper] </a>
@@ -128,17 +157,12 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), Macao, Ch
 Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
 Knowledge and Information Systems (**KAIS**). (accepted in 2019)
 
-<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality.</b> 
-<a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
-Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey<br/>
-arXiv preprint, 2019.
-
 <!--
 <a href="https://minerva-access.unimelb.edu.au/bitstream/handle/11343/219680/Machine%20Learning%20with%20Adversarial%20Perturbations%20and%20Noisy%20Labels.pdf?sequence=1&isAllowed=y" target="_blank">Machine Learning with Adversarial Perturbations and Noisy Labels</a><br/>
 Xingjun Ma, PhD thesis.
 -->
 
-### -- 2018
+### 2018
 
 <b>Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.</b> 
 <a href="https://arxiv.org/pdf/1801.02613.pdf"> [Paper] </a>
@@ -168,7 +192,7 @@ Sudanthi Wijewickrema, Bridget Copson, **Xingjun Ma**, Robert Briggs, James Bail
 International Symposium on Computer-Based Medical Systems (**CBMS**), 2018
 
 
-### -- 2017
+### 2017
 
 <b>Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training.</b> 
 <a href="https://arxiv.org/pdf/1703.01460.pdf"> [Paper] </a><br/>
@@ -201,7 +225,7 @@ Sudanthi Wijewickrema, **Xingjun Ma**, James Bailey, Gregor Kennedy and Stephen 
 arXiv preprint
 -->
 
-### -- 2016
+### 2016
 
 <b>Finding Influentials in Twitter: A Temporal Influence Ranking Model.</b> 
 <a href="https://arxiv.org/pdf/1703.01468.pdf"> [Paper] </a><br/>

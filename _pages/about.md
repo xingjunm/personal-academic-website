@@ -14,7 +14,9 @@ author_profile: true
 
 ---
 
-I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before joining Deakin, I was a research fellow in the Schoolf of CIS, The University of Melbourne, where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>. I received my Master and Bacholor degrees from Tsinghua University and Jilin University respectively.
+I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before joining Deakin, I was a research fellow in the Schoolf of CIS, The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
+
+<!-- where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>.  -->
 
 I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and the security/privacy aspects of AI systems. 
 <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
@@ -57,6 +59,11 @@ I have a broad interest in the theory and applications of machine learning and d
   * Virtual reality surgery -->
 
 ---
+#### <span style="color:red">Latest News:</span>
+* 01/2021: Three papers are accepted to ICLR2021, two spotlights (Top 4%=114/2997) and one poster.
+* 01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.
+
+---
 
 ### Students I currently co-supervise:
 * PhD Students
@@ -78,9 +85,9 @@ I have a broad interest in the theory and applications of machine learning and d
 ### Professional Activities:
 
 * PC Member
-    * ICML 2021, CVPR 2021, ICLR 2021, AAAI 2021
-    * NeurIPS 2020, ICML 2020, ICLR 2020, AAAI 2020, IJCAI 2020, ECCV 2020
-    * NeurIPS 2019, KDD 2019
+    * ICML2021, CVPR2021, ICLR2021, AAAI2021, SDM2021
+    * NeurIPS2020, ICML2020, ICLR2020, AAAI2020, IJCAI2020, ECCV2020
+    * NeurIPS2019, KDD2019
 
 * Journal Reviewer
     * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
@@ -92,14 +99,14 @@ Pattern Recognition</a>
 IEEE Transactions on Neural Networks and Learning Systems</a>
     * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
 IEEE Transactions on Knowledge and Data Engineering</a>
-    * <a href="https://dl.acm.org/journal/tomm" target="_blank">
+    <!-- * <a href="https://dl.acm.org/journal/tomm" target="_blank">
 ACM Transactions on Multimedia Computing, Communications, and Applications</a>
     * <a href="https://www.springer.com/journal/10115" target="_blank">
 Knowledge and Information Systems</a>
     * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
 IEEE Transactions on Industrial Informatics</a>
     * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
-IEEE Robotics and Automation Letters</a>
+IEEE Robotics and Automation Letters</a> -->
 
 <!--
 <span style="color:blue">

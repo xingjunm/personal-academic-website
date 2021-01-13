@@ -59,7 +59,7 @@ I have a broad interest in the theory and applications of machine learning and d
   * Virtual reality surgery -->
 
 ---
-#### <span style="color:red">Latest News:</span>
+### Latest News:
 * 01/2021: Three papers are accepted to ICLR2021, two spotlights (Top 4%=114/2997) and one poster.
 * 01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.
 

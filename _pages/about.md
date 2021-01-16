@@ -98,14 +98,14 @@ Pattern Recognition</a>
 IEEE Transactions on Neural Networks and Learning Systems</a>
     * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
 IEEE Transactions on Knowledge and Data Engineering</a>
-    
+
     <!-- * <a href="https://dl.acm.org/journal/tomm" target="_blank">
-ACM Transactions on Multimedia Computing, Communications, and Applications</a>
-    * <a href="https://www.springer.com/journal/10115" target="_blank">
-Knowledge and Information Systems</a>
-    * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
-IEEE Transactions on Industrial Informatics</a>
-    * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
+ACM Transactions on Multimedia Computing, Communications, and Applications</a> -->
+    <!-- * <a href="https://www.springer.com/journal/10115" target="_blank">
+Knowledge and Information Systems</a> -->
+    <!-- * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
+IEEE Transactions on Industrial Informatics</a> -->
+    <!-- * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
 IEEE Robotics and Automation Letters</a> -->
 
 <!--

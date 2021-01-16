@@ -98,6 +98,7 @@ Pattern Recognition</a>
 IEEE Transactions on Neural Networks and Learning Systems</a>
     * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
 IEEE Transactions on Knowledge and Data Engineering</a>
+    
     <!-- * <a href="https://dl.acm.org/journal/tomm" target="_blank">
 ACM Transactions on Multimedia Computing, Communications, and Applications</a>
     * <a href="https://www.springer.com/journal/10115" target="_blank">

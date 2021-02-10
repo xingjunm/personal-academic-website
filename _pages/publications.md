@@ -65,7 +65,10 @@ International Conference on Software Engineering (**ICSE**), 2021.
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
 Pattern Recognition (**PR**), 110, 2021, 107332.
 
-
+<b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b> 
+<a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"> [Paper] </a><br/>
+Bridget Copson, Sudanthi Wijewickrema, **Xingjun Ma**, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
+European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
 ### 2020
 

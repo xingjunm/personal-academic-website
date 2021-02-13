@@ -71,7 +71,7 @@ I have a broad interest in the theory and applications of machine learning and d
     * Saheed Adebayo Tijani
     * Zichan Ran
     * Gayathri Radhabai Gopinathan Nair
-    * Chiranjibi Sitaula
+    * Chiranjibi Sitaula (completed in 2021): Developing New Image Features for Scene Image Classification
     * Chuxuan Tong
     * Xinzhe Li
 

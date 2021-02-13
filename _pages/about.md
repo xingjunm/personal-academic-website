@@ -64,7 +64,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 --- -->
 
-### Students I currently co-supervise:
+<!-- ### Students I currently co-supervise:
 * PhD Students
     * Yujing Jiang
     * Hanxun Huang
@@ -77,7 +77,7 @@ I have a broad interest in the theory and applications of machine learning and d
 
 *  Masters by Research
     * Nodens Koren (2020)
-    * Yuning Zhou (2020)
+    * Yuning Zhou (2020) -->
 
 ---
 

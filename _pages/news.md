@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2021
-* 01/2021: Three papers are accepted to ICLR2021, two spotlight (Top 4%=114/2997) and one poster.
+* 01/2021: Three papers are accepted to ICLR2021, two spotlight (top 4%) and one poster.
 * 01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.
 
 ### 2020

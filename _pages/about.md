@@ -84,16 +84,9 @@ I have a broad interest in the theory and applications of machine learning and d
 ### Professional Activities:
 
 * Program Committee Member
-    * ICML (2020 - 2021)
-    * ICLR (2020 - 2021)
-    * NeurIPS (2019 - 2021)
-    * CVPR (2020 - 2021)
-    * ICCV (2021 - 2021)
-    * AAAI (2020 - 2021)
-    * IJCAI (2020)
-    * ECCV (2020)
-    * SDM (2021)
-    * KDD (2019)
+    * 2021: ICML, ICLR, NeurIPS, CVPR, ICCV, AAAI, SDM
+    * 2020: ICML, ICLR, NeurIPS, CVPR, ECCV, AAAI, IJCAI
+    * 2019: KDD, NeurIPS
 
 * Journal Reviewer
     * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>

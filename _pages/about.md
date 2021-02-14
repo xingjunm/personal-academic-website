@@ -37,11 +37,11 @@ I have a broad interest in the theory and applications of machine learning and d
     * Information geometric understanding of deep neural networks
     * Adversarial/Backdoor robustness of deep neural networks
     * Deep generative models
-    * Applications: classification, segmentation, image inpainting, video recognition
+    * Applications: classification, segmentation, image inpainting, video understanding
 
 * Artifical Intelligence
     * Reliability and trustworthiness of medical AI systems
-    * Security threats in human-robot interaction
+    * Secutiry risks in human-robot interaction
 
 <!-- * Machine Learning
   * Secure/Robust/Explainable machine learning

@@ -4,7 +4,7 @@ title: "Xingjun (Daniel) Ma"
 excerpt: "About Me"
 author_profile: true
 ---
-<span style="font-weight:bold">Lecturer (Assistant Professor) in Machine Intelligence</span><br>
+<span style="font-weight:bold">Lecturer (Assistant Professor), Machine Intelligence</span><br>
 <a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
 <a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
 
@@ -14,11 +14,11 @@ author_profile: true
 
 ---
 
-I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus). I am also an honorary fellow in the School of Computing and Information Systems (CIS), The University of Melbourne. Before joining Deakin, I was a research fellow in the Schoolf of CIS, The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
+I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I also hold an honorary fellow position in the School of Computing and Information Systems (CIS), The University of Melbourne. Prior Deakin, I was a research fellow in the Schoolf of CIS at The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
 
 <!-- where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>.  -->
 
-I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning, weakly supervised learning, deep learning and AI security. <span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
+I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning, trustworthy machine learning, weakly supervised learning, deep learning, data privacy and AI ethics. <span style="color:rgb(19,0,238)">I am open to long-term collaborations and partnerships. </span>
 
 <!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
 <!-- I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley). -->
@@ -83,10 +83,17 @@ I have a broad interest in the theory and applications of machine learning and d
 
 ### Professional Activities:
 
-* PC Member
-    * ICML2021, CVPR2021, ICLR2021, AAAI2021, SDM2021
-    * NeurIPS2020, ICML2020, ICLR2020, AAAI2020, IJCAI2020, ECCV2020
-    * NeurIPS2019, KDD2019
+* Program Committee Member
+    * ICML (2020 - 2021)
+    * ICLR (2020 - 2021)
+    * NeurIPS (2019 - 2021)
+    * CVPR (2020 - 2021)
+    * ICCV (2021 - 2021)
+    * AAAI (2020 - 2021)
+    * IJCAI (2020)
+    * ECCV (2020)
+    * SDM (2021)
+    * KDD (2019)
 
 * Journal Reviewer
     * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>

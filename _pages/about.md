@@ -14,7 +14,7 @@ author_profile: true
 
 ---
 
-I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I also hold an honorary fellow position in the School of Computing and Information Systems (CIS), The University of Melbourne. Prior Deakin, I was a research fellow in the Schoolf of CIS at The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
+I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I also hold an honorary fellow position in the School of Computing and Information Systems (CIS), The University of Melbourne. Prior to Deakin, I was a research fellow in the Schoolf of CIS at The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
 
 <!-- where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>.  -->
 

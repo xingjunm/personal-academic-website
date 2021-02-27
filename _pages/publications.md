@@ -6,11 +6,6 @@ author_profile: true
 ---
 
 ### 2021
-<b>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> 
-<a href="https://openreview.net/forum?id=9l0K4OM-oXE" target="_blank"> [Paper] </a>
-<a href="https://github.com/bboylyg/NAD" target="_blank"> [Code] </a><br/>
-Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, **Xingjun Ma**<br/>
-International Conference on Learning Representations (**ICLR**), 2021.
 
 <b>Unlearnable Examples: Making Personal Data Unexploitable</b> 
 <a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"> [Paper] </a>
@@ -22,6 +17,12 @@ International Conference on Learning Representations (**ICLR**), 2021.(<span sty
 <a href="https://openreview.net/forum?id=zQTezqCCtNx" target="_blank"> [Paper] </a><br/>
 Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, **Xingjun Ma**, Yisen Wang<br/>
 International Conference on Learning Representations (**ICLR**), 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
+
+<b>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> 
+<a href="https://openreview.net/forum?id=9l0K4OM-oXE" target="_blank"> [Paper] </a>
+<a href="https://github.com/bboylyg/NAD" target="_blank"> [Code] </a><br/>
+Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, **Xingjun Ma**<br/>
+International Conference on Learning Representations (**ICLR**), 2021.
 
 <b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
 <a href="https://arxiv.org/abs/2102.05913" target="_blank"> [Paper] </a>

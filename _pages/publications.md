@@ -5,39 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprints
-
-<b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b> 
-<a href="https://arxiv.org/abs/2101.06898"> [Paper] </a><br/>
-Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
-arXiv preprint arXiv:2101.06898.
-
-<b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b> 
-<a href="https://arxiv.org/abs/2101.06704"> [Paper] </a><br/>
-Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
-arXiv preprint arXiv:2101.06704.
-
-<b>Neural Architecture Search via Combinatorial Multi-Armed Bandit</b> 
-<a href="https://arxiv.org/abs/2101.00336"> [Paper] </a><br/>
-Hanxun Huang, **Xingjun Ma**, Sarah M. Erfani and James Bailey<br/>
-arXiv preprint arXiv:2101.00336.
-
-<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
-<a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
-Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint arXiv:2012.06337.
-
-<b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness</b> 
-<a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
-Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
-arXiv preprint arXiv:2006.13726.
-
-<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</b> 
-<a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
-Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey<br/>
-arXiv preprint arXiv:1905.00643.
-
-
 ### 2021
 <b>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> 
 <a href="https://openreview.net/forum?id=9l0K4OM-oXE" target="_blank"> [Paper] </a>
@@ -71,6 +38,31 @@ Pattern Recognition (**PR**), 110, 2021, 107332.
 <a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"> [Paper] </a><br/>
 Bridget Copson, Sudanthi Wijewickrema, **Xingjun Ma**, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
+
+<b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b> 
+<a href="https://arxiv.org/abs/2101.06898"> [Paper] </a><br/>
+Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
+Preprint.
+
+<b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b> 
+<a href="https://arxiv.org/abs/2101.06704"> [Paper] </a><br/>
+Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
+Preprint.
+
+<b>Neural Architecture Search via Combinatorial Multi-Armed Bandit</b> 
+<a href="https://arxiv.org/abs/2101.00336"> [Paper] </a><br/>
+Hanxun Huang, **Xingjun Ma**, Sarah M. Erfani and James Bailey<br/>
+Preprint.
+
+<b>A Lazy Approach for Efficient Index Learning</b> 
+<a href="https://arxiv.org/abs/2102.08081"> [Paper] </a><br/>
+Guanli Liu, Lars Kulik, **Xingjun Ma**, Jianzhong Qi<br/>
+Preprint.
+
+<b>Multi-class Classification Based Anomaly Detection of Insider Activities</b> 
+<a href="https://arxiv.org/abs/2102.07277"> [Paper] </a><br/>
+R G Gayathri, Atul Sajjanhar, Yong Xiang, **Xingjun Ma**<br/>
+Preprint.
 
 ### 2020
 
@@ -143,6 +135,16 @@ IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (accepted in 2
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, **Xingjun Ma**, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (**AIED**), Ifrane, Morocco, 2020.
 
+<b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness</b> 
+<a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
+Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
+Preprint.
+
+<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
+<a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
+Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
+Preprint.
+
 ### 2019
 
 <b>On the Convergence and Robustness of Adversarial Training</b> 
@@ -172,6 +174,11 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), Macao, Ch
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> [Paper] </a><br/>
 Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
 Knowledge and Information Systems (**KAIS**). (accepted in 2019)
+
+<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</b> 
+<a href="https://arxiv.org/abs/1905.00643" target="_blank"> [Paper] </a><br/>
+Sukarna Barua, **Xingjun Ma**, Sarah Monazam Erfani, Michael E. Houle, James Bailey<br/>
+Preprint.
 
 <!--
 <a href="https://minerva-access.unimelb.edu.au/bitstream/handle/11343/219680/Machine%20Learning%20with%20Adversarial%20Perturbations%20and%20Noisy%20Labels.pdf?sequence=1&isAllowed=y" target="_blank">Machine Learning with Adversarial Perturbations and Noisy Labels</a><br/>

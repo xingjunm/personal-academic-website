@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### 2021
+* A Mini ARC Analog Programme (MAAP) - Discovery Grant has been granted (Deakin University Internal Grant, Co-lead  CI).
 * 01/2021: Three papers were accepted to ICLR2021, two spotlight (top 4%) and one poster.
 * 01/2021: One paper on robustness testing of deep neural networks was accepted to ICSE2021.
 

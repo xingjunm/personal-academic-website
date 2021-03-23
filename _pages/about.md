@@ -121,7 +121,9 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 ---
 
 ### Grants
-Digitally-driven characterisation and design of fibre-reinforced composites, Mini ARC Analog Programme (MAAP), Deakin University, 110.8K ($25K + 1 PhD scholarship), 2021-2023
+* Digitally-driven characterisation and design of fibre-reinforced composites, Mini ARC Analog Programme (MAAP), Deakin University, 110.8K (25K + 1 PhD scholarship), 2021-2023
+
+---
 
 ### Contact:
 

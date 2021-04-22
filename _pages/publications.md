@@ -30,16 +30,16 @@ International Conference on Learning Representations (**ICLR**), Virtual, 2021.
 Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
 ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
 
+<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b> 
+<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
+**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
+Pattern Recognition (**PR**), 110, 2021, 107332.
+
 <b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
 <a href="https://arxiv.org/abs/2102.05913" target="_blank"> [Paper] </a>
 <a href="https://github.com/SmallkeyChen/RobOT" target="_blank"> [Testing Tookit] </a><br/>
 Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, Peng Cheng<br/>
 International Conference on Software Engineering (**ICSE**), Virtual, 2021.
-
-<b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b> 
-<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
-**Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (**PR**), 110, 2021, 107332.
 
 <b>Dual Head Adversarial Training</b>
 <a href=""> [Paper] </a><br/>
@@ -61,6 +61,11 @@ International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 Zichan Ruan, Shuiqiao Yang, Lei Pan, **Xingjun Ma**, Wei Luo and Marthie Grobler<br/>
 International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 
+<b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b> 
+<a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"> [Paper] </a><br/>
+Bridget Copson, Sudanthi Wijewickrema, **Xingjun Ma**, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
+European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
+
 <b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b> 
 <a href="https://arxiv.org/abs/2101.06898"> [Paper] </a><br/>
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
@@ -74,11 +79,6 @@ arXiv preprint. <a href="https://arxiv.org/abs/2101.06704">arXiv:2101.06704</a>,
 <b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> <br/>
 Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
 arXiv preprint. <a href="https://arxiv.org/abs/2012.06337">arXiv:2012.06337</a>, 2021.
-
-<b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b> 
-<a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"> [Paper] </a><br/>
-Bridget Copson, Sudanthi Wijewickrema, **Xingjun Ma**, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
-European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
 <b>A Lazy Approach for Efficient Index Learning</b> <br/>
 Guanli Liu, Lars Kulik, **Xingjun Ma**, Jianzhong Qi<br/>

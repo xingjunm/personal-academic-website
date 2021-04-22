@@ -64,32 +64,30 @@ International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 <b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b> 
 <a href="https://arxiv.org/abs/2101.06898"> [Paper] </a><br/>
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
-arXiv preprint.
+arXiv preprint. <a href="https://arxiv.org/abs/2101.06898">arXiv:2101.06898</a>, 2021.
 
 <b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b> 
 <a href="https://arxiv.org/abs/2101.06704"> [Paper] </a><br/>
 Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
-arXiv preprint.
+arXiv preprint. <a href="https://arxiv.org/abs/2101.06704">arXiv:2101.06704</a>, 2021.
 
-<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> 
-<a href="https://arxiv.org/abs/2012.06337" target="_blank"> [Paper] </a><br/>
+<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> <br/>
 Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint.
+arXiv preprint. <a href="https://arxiv.org/abs/2012.06337">arXiv:2012.06337</a>, 2021.
 
 <b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b> 
 <a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"> [Paper] </a><br/>
 Bridget Copson, Sudanthi Wijewickrema, **Xingjun Ma**, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
-<b>A Lazy Approach for Efficient Index Learning</b> 
-<a href="https://arxiv.org/abs/2102.08081"> [Paper] </a><br/>
+<b>A Lazy Approach for Efficient Index Learning</b> <br/>
 Guanli Liu, Lars Kulik, **Xingjun Ma**, Jianzhong Qi<br/>
-arXiv preprint.
+arXiv preprint. <a href="https://arxiv.org/abs/2102.08081">arXiv:2102.08081</a>, 2021.
 
-<b>Multi-class Classification Based Anomaly Detection of Insider Activities</b> 
-<a href="https://arxiv.org/abs/2102.07277"> [Paper] </a><br/>
+<b>Multi-class Classification Based Anomaly Detection of Insider Activities</b> <br/>
 R G Gayathri, Atul Sajjanhar, Yong Xiang, **Xingjun Ma**<br/>
-arXiv preprint.
+arXiv preprint. <a href="https://arxiv.org/abs/2102.07277">arXiv:2102.07277</a>, 2021.
+
 
 
 ### 2020

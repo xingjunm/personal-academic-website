@@ -53,7 +53,7 @@ International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 
 <b>Federated Learning with Extreme Label Skew: A Data Extension Approach</b> 
 <a href=""> [Paper] </a><br/>
-Saheed Tijani, **Xingjun Ma** and Frank Jiang<br/>
+Saheed Tijani, **Xingjun Ma**, Frank Jiang and Robin Doss<br/>
 International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 
 <b>Microwave Link Failures Prediction via LSTM-based Feature Fusion Network</b> 
@@ -66,13 +66,11 @@ International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 Bridget Copson, Sudanthi Wijewickrema, **Xingjun Ma**, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
-<b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b> 
-<a href="https://arxiv.org/abs/2101.06898"> [Paper] </a><br/>
+<b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b><br/>
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
 arXiv preprint. <a href="https://arxiv.org/abs/2101.06898">arXiv:2101.06898</a>, 2021.
 
-<b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b> 
-<a href="https://arxiv.org/abs/2101.06704"> [Paper] </a><br/>
+<b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b><br/>
 Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
 arXiv preprint. <a href="https://arxiv.org/abs/2101.06704">arXiv:2101.06704</a>, 2021.
 

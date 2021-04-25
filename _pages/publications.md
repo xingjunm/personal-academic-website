@@ -42,7 +42,8 @@ Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, P
 International Conference on Software Engineering (**ICSE**), Virtual, 2021.
 
 <b>Dual Head Adversarial Training</b>
-<a href=""> [Paper] </a><br/>
+<a href="https://arxiv.org/abs/2104.10377"> [Paper] </a> 
+<a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]<br/>
 Yujing Jiang, **Xingjun Ma**, Sarah Monazam Erfani and James Bailey<br/>
 International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 

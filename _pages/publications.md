@@ -26,29 +26,29 @@ Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, **Xingjun Ma**<br/>
 International Conference on Learning Representations (**ICLR**), Virtual, 2021.
 
 <b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness</b> 
-<a href="https://arxiv.org/abs/2006.13726" target="_blank"> [Paper] </a><br/>
+<a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"> [Paper] </a><br/>
 Linxi Jiang, **Xingjun Ma**, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
 ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
 
 <b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b> 
-<a href="https://arxiv.org/abs/1907.10456" target="_blank"> [Paper] </a><br/>
+<a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"> [Paper] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
 Pattern Recognition (**PR**), 110, 2021, 107332.
 
 <b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
-<a href="https://arxiv.org/abs/2102.05913" target="_blank"> [Paper] </a>
+<a href="https://arxiv.org/abs/2102.05913.pdf" target="_blank"> [Paper] </a>
 <a href="https://github.com/SmallkeyChen/RobOT" target="_blank"> [Testing Tookit] </a><br/>
 Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, Peng Cheng<br/>
 International Conference on Software Engineering (**ICSE**), Virtual, 2021.
 
 <b>Dual Head Adversarial Training</b>
-<a href="https://arxiv.org/abs/2104.10377"> [Paper] </a> 
+<a href="https://arxiv.org/abs/2104.10377.pdf"> [Paper] </a> 
 <a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]</a> <br/>
 Yujing Jiang, **Xingjun Ma**, Sarah Monazam Erfani and James Bailey<br/>
 International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 
 <b>Neural Architecture Search via Combinatorial Multi-Armed Bandit</b> 
-<a href="https://arxiv.org/abs/2101.00336"> [Paper] </a><br/>
+<a href="https://arxiv.org/abs/2101.00336.pdf"> [Paper] </a><br/>
 Hanxun Huang, **Xingjun Ma**, Sarah M. Erfani and James Bailey<br/>
 International Joint Conference on Neural Networks (**IJCNN**), Virtual 2021.
 
@@ -69,23 +69,23 @@ European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
 <b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b><br/>
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
-arXiv preprint. <a href="https://arxiv.org/abs/2101.06898">arXiv:2101.06898</a>, 2021.
+arXiv preprint. <a href="https://arxiv.org/abs/2101.06898.pdf">arXiv:2101.06898</a>, 2021.
 
 <b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b><br/>
 Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
-arXiv preprint. <a href="https://arxiv.org/abs/2101.06704">arXiv:2101.06704</a>, 2021.
+arXiv preprint. <a href="https://arxiv.org/abs/2101.06704.pdf">arXiv:2101.06704</a>, 2021.
 
 <b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> <br/>
 Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint. <a href="https://arxiv.org/abs/2012.06337">arXiv:2012.06337</a>, 2021.
+arXiv preprint. <a href="https://arxiv.org/abs/2012.06337.pdf">arXiv:2012.06337</a>, 2021.
 
 <b>A Lazy Approach for Efficient Index Learning</b> <br/>
 Guanli Liu, Lars Kulik, **Xingjun Ma**, Jianzhong Qi<br/>
-arXiv preprint. <a href="https://arxiv.org/abs/2102.08081">arXiv:2102.08081</a>, 2021.
+arXiv preprint. <a href="https://arxiv.org/abs/2102.08081.pdf">arXiv:2102.08081</a>, 2021.
 
 <b>Multi-class Classification Based Anomaly Detection of Insider Activities</b> <br/>
 R G Gayathri, Atul Sajjanhar, Yong Xiang, **Xingjun Ma**<br/>
-arXiv preprint. <a href="https://arxiv.org/abs/2102.07277">arXiv:2102.07277</a>, 2021.
+arXiv preprint. <a href="https://arxiv.org/abs/2102.07277.pdf">arXiv:2102.07277</a>, 2021.
 
 
 

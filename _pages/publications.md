@@ -33,7 +33,9 @@ ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
 <b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b> 
 <a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"> [Paper] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (**PR**), 110, 2021, 107332.
+Pattern Recognition (**PR**), 110, 2021, 107332.<br/>
+Press: <a href="https://www.rsipvision.com/ComputerVisionNews-2020October/4/" target="_blank"> Computer Vision News</a>
+
 
 <b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
 <a href="https://arxiv.org/abs/2102.05913.pdf" target="_blank"> [Paper] </a>
@@ -186,7 +188,7 @@ ACM International Conference on Multimedia (**ACM MM**), Nice, France, 2019.
 Ang Li, Jianzhong Qi, Rui Zhang, **Xingjun Ma**, Ramamohanarao Kotagiri<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), Macao, China, 2019.
 
-<b>Exploiting Patterns to Explain Individual Predictions</b> 
+<b>Exploiting Patterns to Explain Individual Predictions</b>
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/KAIS2019.pdf" target="_blank"> [Paper] </a><br/>
 Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, **Xingjun Ma**<br/>
 Knowledge and Information Systems (**KAIS**). (accepted in 2019)

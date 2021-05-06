@@ -13,7 +13,7 @@ To appear in International Joint Conference on Artificial Intelligence (**IJCAI*
 
 <b>Unlearnable Examples: Making Personal Data Unexploitable</b> 
 <a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"> [Paper] </a>
-<a href="https://github.com/HanxunH/Unlearnable-Examples" target="_blank"> [Code] </a><br/>
+<a href="https://github.com/HanxunH/Unlearnable-Examples" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/Unlearnable-Examples/" target="_blank"> [Project] </a><br/>
 Hanxun Huang, **Xingjun Ma**, Sarah Monazam Erfani, James Bailey, Yisen Wang<br/>
 International Conference on Learning Representations (**ICLR**), Virtual, 2021.(<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
 

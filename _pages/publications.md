@@ -16,6 +16,7 @@ To appear in International Joint Conference on Artificial Intelligence (**IJCAI*
 <a href="https://github.com/HanxunH/Unlearnable-Examples" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/Unlearnable-Examples/" target="_blank"> [Project] </a><br/>
 Hanxun Huang, **Xingjun Ma**, Sarah Monazam Erfani, James Bailey, Yisen Wang<br/>
 International Conference on Learning Representations (**ICLR**), Virtual, 2021.(<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
+Press: <a href="https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview" target="_blank">MIT Technology Review</a>
 
 <b>Improving Adversarial Robustness via Channel-wise Activation Suppressing</b>
 <a href="https://openreview.net/forum?id=zQTezqCCtNx" target="_blank"> [Paper] </a>

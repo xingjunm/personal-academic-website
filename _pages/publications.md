@@ -7,9 +7,13 @@ author_profile: true
 
 ### 2021
 
+<b>Sub-trajectory Similarity Join with Obfuscation</b> <br/>
+Yanchuan Chang, Jianzhong Qi, Egemen Tanin, **Xingjun Ma**, and Hanan Samet<br/>
+International Conference on Scientific and Statistical Database Management (**SSDBM**), Virtual, 2021.
+
 <b>Noise Doesn’t Lie: Towards Universal Deep Inpainting Detection</b> <br/>
 Ang Li, Qiuhong Ke, **Xingjun Ma**, Haiqin Weng, Zhiyuan Zong, Feng Xue, Rui Zhang<br/>
-To appear in International Joint Conference on Artificial Intelligence (**IJCAI**), Virtual/Montreal, 2021.
+International Joint Conference on Artificial Intelligence (**IJCAI**), Virtual/Montreal, 2021.
 
 <b>Unlearnable Examples: Making Personal Data Unexploitable</b> 
 <a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"> [Paper] </a>

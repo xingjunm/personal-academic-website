@@ -86,9 +86,17 @@ I are interested in the theory and applications of machine learning and deep lea
 ### Professional Activities:
 
 * Program Committee Member
-    * 2021: ICML, ICLR, NeurIPS, CVPR, ICCV, AAAI, SDM, ICDM, KDD
-    * 2020: ICML, ICLR, NeurIPS, CVPR, ECCV, AAAI, IJCAI
-    * 2019: KDD, NeurIPS
+    * ICML (2019-)
+    * ICLR (2019-) 
+    * NeurIPS (2019 -)
+    * CVPR (2020- ) 
+    * ICCV (2021-)
+    * ECCV (2020-)
+    * AAAI (2020- ) 
+    * IJCAI (2020-)
+    * KDD (2019- )
+    * ICDM (2021)
+    * SDM (2021)
 
 * Journal Reviewer
     * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>

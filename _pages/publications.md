@@ -7,10 +7,6 @@ author_profile: true
 
 ### 2021
 
-<b>Sub-trajectory Similarity Join with Obfuscation</b> <br/>
-Yanchuan Chang, Jianzhong Qi, Egemen Tanin, **Xingjun Ma**, and Hanan Samet<br/>
-International Conference on Scientific and Statistical Database Management (**SSDBM**), Virtual, 2021.
-
 <b>Noise Doesn’t Lie: Towards Universal Deep Inpainting Detection</b> <br/>
 Ang Li, Qiuhong Ke, **Xingjun Ma**, Haiqin Weng, Zhiyuan Zong, Feng Xue, Rui Zhang<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), Virtual/Montreal, 2021.
@@ -45,12 +41,15 @@ ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
 Pattern Recognition (**PR**), 110, 2021, 107332.<br/>
 Press: <a href="https://www.rsipvision.com/ComputerVisionNews-2020October/4/" target="_blank"> Computer Vision News</a>
 
-
 <b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b> 
 <a href="https://arxiv.org/abs/2102.05913.pdf" target="_blank"> [Paper] </a>
 <a href="https://github.com/SmallkeyChen/RobOT" target="_blank"> [Testing Tookit] </a><br/>
 Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, Peng Cheng<br/>
 International Conference on Software Engineering (**ICSE**), Virtual, 2021.
+
+<b>Sub-trajectory Similarity Join with Obfuscation</b> <br/>
+Yanchuan Chang, Jianzhong Qi, Egemen Tanin, **Xingjun Ma**, and Hanan Samet<br/>
+International Conference on Scientific and Statistical Database Management (**SSDBM**), Virtual, 2021.
 
 <b>Dual Head Adversarial Training</b>
 <a href="https://arxiv.org/abs/2104.10377.pdf"> [Paper] </a> 

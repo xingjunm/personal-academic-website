@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2021
 
-<b>Noise Doesn’t Lie: Towards Universal Deep Inpainting Detection</b> <br/>
+<b>Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting </b> <a href="https://arxiv.org/abs/2106.01532" target="_blank"> [Paper] </a><br/>
 Ang Li, Qiuhong Ke, **Xingjun Ma**, Haiqin Weng, Zhiyuan Zong, Feng Xue, Rui Zhang<br/>
 International Joint Conference on Artificial Intelligence (**IJCAI**), Virtual/Montreal, 2021.
 
@@ -47,7 +47,7 @@ Press: <a href="https://www.rsipvision.com/ComputerVisionNews-2020October/4/" ta
 Jingyi Wang, Jialuo Chen, Youcheng Sun, **Xingjun Ma**, Dongxia Wang, Jun Sun, Peng Cheng<br/>
 International Conference on Software Engineering (**ICSE**), Virtual, 2021.
 
-<b>Sub-trajectory Similarity Join with Obfuscation</b> <br/>
+<b>Sub-trajectory Similarity Join with Obfuscation</b> <a href="https://arxiv.org/abs/2106.03355" target="_blank"> [Paper] </a> <br/>
 Yanchuan Chang, Jianzhong Qi, Egemen Tanin, **Xingjun Ma**, and Hanan Samet<br/>
 International Conference on Scientific and Statistical Database Management (**SSDBM**), Virtual, 2021.
 
@@ -85,10 +85,6 @@ arXiv preprint. <a href="https://arxiv.org/abs/2101.06898.pdf">arXiv:2101.06898<
 Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
 arXiv preprint. <a href="https://arxiv.org/abs/2101.06704.pdf">arXiv:2101.06704</a>, 2021.
 
-<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> <br/>
-Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint. <a href="https://arxiv.org/abs/2012.06337.pdf">arXiv:2012.06337</a>, 2021.
-
 <b>A Lazy Approach for Efficient Index Learning</b> <br/>
 Guanli Liu, Lars Kulik, **Xingjun Ma**, Jianzhong Qi<br/>
 arXiv preprint. <a href="https://arxiv.org/abs/2102.08081.pdf">arXiv:2102.08081</a>, 2021.
@@ -97,7 +93,9 @@ arXiv preprint. <a href="https://arxiv.org/abs/2102.08081.pdf">arXiv:2102.08081<
 R G Gayathri, Atul Sajjanhar, Yong Xiang, **Xingjun Ma**<br/>
 arXiv preprint. <a href="https://arxiv.org/abs/2102.07277.pdf">arXiv:2102.07277</a>, 2021.
 
-
+<b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b> <br/>
+Lingjuan Lyu, Han Yu, **Xingjun Ma**, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
+arXiv preprint. <a href="https://arxiv.org/abs/2012.06337.pdf">arXiv:2012.06337</a>, 2021.
 
 ### 2020
 

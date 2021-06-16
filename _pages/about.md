@@ -42,7 +42,7 @@ I are interested in the theory and applications of machine learning and deep lea
 
 * AI Security & Applications
     * Image classification, image segmentation
-    * Object detection, visual object tracking, 
+    * Object detection, visual object tracking
     * Image inpainting, inpainting detection
     * Video understanding, deepfake detection
     * Medical image analysis, medical AI

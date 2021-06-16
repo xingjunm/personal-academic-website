@@ -29,21 +29,28 @@ I are interested in the theory and applications of machine learning and deep lea
 
 ---
 
-### Research Interests:
+### Research Areas:
 * Machine Learning
     * Adversarial machine learning
     * Weakly supervised learning
-    * Robust optimization
+    * Statistical machine learning
 
 * Deep Learning
-    * Information geometric understanding of deep neural networks
-    * Adversarial/Backdoor robustness of deep neural networks
-    * Deep generative models
-    * Applications: classification, segmentation, image inpainting, video understanding
+    * Adversarial robustness of DNNs
+    * Backdoor robustness of DNNs
+    * Deep learning theory
 
-* Artifical Intelligence
+* AI Security & Applications
+    * Image classification, image segmentation
+    * Object detection, visual object tracking, 
+    * Image inpainting, inpainting detection
+    * Video understanding, deepfake detection
+    * Medical image analysis, medical AI
+    * Natural languagge processing: sentiment analysis
+
+<!-- * Artifical Intelligence
     * Reliability and trustworthiness of medical AI systems
-    * Secutiry risks in human-robot interaction
+    * Secutiry risks in human-robot interaction -->
 
 <!-- * Machine Learning
   * Secure/Robust/Explainable machine learning
@@ -96,26 +103,32 @@ I are interested in the theory and applications of machine learning and deep lea
     * IJCAI: 2020, 2021
     * KDD: 2019, 2021
     * ICDM: 2021
+    * SDM: 2021
 
 * Journal Reviewer
-    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
+    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a>
     * <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing" target="_blank">
-IEEE Transactions on Image Processing</a>
+    IEEE Transactions on Image Processing (TIP)</a>
     * <a href="https://www.journals.elsevier.com/pattern-recognition" target="_blank">
-Pattern Recognition</a>
+    Pattern Recognition</a>
+    * <a href="https://www.jair.org/index.php/jair" target="_blank">
+    Journal of Artificial Intelligence Research (JAIR)</a>
     * <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank">
-IEEE Transactions on Neural Networks and Learning Systems</a>
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</a>
     * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
-IEEE Transactions on Knowledge and Data Engineering</a>
-
-    <!-- * <a href="https://dl.acm.org/journal/tomm" target="_blank">
-ACM Transactions on Multimedia Computing, Communications, and Applications</a> -->
-    <!-- * <a href="https://www.springer.com/journal/10115" target="_blank">
-Knowledge and Information Systems</a> -->
-    <!-- * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
-IEEE Transactions on Industrial Informatics</a> -->
-    <!-- * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
-IEEE Robotics and Automation Letters</a> -->
+IEEE Transactions on Knowledge and Data Engineering (TKDE)</a>
+    * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
+IEEE Transactions on Industrial Informatics (TII)</a>
+    * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206" target="_blank">
+Transactions on Information Forensics and Security (TIFS)</a>
+    * <a href="https://dl.acm.org/journal/tomm" target="_blank">
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</a>
+    * <a href="https://www.springer.com/journal/10115" target="_blank">
+Knowledge and Information Systems (KAIS)</a>
+    * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
+IEEE Robotics and Automation Letters (RA-L)</a>
+    * <a href="https://www.journals.elsevier.com/pattern-recognition-letters" target="_blank">
+Pattern Recognition Letters</a>
 
 <!--
 <span style="color:blue">
